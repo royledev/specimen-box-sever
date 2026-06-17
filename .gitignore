@@ -1,0 +1,44 @@
+.DS_Store
+*.log
+.env
+.dev.vars
+.idea/
+node_modules/
+dist/
+.wrangler/
+.npm-cache/
+
+# Python（画像生成パイプラインのバイトコードキャッシュ）
+__pycache__/
+*.pyc
+
+# 生成物（git には入れない。再生成 or R2/D1 が真実の源）
+# 標本画像プール（透過WebP）は R2 に置く。105MB級なので git には入れない
+webp/
+# 生成パイプラインの中間/出力ディレクトリ（pod・ローカルとも）
+out/
+png/
+test_webp/
+# 本番 seed（questions=gen-questions.mjs / images=gen-import-sql.mjs で再生成）は追跡しない。
+# フォルダ自体は seeds/prod/.gitkeep で残す。
+seeds/prod/*.sql
+# dev の images シードは生成物（gen-seed.mjs）。
+# ※ dev の questions シード（seeds/dev/questions.sql）は手書き＝追跡する（client 契約・seedIntegrity テスト対象）。
+seeds/dev/images.sql
+# ローカルE2E のダミー画像（gen-dummy-images.mjs が再生成）
+tools/dummy-images/
+# 旧名（移行前の生成物。残っていれば無視）
+import.sql
+tools/seed.local.sql
+
+# Claude Code 設定（個人/マシン固有・vault パス依存のため追跡しない）
+.claude/
+
+# CLAUDE.md（個人の Obsidian vault 構成に依存するローカル固有の指示書）
+CLAUDE.md
+
+# wrangler 設定の実体は環境固有（実ID入り）なので追跡しない。*.example のみ追跡する。
+#   ローカル: cp wrangler.jsonc.example wrangler.jsonc
+#   本番:     cp wrangler.prod.jsonc.example wrangler.prod.jsonc → 実IDに置換
+wrangler.jsonc
+wrangler.prod.jsonc

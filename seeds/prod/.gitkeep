@@ -1,0 +1,6 @@
+# 本番 seed フォルダを git に残すためのプレースホルダ。
+# questions.sql / images.sql は生成物（.gitignore 済み）。
+# 生成:
+#   node tools/gen-questions.mjs                          # → seeds/prod/questions.sql（1000問）
+#   node tools/generate/gen-import-sql.mjs manifest.json  # → seeds/prod/images.sql（本番画像）
+# 投入: npm run seed:prod（-c wrangler.prod.jsonc）

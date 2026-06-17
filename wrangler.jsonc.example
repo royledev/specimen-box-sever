@@ -1,0 +1,45 @@
+// wrangler 設定テンプレ【ローカル開発用】。
+// 使い方: cp wrangler.jsonc.example wrangler.jsonc  （wrangler.jsonc は .gitignore 済み）
+// `wrangler dev` / `npm run dev` は既定でこの wrangler.jsonc を読む。
+// 本番は wrangler.prod.jsonc.example を参照（ENVIRONMENT=production・実IDを入れる）。
+{
+  "name": "specimen-box-server",
+  "main": "src/index.ts",
+  "compatibility_date": "2026-01-01",
+
+  // --- 公開設定（機密でない既定値）---
+  "vars": {
+    // ローカルE2E では .dev.vars の IMAGE_CDN_BASE=http://localhost:8787/dev/img が上書きする
+    "IMAGE_CDN_BASE": "https://cdn.example.com",
+    "R2_BUCKET": "specimen-box-images",
+    "IMAGE_URL_TTL_SEC": "300",
+    // ローカルは development（creds 未設定でも presign フォールバックが効く）
+    "ENVIRONMENT": "development",
+    "RATE_LIMIT_MAX": "60",
+    "RATE_LIMIT_WINDOW_SEC": "60",
+    "ANSWERS_RATE_LIMIT_MAX": "10",
+    "ANSWERS_RATE_LIMIT_WINDOW_SEC": "60"
+  },
+
+  // --- D1（ローカルは placeholder のままで --local が動く）---
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "specimen-box-db",
+      "database_id": "local-dev-placeholder",
+      "migrations_dir": "migrations"
+    }
+  ],
+
+  // --- R2 ---
+  "r2_buckets": [
+    { "binding": "IMAGES", "bucket_name": "specimen-box-images" }
+  ],
+
+  // --- KV（レート制限カウンタ）---
+  "kv_namespaces": [
+    { "binding": "RATE_LIMIT", "id": "local-dev-placeholder-kv" }
+  ],
+
+  "observability": { "enabled": true }
+}

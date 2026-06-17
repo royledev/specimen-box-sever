@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "categories": [
+    "meaningless",
+    "sense",
+    "object",
+    "body",
+    "time",
+    "relation",
+    "place",
+    "impulse",
+    "sound"
+  ],
+  "questions": [
+    { "id": "q-meaningless-01", "text": "今日いちばん意味のなかった行動は？", "category": "meaningless", "weight": 1.0, "condition": null },
+    { "id": "q-object-01", "text": "今、手の届く範囲で一番安いものは？", "category": "object", "weight": 1.0, "condition": null },
+    { "id": "q-sound-01", "text": "今いちばんどうでもいい音は？", "category": "sound", "weight": 1.0, "condition": null },
+    { "id": "q-sense-01", "text": "今いちばんどうでもいい手ざわりは？", "category": "sense", "weight": 1.0, "condition": null },
+    { "id": "q-body-01", "text": "今いちばん力の抜けている部位は？", "category": "body", "weight": 1.0, "condition": null },
+    { "id": "q-time-01", "text": "今日いちばん短く感じた時間は？", "category": "time", "weight": 1.0, "condition": null },
+    { "id": "q-place-01", "text": "今いる場所でいちばん見られていない隅は？", "category": "place", "weight": 1.0, "condition": null },
+    { "id": "q-impulse-01", "text": "今いちばんどうでもいい衝動は？", "category": "impulse", "weight": 1.0, "condition": null },
+    { "id": "q-relation-01", "text": "今日いちばんどうでもよかった会話は？", "category": "relation", "weight": 1.0, "condition": null },
+    { "id": "q-meaningless-02", "text": "今日いちばん無駄に丁寧にやったことは？", "category": "meaningless", "weight": 1.0, "condition": null },
+    { "id": "q-time-midnight-01", "text": "こんな時間に起きている言い訳をひとつ。", "category": "time", "weight": 1.2, "condition": "midnightOnly" },
+    { "id": "q-meaningless-weekend-01", "text": "今週末、いちばん見事に何もしなかった瞬間は？", "category": "meaningless", "weight": 1.2, "condition": "weekendOnly" }
+  ],
+  "broadcast": []
+}

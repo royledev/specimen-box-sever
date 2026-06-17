@@ -1,0 +1,49 @@
+// wrangler 設定テンプレ【本番（Cloudflare）用】。
+// 使い方: cp wrangler.prod.jsonc.example wrangler.prod.jsonc して <...> を実IDに置換。
+//   wrangler.prod.jsonc は .gitignore 済み（実IDを git に入れない）。
+// デプロイ/リモート操作はこのファイルを -c で指定する:
+//   wrangler deploy -c wrangler.prod.jsonc                                  （= npm run deploy）
+//   wrangler d1 migrations apply specimen-box-db --remote -c wrangler.prod.jsonc
+//   wrangler d1 execute specimen-box-db --remote --file=import.sql -c wrangler.prod.jsonc
+// 機密は config に書かず `wrangler secret put <NAME>` で設定（同名 Worker に紐づく）:
+//   R2_ACCOUNT_ID / R2_ACCESS_KEY_ID / R2_SECRET_ACCESS_KEY（presign 必須）/ APP_API_KEY（任意）
+{
+  "name": "specimen-box-server",
+  "main": "src/index.ts",
+  "compatibility_date": "2026-01-01",
+
+  "vars": {
+    // 本番は presigned URL 配信のため IMAGE_CDN_BASE は未使用（creds があれば presign される）
+    "IMAGE_CDN_BASE": "https://cdn.example.com",
+    "R2_BUCKET": "specimen-box-images",
+    "IMAGE_URL_TTL_SEC": "300",
+    // 本番は production（creds 未設定なら起動時 FATAL = assertProdCreds）
+    "ENVIRONMENT": "production",
+    "RATE_LIMIT_MAX": "60",
+    "RATE_LIMIT_WINDOW_SEC": "60",
+    "ANSWERS_RATE_LIMIT_MAX": "10",
+    "ANSWERS_RATE_LIMIT_WINDOW_SEC": "60"
+  },
+
+  // --- D1（`wrangler d1 create specimen-box-db` の出力 database_id を入れる）---
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "specimen-box-db",
+      "database_id": "<PROD_D1_DATABASE_ID>",
+      "migrations_dir": "migrations"
+    }
+  ],
+
+  // --- R2（バケットは `wrangler r2 bucket create specimen-box-images`）---
+  "r2_buckets": [
+    { "binding": "IMAGES", "bucket_name": "specimen-box-images" }
+  ],
+
+  // --- KV（`wrangler kv namespace create RATE_LIMIT` の出力 id を入れる）---
+  "kv_namespaces": [
+    { "binding": "RATE_LIMIT", "id": "<PROD_KV_NAMESPACE_ID>" }
+  ],
+
+  "observability": { "enabled": true }
+}

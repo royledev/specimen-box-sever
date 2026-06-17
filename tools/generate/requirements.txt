@@ -1,0 +1,14 @@
+# 標本プール生成パイプライン（レンタルGPU・SDXL / ADR-0003・ADR-0009・ADR-0011）。
+# RunPod の PyTorch テンプレートに追加で入れる依存。
+diffusers>=0.31
+transformers>=4.44
+accelerate>=0.34
+safetensors>=0.4
+sentencepiece
+protobuf
+pillow>=10.4
+imagehash>=4.3
+numpy>=1.26   # imagehash の依存（pHash 近似重複排除）＋ remove_bg.py の穴埋め
+scipy>=1.11   # remove_bg.py の穴埋め/膨張（binary_fill_holes・binary_dilation）。imagehash 経由でも入る
+rembg>=2.0    # remove_bg.py: 白背景の透過化（深層マッティング）
+onnxruntime-gpu>=1.21   # rembg の推論を GPU(CUDA) で実行。Blackwell(RTX PRO 6000/sm_120) は CUDA 12.8・cuDNN9 対応ビルドが必須（>=1.21）。CPUのみ環境は onnxruntime に置換。

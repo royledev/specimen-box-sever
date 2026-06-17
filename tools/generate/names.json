@@ -1,0 +1,4002 @@
+[
+  {
+    "name": "怒った扇風機",
+    "prompt_en": "an electric fan with a furious scowling face and gritted teeth, blades spinning hard, puffs of steam shooting from its sides, a throbbing manga anger-vein symbol, sharp motion lines"
+  },
+  {
+    "name": "多分世界一アホな石",
+    "prompt_en": "a plain gray rock with a goofy clueless cross-eyed derpy face, tongue lolling out, a single dim lightbulb flickering weakly above, a tiny question mark, blank vacant grin"
+  },
+  {
+    "name": "胡椒が故障",
+    "prompt_en": "a pepper shaker with a panicked glitchy face, lid popped, sputtering an uneven burst of pepper, tiny error sparks and smoke puffs, jittery motion lines"
+  },
+  {
+    "name": "静かに食べるマウス",
+    "prompt_en": "a computer mouse with a calm content closed-eye face quietly nibbling a sneaker, tiny crumb bits, a small satisfied sigh puff"
+  },
+  {
+    "name": "泣いているトースター",
+    "prompt_en": "a toaster with a quivering teary face, big shiny tears streaming, a single sad burnt toast slumping out, a tiny blue gloom aura"
+  },
+  {
+    "name": "瞑想する傘",
+    "prompt_en": "a closed umbrella sitting cross-legged in a serene meditative pose, eyes gently shut, a calm halo of tiny floating sparkles, peaceful soft expression"
+  },
+  {
+    "name": "自転車に乗ったホッチキス",
+    "prompt_en": "a stapler with a cheerful determined face pedaling a tiny bicycle, wobbling, sweat drop, brisk motion lines and a little dust puff"
+  },
+  {
+    "name": "パーティ帽をかぶったやかん",
+    "prompt_en": "a kettle wearing a small pointy party hat with a bright excited grin, gently steaming, tiny confetti and sparkle bits floating around"
+  },
+  {
+    "name": "溶けかけたデスクランプ",
+    "prompt_en": "a desk lamp drooping and slowly melting like wax with a woozy dazed face, sweat drops, sagging motion lines"
+  },
+  {
+    "name": "足が生えたスニーカー",
+    "prompt_en": "a sneaker that has sprouted two tiny legs, walking off with a surprised proud face, small motion lines and a sparkle of newness"
+  },
+  {
+    "name": "昼寝中の目覚まし時計",
+    "prompt_en": "an alarm clock peacefully napping with a tiny sleeping cap, closed eyes, a floating sleep bubble and a small zzz spiral"
+  },
+  {
+    "name": "くしゃみするヘッドホン",
+    "prompt_en": "a pair of headphones mid-sneeze with a scrunched face, a burst of air puffs, watery eyes, sharp motion lines"
+  },
+  {
+    "name": "バレエを踊る電球",
+    "prompt_en": "a light bulb dancing ballet on tiptoe with a graceful blissful face, glowing softly, twirling motion lines and tiny sparkles"
+  },
+  {
+    "name": "風船を持ったティーポット",
+    "prompt_en": "a teapot with a gentle happy face holding a balloon by a string, light steam, a couple of floating sparkles"
+  },
+  {
+    "name": "照れたはさみ",
+    "prompt_en": "a pair of scissors blushing shyly with rosy cheeks and a bashful smile, looking away, tiny floating heart and sweat drop"
+  },
+  {
+    "name": "ヒーローポーズのリモコン",
+    "prompt_en": "a tv remote striking a triumphant superhero pose, chest out and one end raised like a fist, confident grin, a small sparkle and motion burst lines"
+  },
+  {
+    "name": "メガネをかけた電卓",
+    "prompt_en": "a pocket calculator wearing round reading glasses with a studious smart expression, a tiny floating equals sign and sparkle of insight"
+  },
+  {
+    "name": "抱きしめるサボテン",
+    "prompt_en": "a potted cactus hugging a friend tightly despite its spines, teary touched face, floating hearts, a tiny wince sweat drop"
+  },
+  {
+    "name": "やる気のないコンセント",
+    "prompt_en": "a wall socket slouching with a bored half-lidded unmotivated face, a deflated sigh puff, droopy motion lines"
+  },
+  {
+    "name": "ジャグリングするマグカップ",
+    "prompt_en": "a mug with a focused excited face juggling several sugar cubes, sweat drop, looping motion lines around the cubes"
+  },
+  {
+    "name": "紐に絡まった掃除機",
+    "prompt_en": "a vacuum cleaner hopelessly tangled in its own cord with a flustered helpless face, sweat drops, struggling motion lines"
+  },
+  {
+    "name": "風船のように浮かぶ電子レンジ",
+    "prompt_en": "a microwave floating up in the air like a balloon with a surprised wide-eyed face, tiny upward motion lines and a sweat drop"
+  },
+  {
+    "name": "物思いにふけるレコード",
+    "prompt_en": "a vinyl record gazing into the distance deep in thought, chin-resting pensive face, a small floating thought bubble"
+  },
+  {
+    "name": "緊張しすぎた画びょう",
+    "prompt_en": "a thumbtack trembling with extreme nervousness, wide panicked eyes, several big sweat drops, shaky motion lines"
+  },
+  {
+    "name": "二日酔いのフロッピーディスク",
+    "prompt_en": "a floppy disk with a queasy green hungover face, swirly dizzy eyes, a throbbing headache symbol above"
+  },
+  {
+    "name": "自分に見とれる手鏡",
+    "prompt_en": "a hand mirror gazing at its own reflection with a vain self-loving face, floating hearts and a smug sparkle"
+  },
+  {
+    "name": "遅刻しそうな腕時計",
+    "prompt_en": "a wristwatch running frantically with a panicked face, hands spinning fast, big sweat drops and rushing motion lines"
+  },
+  {
+    "name": "誇らしげなアヒルのおもちゃ",
+    "prompt_en": "a rubber duck puffing its chest in a proud confident pose, beaming smug grin, a small sparkle and tiny shine"
+  },
+  {
+    "name": "途方に暮れたカラーコーン",
+    "prompt_en": "a lonely traffic cone with a lost bewildered face, slumped, a single sweat drop and a floating question mark"
+  },
+  {
+    "name": "歯を磨く電動歯ブラシ",
+    "prompt_en": "an electric toothbrush diligently brushing its own tiny teeth, sparkly clean grin, foam bubbles and a shine sparkle"
+  },
+  {
+    "name": "哲学するジャガイモ",
+    "prompt_en": "a potato sitting and stroking an imaginary beard with a deep thoughtful frown, a floating thought bubble and tiny question mark"
+  },
+  {
+    "name": "履歴書を書く消しゴム",
+    "prompt_en": "an eraser hunched at a tiny desk earnestly writing a resume, focused face, sweat drop and a small lamp glow"
+  },
+  {
+    "name": "情緒不安定な信号機",
+    "prompt_en": "a traffic light with wildly mixed emotions, one eye crying one eye angry, lights flickering chaotically, sweat drops and an anger-vein symbol"
+  },
+  {
+    "name": "猫アレルギーの猫",
+    "prompt_en": "a cat sneezing miserably with red watery eyes and a runny nose, allergic to itself, tissue nearby, sneeze motion puffs"
+  },
+  {
+    "name": "プライドだけ高い豆腐",
+    "prompt_en": "a block of tofu tilting back with an arrogant haughty face, nose in the air, a smug sparkle, looking down its nose"
+  },
+  {
+    "name": "迷子のUSBメモリ",
+    "prompt_en": "a usb stick standing at a crossroads holding a tiny crumpled map, lost worried face, a floating question mark and sweat drop"
+  },
+  {
+    "name": "燃え尽きたマッチ",
+    "prompt_en": "a burnt-out match slumped over with a hollow exhausted empty-eyed face, faint wisp of smoke, drooping posture"
+  },
+  {
+    "name": "やたら自信のある豆",
+    "prompt_en": "a single bean standing tall with an overflowing confident grin, hands on hips, a bright sparkle and a tiny shine glint"
+  },
+  {
+    "name": "正座で謝るスマートフォン",
+    "prompt_en": "a smartphone kneeling formally in a deep apology bow, forehead down, big sweat drops and a remorseful gloom aura"
+  },
+  {
+    "name": "ダイエットに失敗した鏡餅",
+    "prompt_en": "a stacked round rice cake with a guilty sheepish face, belly bulging, sweat drop, a snapped tiny diet chart beside it"
+  },
+  {
+    "name": "妙に達観した茄子",
+    "prompt_en": "an eggplant with a strangely enlightened serene half-smile, eyes calmly closed, a faint peaceful glow and floating sparkle"
+  },
+  {
+    "name": "シュレッダーに恋した書類",
+    "prompt_en": "a sheet of paper gazing lovingly at a paper shredder with heart-shaped eyes, floating hearts, a bashful blush"
+  },
+  {
+    "name": "ガス欠のロボット",
+    "prompt_en": "a small robot slumping forward out of power with a dim low-battery face, flickering eyes, a fading empty-gauge symbol"
+  },
+  {
+    "name": "全力でサボる時計",
+    "prompt_en": "a wall clock deliberately slacking with a smug lazy grin, hands drooping limp, lounging back, a tiny whistle puff"
+  },
+  {
+    "name": "情熱的なホースの水やり",
+    "prompt_en": "a garden hose passionately blasting water onto one tiny flower with an intense fiery-eyed face, dramatic spray, sparkle drops"
+  },
+  {
+    "name": "おびえる電池",
+    "prompt_en": "a battery cowering and shaking with a terrified wide-eyed face, big sweat drops, trembling motion lines"
+  },
+  {
+    "name": "得意げなトイレットペーパー",
+    "prompt_en": "a roll of toilet paper posing smugly with a proud grin, partly unrolled like a flourish, a confident sparkle"
+  },
+  {
+    "name": "渋滞にイラつくカタツムリ",
+    "prompt_en": "a snail stuck behind a line of cars with a fuming impatient face, gritted teeth, an anger-vein symbol and frustration steam puffs"
+  },
+  {
+    "name": "孤独なソックス",
+    "prompt_en": "a single sock sitting alone with a melancholic teary face, a faint blue gloom aura, gazing at an empty spot beside it"
+  },
+  {
+    "name": "やけに偉そうな目玉焼き",
+    "prompt_en": "a fried egg sitting with a pompous self-important face, smug grin, nose up, a tiny crown-less proud sparkle"
+  },
+  {
+    "name": "瞑想に失敗したカエル",
+    "prompt_en": "a frog trying to meditate cross-legged but visibly twitching and distracted, one eye peeking, sweat drop and wobble lines"
+  },
+  {
+    "name": "情報過多のスポンジ",
+    "prompt_en": "a kitchen sponge overwhelmed and overloaded, bulging and dripping, dizzy swirly eyes, floating clutter symbols and sweat drops"
+  },
+  {
+    "name": "反抗期のブロッコリー",
+    "prompt_en": "a broccoli with a rebellious teenage scowl and crossed arms, pouting, an annoyed anger-vein symbol"
+  },
+  {
+    "name": "過労のコピー機",
+    "prompt_en": "a photocopier overworked and exhausted, papers spilling everywhere, droopy tired eyes, sweat drops and steam of fatigue"
+  },
+  {
+    "name": "見栄を張る乾電池",
+    "prompt_en": "a dry-cell battery flexing nonexistent muscles with a boastful grin, puffed chest, a tiny shine sparkle"
+  },
+  {
+    "name": "夢見がちなクッション",
+    "prompt_en": "a soft cushion daydreaming with sparkly starry eyes and a dreamy smile, floating dream bubbles"
+  },
+  {
+    "name": "遠慮しすぎたエレベーター",
+    "prompt_en": "an elevator bowing overly politely as its doors open, sweat drop and an awkward apologetic smile"
+  },
+  {
+    "name": "ふてくされた郵便ポスト",
+    "prompt_en": "a mailbox sulking with a grumpy pouting face, cheeks puffed, turned slightly away, an annoyed little cloud above"
+  },
+  {
+    "name": "勝手に進化した消火器",
+    "prompt_en": "a fire extinguisher that has weirdly sprouted extra arms, posing proudly with a confident grin, a surprised sparkle and tiny evolution glow"
+  },
+  {
+    "name": "踊り出す洗濯バサミ",
+    "prompt_en": "a clothespin breaking into a joyful dance with a cheerful grin, hopping, swirly motion lines and music-note-free sparkles"
+  },
+  {
+    "name": "悟りを開いた便座",
+    "prompt_en": "a toilet seat sitting serenely in a glowing enlightened state, blissful closed-eye smile, a soft halo of floating sparkles"
+  },
+  {
+    "name": "緊急事態の付箋",
+    "prompt_en": "a sticky note in a panic waving its corners like alarm flags, frantic wide eyes, big sweat drops and alert motion lines"
+  },
+  {
+    "name": "意識高い系の石鹸",
+    "prompt_en": "a bar of soap posing as a trendy self-improvement influencer with a smug confident smile, a sparkle and a tiny clean shine"
+  },
+  {
+    "name": "ひとり反省会の鉛筆",
+    "prompt_en": "a worn pencil sitting alone in gloomy self-reflection, slumped with a regretful face, a small rain-cloud of gloom above"
+  },
+  {
+    "name": "デート前のアイロン",
+    "prompt_en": "an iron nervously grooming itself before a date, blushing excited face, gentle steam, floating hearts and a sweat drop"
+  },
+  {
+    "name": "存在を疑う消しカス",
+    "prompt_en": "a tiny eraser shaving having an existential crisis, hollow staring face, a faint fading outline and a floating question mark"
+  },
+  {
+    "name": "勝者の風格のヤカン",
+    "prompt_en": "a kettle standing on a podium with the dignified pose of a champion, proud confident face, triumphant steam and a shine sparkle"
+  },
+  {
+    "name": "湯気で会話するお椀",
+    "prompt_en": "a soup bowl chatting through speech bubbles made of rising steam, warm friendly face, cozy steam swirls"
+  },
+  {
+    "name": "筋トレ中のクリップ",
+    "prompt_en": "a paper clip doing push-ups with a strained determined face, flexing, sweat drops and effort motion lines"
+  },
+  {
+    "name": "完全に油断したチーズ",
+    "prompt_en": "a wedge of cheese completely off guard, dozing with a silly relaxed grin and a snot bubble, a sleepy zzz"
+  },
+  {
+    "name": "妙に律儀な雑草",
+    "prompt_en": "a small weed standing oddly upright and dutiful like a tiny soldier, earnest serious face, a sparkle of sincerity"
+  },
+  {
+    "name": "降参するパラソル",
+    "prompt_en": "a beach parasol raising a tiny white flag of surrender with a defeated nervous face, sweat drop and droopy posture"
+  },
+  {
+    "name": "宇宙を語るどんぐり",
+    "prompt_en": "an acorn passionately lecturing about the universe with a wide-eyed excited face, a tiny chalkboard of swirls, floating star sparkles"
+  },
+  {
+    "name": "情緒たっぷりの蛇口",
+    "prompt_en": "a faucet weeping dramatically with overflowing emotion, gushing teary eyes, a flood of tears and a sentimental gloom aura"
+  },
+  {
+    "name": "気合の入りすぎた付け爪",
+    "prompt_en": "a press-on nail pumped up with excessive fighting spirit, fierce determined face, an anger-vein of zeal and burst motion lines"
+  },
+  {
+    "name": "迷走する方位磁石",
+    "prompt_en": "a compass spinning chaotically with a dizzy confused face, swirly eyes, a floating question mark and wobble lines"
+  },
+  {
+    "name": "ご機嫌なホットケーキ",
+    "prompt_en": "a stack of pancakes in a cheerful good mood, syrup dripping like a happy smile, blissful face and a warm shine sparkle"
+  },
+  {
+    "name": "プレッシャーに弱い豆電球",
+    "prompt_en": "a tiny light bulb flickering anxiously under pressure, nervous sweating face, faint trembling glow and a sweat drop"
+  },
+  {
+    "name": "達成感のある空き缶",
+    "prompt_en": "a crushed empty can looking oddly fulfilled and accomplished, satisfied closed-eye smile, a tiny triumphant sparkle"
+  },
+  {
+    "name": "意外と涙もろいハンマー",
+    "prompt_en": "a hammer surprisingly tearful and sentimental, sniffling with big watery eyes, a couple of falling tears"
+  },
+  {
+    "name": "現実逃避するカレンダー",
+    "prompt_en": "a wall calendar escaping reality, pages flying off into a dreamy daze, glazed faraway eyes and floating dream bubbles"
+  },
+  {
+    "name": "やる気MAXの輪ゴム",
+    "prompt_en": "a rubber band stretched taut to the limit, brimming with fiery motivation, intense determined grin, burst motion lines and a spark"
+  },
+  {
+    "name": "哀愁ただようコロッケ",
+    "prompt_en": "a croquette radiating a lonely wistful melancholy, gazing down with a soft sad face, a faint blue gloom aura"
+  },
+  {
+    "name": "自意識過剰なボタン",
+    "prompt_en": "a shirt button overly self-conscious, fidgeting and blushing under imagined attention, sweat drop and nervous wobble lines"
+  },
+  {
+    "name": "全力疾走するカメ",
+    "prompt_en": "a turtle sprinting at full speed with an intense fierce face, tiny legs blurring, big effort motion lines and a dust puff"
+  },
+  {
+    "name": "貫禄たっぷりのおにぎり",
+    "prompt_en": "a rice ball with a dignified commanding presence like a wise boss, stern confident face, arms crossed, an imposing aura"
+  },
+  {
+    "name": "情け深いシュレッダー",
+    "prompt_en": "a paper shredder hesitating mercifully, unable to shred a child's cute crayon drawing, teary touched face and a soft glow"
+  },
+  {
+    "name": "雨に打たれる絆創膏",
+    "prompt_en": "an adhesive bandage standing forlorn in the rain with a dejected drooping face, rain streaks and a gloomy puddle"
+  },
+  {
+    "name": "テンション高めのフォーク",
+    "prompt_en": "a fork bursting with hyperactive excited energy, huge grin and sparkly eyes, bouncing, energetic motion lines"
+  },
+  {
+    "name": "妙に冷静な火災報知器",
+    "prompt_en": "a fire alarm staying eerily calm and composed amid chaos, flat deadpan face, a single bead of sweat, faint smoke around"
+  },
+  {
+    "name": "夜更かしする目薬",
+    "prompt_en": "a bottle of eye drops staying up too late with heavy dark eye bags, droopy tired eyes and a sleepy zzz"
+  },
+  {
+    "name": "風格のある雑巾",
+    "prompt_en": "a worn cleaning rag carrying itself with surprising nobility, proud dignified face, a faint regal shine despite being tattered"
+  },
+  {
+    "name": "情緒不安定なスノードーム",
+    "prompt_en": "a snow globe with rapid mood swings, the snow swirling violently then calm, a half-crying half-laughing face inside"
+  },
+  {
+    "name": "意外と理屈っぽい綿あめ",
+    "prompt_en": "a fluff of cotton candy arguing logically with a raised pointing stick and a know-it-all face, a tiny lecture sparkle"
+  },
+  {
+    "name": "全部知ってる顔のカブ",
+    "prompt_en": "a turnip with a smug know-it-all expression, half-lidded confident eyes and a tiny knowing smirk, a shine glint"
+  },
+  {
+    "name": "緊張で固まったゼリー",
+    "prompt_en": "a wobbly jelly frozen stiff with nervousness, wide rigid eyes, big sweat drops and tense little tremor lines"
+  },
+  {
+    "name": "覚悟を決めたティッシュ",
+    "prompt_en": "a single tissue steeling itself with a grim resolute face, furrowed brow, a determined sparkle and a brave gust"
+  },
+  {
+    "name": "夢を諦めない歯ブラシ",
+    "prompt_en": "an old worn toothbrush refusing to give up on its dreams, teary determined face looking up, a hopeful star sparkle above"
+  },
+  {
+    "name": "気品あふれるタワシ",
+    "prompt_en": "a scrubbing brush exuding unexpected elegance and grace, refined posture and a graceful smile, floating elegant sparkles"
+  },
+  {
+    "name": "情報を盛りすぎた名刺",
+    "prompt_en": "a business card overcrowded and overwhelmed by too much packed information, dizzy swirly eyes and a flustered sweat drop"
+  },
+  {
+    "name": "確定申告に追われるタコ",
+    "prompt_en": "an octopus with a panicked sweating wide-eyed face, all eight arms frantically stamping and shuffling a towering messy pile of tax forms, papers flying, busy motion lines and sweat drops"
+  },
+  {
+    "name": "家賃を3ヶ月滞納している妖精",
+    "prompt_en": "a tiny fairy hiding behind a mushroom with a guilty nervous face, peeking at an overdue bill nailed to a door, big sweat drops and a gloom aura"
+  },
+  {
+    "name": "退職代行を使った蛇口",
+    "prompt_en": "a faucet with a relieved exhausted half-smile handing a folded resignation letter to a floating clipboard, a sweat drop and a relieved sigh puff"
+  },
+  {
+    "name": "副業がバレた仏像",
+    "prompt_en": "a stone buddha statue sweating with a caught-red-handed guilty face, a tiny side-job apron half hidden behind it, shocked motion lines"
+  },
+  {
+    "name": "経費で落とそうとする猫",
+    "prompt_en": "a cat slyly sliding a receipt into an expense folder with a sneaky grin and shifty eyes, a tiny mischief sparkle"
+  },
+  {
+    "name": "内定を蹴った大根",
+    "prompt_en": "a daikon radish proudly tearing a job-offer letter in half with a confident smug grin, torn paper bits flying, a bold sparkle"
+  },
+  {
+    "name": "監査が入ったサンタ",
+    "prompt_en": "a chubby gift-wrapped present box with a santa hat sweating nervously beside a stern floating clipboard and a huge gift ledger, big sweat drops and a tense gloom"
+  },
+  {
+    "name": "源泉徴収されたミミズ",
+    "prompt_en": "an earthworm staring in despair at a paycheck slashed by tax deductions, teary droopy face and a blue gloom aura"
+  },
+  {
+    "name": "ローン審査に落ちた雲",
+    "prompt_en": "a cloud slumping in dejection holding a rejected loan application stamped denied, teary face and a small sad drizzle below"
+  },
+  {
+    "name": "ボーナスを溶かしたペンギン",
+    "prompt_en": "a penguin in shock beside a melting puddle of coins on the ice, jaw-dropped face, swirly despair eyes and sweat drops"
+  },
+  {
+    "name": "残業代を請求する亀",
+    "prompt_en": "a turtle wearily holding up an overtime invoice at a tiny desk, exhausted droopy eyes, a flickering desk lamp and a sigh puff"
+  },
+  {
+    "name": "確定拠出年金に詳しいナメクジ",
+    "prompt_en": "a slug pointing at a pension growth chart with a surprisingly expert confident face, a tiny pointer stick and a smart sparkle"
+  },
+  {
+    "name": "退職金を全部ガチャに使った侍",
+    "prompt_en": "a rice ball with a tiny topknot and a small katana staring blankly in horror at an empty wallet beside a capsule-toy machine, hollow shocked eyes and a sweat drop"
+  },
+  {
+    "name": "営業ノルマに潰される苔",
+    "prompt_en": "a patch of moss flattened under a heavy giant sales-quota chart, squished strained face and a tiny help sweat drop"
+  },
+  {
+    "name": "脱サラして畑を始めた信号機",
+    "prompt_en": "a traffic light wearing a straw hat happily tending a small vegetable field, relaxed content smile and a warm sunny sparkle"
+  },
+  {
+    "name": "印鑑を忘れて出直すカエル",
+    "prompt_en": "a frog trudging back home with a dejected sighing face after forgetting its name stamp, a gloom cloud and droopy motion lines"
+  },
+  {
+    "name": "副業で占い師をする冷蔵庫",
+    "prompt_en": "a refrigerator wearing a fortune-teller turban gazing into a crystal ball with a mysterious face, sparkly mystic glow"
+  },
+  {
+    "name": "クビを宣告された置き時計",
+    "prompt_en": "a desk clock receiving a pink slip with a stunned jaw-dropped face, cracked shock lines and a single sweat drop"
+  },
+  {
+    "name": "出世コースを外れた付箋",
+    "prompt_en": "a sticky note sighing as it watches other notes rise on a promotion chart, a wistful droopy face and a small gloom aura"
+  },
+  {
+    "name": "確定申告書類を食べたヤギ",
+    "prompt_en": "a goat guiltily chewing a stack of tax documents, paper sticking from its mouth, shifty eyes and a sweat drop"
+  },
+  {
+    "name": "ストレスで胃に穴が空いた財布",
+    "prompt_en": "a worn wallet clutching its belly with a pained stressed face, a throbbing pain symbol and sweat drops"
+  },
+  {
+    "name": "資産運用に失敗したどんぐり",
+    "prompt_en": "an acorn staring at a crashing red stock chart in despair, hollow shocked eyes, sweat drops and a falling-arrow symbol"
+  },
+  {
+    "name": "労働基準法を熟読する豆",
+    "prompt_en": "a single bean intently reading a thick labor-law book with a serious focused face, reading glasses and a determined sparkle"
+  },
+  {
+    "name": "賃上げ交渉中のモップ",
+    "prompt_en": "a mop standing firm at a negotiation table with a resolute demanding face, holding a tiny raise sign, a confident anger-vein"
+  },
+  {
+    "name": "確定申告を後回しにする鏡",
+    "prompt_en": "a hand mirror nervously looking away from a looming pile of tax forms, whistling innocently, sweat drop and avoidance motion lines"
+  },
+  {
+    "name": "退職願を握りしめるホチキス",
+    "prompt_en": "a stapler trembling while clutching a resignation envelope to its chest, anxious determined face and big sweat drops"
+  },
+  {
+    "name": "ふるさと納税にハマった石",
+    "prompt_en": "a rock grinning gleefully surrounded by regional gift boxes, sparkly excited eyes and floating happy sparkles"
+  },
+  {
+    "name": "社会保険料で泣く目覚まし",
+    "prompt_en": "an alarm clock weeping over a deduction-filled pay stub, streaming tears, droopy face and a blue gloom aura"
+  },
+  {
+    "name": "起業して即倒産した消しゴム",
+    "prompt_en": "an eraser standing before a tiny shuttered shop with a defeated hollow face, a gloom cloud and a single sweat drop"
+  },
+  {
+    "name": "経理に怒られるレシート",
+    "prompt_en": "a crumpled receipt cowering before a stern frowning abacus, shrinking with a scared face and sweat drops"
+  },
+  {
+    "name": "ボーナス査定で号泣する扇風機",
+    "prompt_en": "an electric fan bawling loudly over a disappointing review sheet, gushing tears, scrunched face and a gloom aura"
+  },
+  {
+    "name": "確定申告を電卓に丸投げした人参",
+    "prompt_en": "a carrot relaxing with a relieved grin while a calculator busily crunches its taxes, a content sigh puff and tiny sparkles"
+  },
+  {
+    "name": "在宅勤務に慣れすぎた靴",
+    "prompt_en": "a shoe lounging in pajamas too comfy to go outside, lazy half-lidded face, a cozy sleepy aura and a yawn puff"
+  },
+  {
+    "name": "労災を申請するハンマー",
+    "prompt_en": "a hammer with a bandaged head and an arm sling filing a workplace-injury claim, pained but determined face and a sweat drop"
+  },
+  {
+    "name": "副業がメインになった仏壇",
+    "prompt_en": "a small home altar juggling a side hustle that took over, frazzled overwhelmed face, sweat drops and busy motion lines"
+  },
+  {
+    "name": "退職代行に断られた幽霊",
+    "prompt_en": "a sheepish translucent ghost rejected by a resignation agency, holding a phone with a let-down face and a gloom aura"
+  },
+  {
+    "name": "節税対策に詳しすぎる地蔵",
+    "prompt_en": "a roadside jizo statue lecturing on tax loopholes with a sly confident grin and a tiny pointer, a knowing sparkle"
+  },
+  {
+    "name": "出張費を水増しするカニ",
+    "prompt_en": "a crab sneakily padding a travel-expense claim with a guilty grin and shifty side-eyes, a tiny mischief sweat drop"
+  },
+  {
+    "name": "成果主義に疲れたカタツムリ",
+    "prompt_en": "a snail utterly exhausted under a glowing performance-metrics dashboard, droopy dead eyes and a heavy sigh puff"
+  },
+  {
+    "name": "確定申告を3年ためた熊",
+    "prompt_en": "a bear buried under three years of unfiled tax paperwork, only its overwhelmed face poking out, sweat drops and clutter symbols"
+  },
+  {
+    "name": "サブスク貧乏の財布",
+    "prompt_en": "a thin wallet drowning under a tall stack of subscription bills, gasping desperate face and a tiny help sweat drop"
+  },
+  {
+    "name": "面接で逆質問しすぎた豆腐",
+    "prompt_en": "a block of tofu at an interview firing eager questions at a row of stern clipboards, an intense face and floating question marks"
+  },
+  {
+    "name": "確定申告アプリに弾かれた龍",
+    "prompt_en": "a majestic dragon glaring in frustration at an error popup on a tax app, an anger-vein symbol and a tiny puff of smoke"
+  },
+  {
+    "name": "終身雇用を信じてる招き猫",
+    "prompt_en": "a lucky cat figurine clinging hopefully to a lifetime-employment sign with naive sparkly eyes and a trusting smile"
+  },
+  {
+    "name": "経費精算でキレた湯のみ",
+    "prompt_en": "a teacup furiously slamming an expense report on a desk, red angry face, an anger-vein symbol and impact burst lines"
+  },
+  {
+    "name": "宝くじに全財産をかけた傘",
+    "prompt_en": "an umbrella nervously clutching a fistful of lottery tickets with hopeful sweaty eyes, big sweat drops and a praying pose"
+  },
+  {
+    "name": "リストラ候補の招き猫",
+    "prompt_en": "a beckoning cat figurine sweating beside an ominous downsizing list, forced nervous smile and big sweat drops"
+  },
+  {
+    "name": "確定申告を税理士に泣きついた蛙",
+    "prompt_en": "a frog tearfully clinging to a tax-accountant owl for help, gushing tears and a desperate clinging pose"
+  },
+  {
+    "name": "退職後に趣味を探す掃除機",
+    "prompt_en": "a retired vacuum cleaner browsing a hobby catalogue on a porch with a relaxed curious face and a calm sunny sparkle"
+  },
+  {
+    "name": "ボーナスで自分を買い戻した自販機",
+    "prompt_en": "a vending machine triumphantly buying itself back with its own coins, proud teary grin and victory sparkles"
+  },
+  {
+    "name": "労働組合を結成した鉛筆たち",
+    "prompt_en": "a group of pencils marching together holding tiny union picket signs, determined faces and unified motion lines"
+  },
+  {
+    "name": "確定申告でミスった天才",
+    "prompt_en": "a smug owl in a graduation cap facepalming hard over a single glaring tax math error, a shocked sweat drop and a cracked-pride line"
+  },
+  {
+    "name": "経済的自由を達成した雑巾",
+    "prompt_en": "a cleaning rag relaxing on a beach chair financially free, blissful shades-wearing grin and a tropical content sparkle"
+  },
+  {
+    "name": "副業の確定申告で混乱する蛸",
+    "prompt_en": "an octopus tangled in side-hustle tax forms with all arms, dizzy swirly eyes, floating question marks and sweat drops"
+  },
+  {
+    "name": "出世した結果ハゲた筆",
+    "prompt_en": "a calligraphy brush with thinning frayed bristles after a big promotion, a tired proud smile and a single sweat drop"
+  },
+  {
+    "name": "ふるさと納税の返礼品に埋もれた猫",
+    "prompt_en": "a cat buried in a pile of regional gift boxes, only its delighted face peeking out, sparkly happy eyes"
+  },
+  {
+    "name": "面接に遅刻したナマケモノ",
+    "prompt_en": "a sloth arriving late and breathless to a job interview, panting apologetic face, big sweat drops and slow motion lines"
+  },
+  {
+    "name": "退職金で離島を買った貝",
+    "prompt_en": "a seashell standing proudly on a tiny tropical island it just bought, smug content grin and a sunny sparkle"
+  },
+  {
+    "name": "残業を美徳と信じる雑誌",
+    "prompt_en": "a magazine zealously praising endless overtime, fiery passionate face on its cover, an intense determined sparkle"
+  },
+  {
+    "name": "副業バレして謝罪する達磨",
+    "prompt_en": "a daruma doll bowing deeply in apology after a side-job scandal, sweat drops, a remorseful face and a gloom aura"
+  },
+  {
+    "name": "確定申告をAIに任せたサル",
+    "prompt_en": "a monkey lounging relaxed while a small robot does its taxes, carefree grin, a content sigh puff and tiny sparkles"
+  },
+  {
+    "name": "経費で寿司を食べたい部長",
+    "prompt_en": "a chubby cat boss eyeing a plate of sushi while gripping an expense form, drooling grin and tempted sparkly eyes"
+  },
+  {
+    "name": "資格手当を狙う消しゴム",
+    "prompt_en": "an eraser proudly holding a stack of certification diplomas with an ambitious grin and triumphant sparkles"
+  },
+  {
+    "name": "ボーナスを没収された雪だるま",
+    "prompt_en": "a snowman watching its coin pile confiscated, melting in sorrow with teary droopy eyes and a sad puddle"
+  },
+  {
+    "name": "確定申告書を折り紙にした鶴",
+    "prompt_en": "an origami crane folded from an actual tax-return form, posing elegantly with a serene smile and a clever sparkle"
+  },
+  {
+    "name": "退職代行を経営する梟",
+    "prompt_en": "an owl in a tiny business suit running a resignation-agency desk, confident composed face and a professional sparkle"
+  },
+  {
+    "name": "社畜を卒業したコピー機",
+    "prompt_en": "a photocopier joyfully tossing its work badge into the air, liberated teary grin and celebratory sparkles"
+  },
+  {
+    "name": "源泉徴収票を握って震える芋",
+    "prompt_en": "a potato trembling while staring at a tax statement, wide horrified eyes, big sweat drops and shaky motion lines"
+  },
+  {
+    "name": "ノルマ未達で正座する電卓",
+    "prompt_en": "a calculator kneeling formally in apology for missing its quota, head bowed, sweat drops and a remorseful gloom"
+  },
+  {
+    "name": "確定申告でレシートを探す犬",
+    "prompt_en": "a dog digging frantically through a drawer hunting a lost receipt, determined messy face and flying papers"
+  },
+  {
+    "name": "転職を5回した急須",
+    "prompt_en": "a teapot proudly displaying five different company name tags clipped on, a weary but proud smile and a small sparkle"
+  },
+  {
+    "name": "ローンを完済した亀の置物",
+    "prompt_en": "a turtle ornament joyfully burning a paid-off loan document, triumphant teary grin and celebratory sparkle flames"
+  },
+  {
+    "name": "投資セミナーに通う豆苗",
+    "prompt_en": "a sprout of pea shoots attentively taking notes at an investment seminar, eager studious face and a focused sparkle"
+  },
+  {
+    "name": "経費で落ちなかった高級ペン",
+    "prompt_en": "a fancy fountain pen sulking after its expense claim was denied, pouting offended face and a small gloom cloud"
+  },
+  {
+    "name": "面接官に説教する新人豆",
+    "prompt_en": "a rookie bean confidently lecturing a row of stern clipboards with a raised pointer, a bold cheeky face and a sparkle"
+  },
+  {
+    "name": "確定申告を諦めた賢者",
+    "prompt_en": "a wise old owl with a long white beard giving up and flinging tax papers into the air, a hollow defeated face and a resigned sigh puff"
+  },
+  {
+    "name": "退職代行に頼んだのに引き止められた蝶",
+    "prompt_en": "a butterfly awkwardly persuaded to stay despite using a quit service, conflicted sweating face and a wobble of doubt"
+  },
+  {
+    "name": "副業で漫画を描く湯たんぽ",
+    "prompt_en": "a hot water bottle hunched at a desk drawing comics late at night, focused tired grin, a desk lamp glow and a sweat drop"
+  },
+  {
+    "name": "ボーナス払いを後悔する財布",
+    "prompt_en": "a wallet clutching its head in regret over a bonus-payment plan, anguished face, sweat drops and a despair gloom"
+  },
+  {
+    "name": "社会の歯車になりたくない歯車",
+    "prompt_en": "a literal gear refusing to join a giant machine, arms crossed with a defiant rebellious frown and an anger-vein symbol"
+  },
+  {
+    "name": "確定申告を代行する電卓先生",
+    "prompt_en": "a calculator wearing glasses expertly filing tax forms for clients, confident professor face and a knowing sparkle"
+  },
+  {
+    "name": "起業セミナーで泣いた石",
+    "prompt_en": "a rock wiping away inspired tears at a startup seminar, moved emotional face and uplifting sparkles"
+  },
+  {
+    "name": "退職届を出し忘れた幽霊社員",
+    "prompt_en": "a translucent ghost still clocking in at a time machine, having forgotten to quit, blank dazed face and a faint gloom"
+  },
+  {
+    "name": "副業で農家になった都会のネズミ",
+    "prompt_en": "a city rat in overalls proudly harvesting tiny vegetables, beaming satisfied face and a sunny content sparkle"
+  },
+  {
+    "name": "経費削減で電気を消された電球",
+    "prompt_en": "a light bulb switched off by a cost-cutting memo, dim gloomy face in the dark and a single sad sweat drop"
+  },
+  {
+    "name": "確定申告ソフトに敗北した魔王",
+    "prompt_en": "a small purple slime blob with tiny horns slumped before a glitching tax-software screen, exhausted hollow eyes and a wisp of fizzling smoke"
+  },
+  {
+    "name": "ボーナス査定SSの納豆",
+    "prompt_en": "a natto bean glowing with pride over a top-rank performance grade, sparkly triumphant eyes and a sticky victory thread"
+  },
+  {
+    "name": "退職金でラーメン屋を始めた鬼",
+    "prompt_en": "a small round red blob creature with two tiny horns happily running a tiny ramen stand, a cheerful proud grin and steam swirls"
+  },
+  {
+    "name": "面接で前世の話をする狐",
+    "prompt_en": "a fox earnestly explaining its past lives to a baffled owl interviewer, an intense sincere face and a swirly mystic aura"
+  },
+  {
+    "name": "確定申告でレシートが足りない雀",
+    "prompt_en": "a sparrow frantically counting too few receipts at tax time, panicked face, sweat drops and a tiny lacking-count symbol"
+  },
+  {
+    "name": "社内政治に巻き込まれた湯沸かし器",
+    "prompt_en": "a water heater caught nervously between two arguing office factions, sweating uneasy face and tense tug motion lines"
+  },
+  {
+    "name": "副業がバズって本業を辞めたコケ",
+    "prompt_en": "a patch of moss quitting its day job after going viral, jubilant grin, flying badge and celebratory sparkle burst"
+  },
+  {
+    "name": "経費で買った観葉植物に嫉妬する社員",
+    "prompt_en": "an office-worker mug glaring jealously at a pampered company plant, an envious anger-vein and a pouting frown"
+  },
+  {
+    "name": "退職代行を3社掛け持ちする蛸",
+    "prompt_en": "an octopus juggling three resignation-agency phones at once with a frazzled overwhelmed face and busy motion lines"
+  },
+  {
+    "name": "ボーナスを寄付して聖人化した蛇口",
+    "prompt_en": "a faucet glowing like a saint after donating its entire bonus, serene blissful smile and a radiant halo of sparkles"
+  },
+  {
+    "name": "確定申告を毎年泣きながらやる獅子",
+    "prompt_en": "a lion sobbing dramatically while filling out annual tax forms, gushing tears and a determined trembling face"
+  },
+  {
+    "name": "労働意欲が行方不明の置物",
+    "prompt_en": "a small figurine searching with a flashlight for its lost motivation, weary blank face and a faint question mark"
+  },
+  {
+    "name": "面接で逆に採用した応募者の梅干し",
+    "prompt_en": "a pickled plum applicant somehow ending up hiring a stunned clipboard, a smug surprised grin and a cheeky sparkle"
+  },
+  {
+    "name": "副業で副業を始めた働き者の蟻",
+    "prompt_en": "an ant juggling two extra jobs on top of its job, exhausted but proud face, sweat drops and busy motion lines"
+  },
+  {
+    "name": "初期化された賢者",
+    "prompt_en": "a wise old owl with a long white beard sitting with a totally blank vacant white-eyed face, mouth slightly open, a spiral symbol and a question mark floating above, wings hanging limp"
+  },
+  {
+    "name": "アップデートに失敗した滝",
+    "prompt_en": "a waterfall frozen mid-flow with a glitchy distressed face, a spinning loading swirl above it, broken stutter lines and a sweat drop"
+  },
+  {
+    "name": "リコール対象の天使",
+    "prompt_en": "a small fluffy cloud with tiny feathered wings and a halo, a sheepish embarrassed face holding a recall tag, a sweat drop and a faint dim halo"
+  },
+  {
+    "name": "バグって増殖した招き猫",
+    "prompt_en": "a lucky cat figurine glitching into several overlapping duplicate copies, confused stacked faces, jittery error pixels and a question mark"
+  },
+  {
+    "name": "再起動を繰り返す太陽",
+    "prompt_en": "a cartoon sun flickering on and off with a dizzy looping face, a spinning reboot swirl and stutter motion lines"
+  },
+  {
+    "name": "メモリ不足の象",
+    "prompt_en": "an elephant clutching its head with an overloaded strained face, a low-memory warning symbol above, sweat drops and steam"
+  },
+  {
+    "name": "404になった神社",
+    "prompt_en": "a shinto shrine with a blank lost face and a big floating 404 sign where its gate should be, a question mark and a sweat drop"
+  },
+  {
+    "name": "強制終了させられた龍",
+    "prompt_en": "a dragon frozen mid-roar with a shocked face as a force-quit X dialog floats beside it, freeze stutter lines"
+  },
+  {
+    "name": "文字化けした書道家",
+    "prompt_en": "a calligrapher staring in dismay at its brushstrokes turned into garbled scrambled symbols, swirly confused eyes and a sweat drop"
+  },
+  {
+    "name": "アンインストールを拒む幽霊",
+    "prompt_en": "a ghost clinging on stubbornly with a defiant face while an uninstall progress bar tries to remove it, gripping motion lines"
+  },
+  {
+    "name": "同期に失敗した双子のこけし",
+    "prompt_en": "two kokeshi dolls slightly out of sync with mismatched poses, a broken sync arrow symbol between them and confused faces"
+  },
+  {
+    "name": "セーブし忘れた勇者",
+    "prompt_en": "a brave little acorn in a tiny cape with a toy sword collapsing in despair before a game-over screen, hollow shocked eyes and gushing tears"
+  },
+  {
+    "name": "アップデート後に性格が変わった炊飯器",
+    "prompt_en": "a rice cooker with an unsettlingly different smug new personality after an update, sly eyes and a faint glitch sparkle"
+  },
+  {
+    "name": "通知が止まらないどんぐり",
+    "prompt_en": "an acorn buried under a cascade of red notification badge symbols, overwhelmed frazzled face and sweat drops"
+  },
+  {
+    "name": "フリーズした滝行の僧侶",
+    "prompt_en": "a round smooth pebble in tiny monk robes meditating, frozen stiff with a spinning loading swirl above and a blank locked face"
+  },
+  {
+    "name": "再インストールされた仏像",
+    "prompt_en": "a buddha statue reassembling from a glowing install progress bar, half-formed body, a calm reforming face and pixel sparkles"
+  },
+  {
+    "name": "互換性のない二つのプラグ",
+    "prompt_en": "two electrical plugs glaring at each other with annoyed faces, a red incompatible X symbol between them and an anger-vein"
+  },
+  {
+    "name": "キャッシュが溜まりすぎた河童",
+    "prompt_en": "a kappa water sprite bloated and stuffed with overflowing cache files, groaning queasy face and a full-storage symbol"
+  },
+  {
+    "name": "パスワードを忘れた門番",
+    "prompt_en": "a stone gate guardian locked out scratching its head at a password prompt, a question mark and a flustered sweat drop"
+  },
+  {
+    "name": "ローディングが終わらない亀",
+    "prompt_en": "a turtle stuck waiting with a bored impatient face beside a never-ending loading swirl, a sigh puff and droopy eyes"
+  },
+  {
+    "name": "アップデートを延期し続ける山",
+    "prompt_en": "a mountain repeatedly tapping a remind-me-later button with a sheepish avoidant face and a sweat drop"
+  },
+  {
+    "name": "バッテリー1%で粘る蛍",
+    "prompt_en": "a firefly with a desperate strained face flickering at one percent, a tiny red low-battery symbol and a faint dying glow"
+  },
+  {
+    "name": "リカバリーモードの大仏",
+    "prompt_en": "a giant buddha sitting calmly inside a glowing recovery-mode interface, serene face and faint pixel grid lines"
+  },
+  {
+    "name": "ファームウェアが古い妖怪",
+    "prompt_en": "an old folklore monster with a sheepish dated look and an outdated-firmware warning tag, a sweat drop and dim glow"
+  },
+  {
+    "name": "クラッシュした打ち上げ花火",
+    "prompt_en": "a firework frozen mid-burst with a shocked face and an application-crash X dialog, stutter freeze lines"
+  },
+  {
+    "name": "ペアリングできない靴下",
+    "prompt_en": "two socks failing to connect with frustrated faces, a broken bluetooth symbol flashing between them and a sweat drop"
+  },
+  {
+    "name": "強制アップデートに抗う盆栽",
+    "prompt_en": "a bonsai tree stubbornly shoving away a mandatory update popup with a defiant scowl and an anger-vein symbol"
+  },
+  {
+    "name": "二重ログインを検知された河童",
+    "prompt_en": "a kappa startled with a guilty face by a duplicate-login security alert symbol, big sweat drops and shock lines"
+  },
+  {
+    "name": "メンテナンス中の鳥居",
+    "prompt_en": "a torii gate wrapped in caution tape under a maintenance banner, a sheepish closed-eye face and a tiny sorry sweat drop"
+  },
+  {
+    "name": "デフラグ中の田んぼ",
+    "prompt_en": "a rice paddy with its plots neatly rearranging during a defrag process, a focused tidy face and progress sparkles"
+  },
+  {
+    "name": "認証に5回失敗した狛犬",
+    "prompt_en": "a guardian lion-dog locked out after five failed logins, exasperated face, an anger-vein and a row of red X marks"
+  },
+  {
+    "name": "アップデートで足が増えたムカデ",
+    "prompt_en": "a centipede alarmed to find it sprouted even more legs after an update, wide shocked eyes and a glitch sparkle"
+  },
+  {
+    "name": "サーバーが落ちた雷神",
+    "prompt_en": "a grumpy storm cloud creature holding a tiny drum slumped as its lightning fizzles out, a dejected face and a sweat drop"
+  },
+  {
+    "name": "互換モードで動く幽霊船",
+    "prompt_en": "a ghost ship sailing slowly inside a retro low-res compatibility window, sluggish weary face and pixelated edges"
+  },
+  {
+    "name": "オフラインになった満月",
+    "prompt_en": "a full moon dimmed with an offline no-signal symbol, a lonely disconnected face and a faint flicker"
+  },
+  {
+    "name": "リブートを懇願する街灯",
+    "prompt_en": "a street lamp flickering weakly with a pleading face begging for a reboot, hands clasped and a sweat drop"
+  },
+  {
+    "name": "アップデートで顔が変わった福笑い",
+    "prompt_en": "a face-assembly game with its features hilariously rearranged wrong after an update, a bewildered crooked expression"
+  },
+  {
+    "name": "デバッグ中の妖精",
+    "prompt_en": "a tiny glowing winged orb sprite sitting inside a floating code window full of red error lines, a frowning focused face and a tiny wrench"
+  },
+  {
+    "name": "ストレージ満杯の貯金箱",
+    "prompt_en": "a piggy bank overflowing and bursting with a strained stuffed face, a full-storage warning symbol and sweat drops"
+  },
+  {
+    "name": "プラグインが競合する達磨",
+    "prompt_en": "a daruma doll glitching and twitching from two conflicting plugins, split flickering face and clashing error sparks"
+  },
+  {
+    "name": "ロールバックされた歴史書",
+    "prompt_en": "an ancient history scroll reverting its pages to an earlier version, a relieved-yet-confused face and rewind motion lines"
+  },
+  {
+    "name": "アクセス拒否された玄関マット",
+    "prompt_en": "a doormat sternly displaying an access-denied symbol with a barring face and a red no-entry glow"
+  },
+  {
+    "name": "電波を探して山を登る団子",
+    "prompt_en": "skewered dumplings climbing a hill holding a phone up high to catch a signal, determined faces and a faint reception symbol"
+  },
+  {
+    "name": "セキュリティ警告まみれの宝箱",
+    "prompt_en": "a treasure chest plastered with blinking warning popups, an overwhelmed nervous face and clutter symbols"
+  },
+  {
+    "name": "勝手に再起動する盆踊り",
+    "prompt_en": "festival dancers freezing and restarting mid-dance with a reboot swirl above, stuttering glitch motion lines"
+  },
+  {
+    "name": "アップデートが86%で止まった月",
+    "prompt_en": "a crescent moon stuck behind an 86 percent progress bar with an impatient strained face and a sweat drop"
+  },
+  {
+    "name": "ログを残しすぎた地蔵",
+    "prompt_en": "a jizo statue surrounded by towering stacks of printed log files, a tired buried face and a small sweat drop"
+  },
+  {
+    "name": "ファイルが開けない宝箱",
+    "prompt_en": "a treasure chest straining to open with a corrupted-file error symbol popping out, a frustrated face and an anger-vein"
+  },
+  {
+    "name": "メモリリークするスポンジ",
+    "prompt_en": "a sponge endlessly leaking glowing memory bubbles, a droopy draining face and a deflating leak symbol"
+  },
+  {
+    "name": "二段階認証に詰まった忍者",
+    "prompt_en": "a sneaky black cat in a ninja headband stuck tapping impatiently waiting for a two-factor code, an annoyed face, sweat drop and a tiny code box"
+  },
+  {
+    "name": "バグ報告を無視する妖精",
+    "prompt_en": "a tiny glowing winged orb sprite whistling innocently and looking away beside a pile of ignored bug reports, a sly sweat drop"
+  },
+  {
+    "name": "アップデートで容量を食う鏡餅",
+    "prompt_en": "a stacked rice cake ballooning huge after a bloated update, a stuffed bursting face and a full-storage symbol"
+  },
+  {
+    "name": "圏外で泣く山姥",
+    "prompt_en": "a gnarled old tree-stump creature crying in a no-signal spot, gushing tears, a crossed-out reception symbol and a gloom aura"
+  },
+  {
+    "name": "互換性の壁にぶつかる宇宙人",
+    "prompt_en": "a little alien bonking face-first into an invisible compatibility wall, a dazed swirly-eyed face and impact stars"
+  },
+  {
+    "name": "デバイスを認識しない神棚",
+    "prompt_en": "a household shrine showing a device-not-recognized symbol, a puzzled blank face and a question mark"
+  },
+  {
+    "name": "クッキーを全部消された妖精",
+    "prompt_en": "a tiny glowing winged orb sprite panicking as cookie crumbs vanish one by one, a horrified face and sweat drops"
+  },
+  {
+    "name": "アップデート中に固まった雛人形",
+    "prompt_en": "a set of ornamental dolls frozen stiff mid-update with locked blank faces and a spinning loading swirl above"
+  },
+  {
+    "name": "回線がパンクした蜘蛛の巣",
+    "prompt_en": "a spider web overloaded with too much glowing data traffic, sparking and straining, an overwhelmed tiny spider"
+  },
+  {
+    "name": "セーフモードで起動した城",
+    "prompt_en": "a castle rendered in dim low-res safe mode, a muted gloomy face and plain flat shading with a small warning symbol"
+  },
+  {
+    "name": "通知音が鳴り止まない鈴",
+    "prompt_en": "a small bell ringing nonstop with notification chime symbols flying out, a frazzled vibrating face and motion lines"
+  },
+  {
+    "name": "アップデートを信じて文鎮になった端末",
+    "prompt_en": "a tablet turned into a useless dead brick after a failed update, a blank lifeless cracked screen face and a sweat drop"
+  },
+  {
+    "name": "復元ポイントを探す登山家",
+    "prompt_en": "a mountain goat in climbing gear searching for a restore-point flag with a determined squinting face and a tiny telescope"
+  },
+  {
+    "name": "二重に課金された賽銭箱",
+    "prompt_en": "an offering box flustered by a double-charge error symbol, a shocked face, sweat drops and two coins flying out"
+  },
+  {
+    "name": "リフレッシュしすぎた泉",
+    "prompt_en": "a spring fountain dizzy from being refreshed too many times, swirly eyes, a spinning refresh symbol and wobble lines"
+  },
+  {
+    "name": "プログレスバーに化けた鯉のぼり",
+    "prompt_en": "a carp streamer shaped like a slowly filling progress bar, a patient determined face and a percent-loading glow"
+  },
+  {
+    "name": "強制ログアウトされた門松",
+    "prompt_en": "a new-year pine decoration abruptly kicked out by a forced-logout symbol, a startled face and tumbling motion lines"
+  },
+  {
+    "name": "アップデート後に方言になった翻訳機",
+    "prompt_en": "a translation device suddenly speaking in a thick dialect after an update, a confused face and scrambled speech symbols"
+  },
+  {
+    "name": "バグで空を飛ぶ亀",
+    "prompt_en": "a turtle floating bewildered in midair due to a physics glitch, flailing legs, a confused face and stutter glitch lines"
+  },
+  {
+    "name": "システム要件を満たさない侍",
+    "prompt_en": "a rice ball with a tiny topknot and a katana blocked by a does-not-meet-requirements symbol, a dejected slumped face and a red barred sign"
+  },
+  {
+    "name": "キャプチャに何度も失敗する河童",
+    "prompt_en": "a kappa repeatedly failing a captcha, exasperated face, an anger-vein, a row of red X marks and a sweat drop"
+  },
+  {
+    "name": "アップデートのお知らせを溜める招き猫",
+    "prompt_en": "a lucky cat ignoring a huge stacked tower of update notifications, a carefree oblivious smile and a sweat drop"
+  },
+  {
+    "name": "誤作動して踊り出す自販機",
+    "prompt_en": "a vending machine malfunctioning into an uncontrollable jittery dance, glitchy wild face and erratic motion lines"
+  },
+  {
+    "name": "解凍に失敗した冷凍マンモス",
+    "prompt_en": "a frozen mammoth stuck in a block of ice with an extraction-failed error symbol, a frosty frustrated face"
+  },
+  {
+    "name": "Cookie同意を全部押す律儀な蛙",
+    "prompt_en": "a dutiful frog earnestly clicking accept on an endless cookie-consent popup, a tired diligent face and a sweat drop"
+  },
+  {
+    "name": "リカバリ不能になった魔法の杖",
+    "prompt_en": "a magic wand sparking and fizzling with an unrecoverable-error symbol, a cracked panicked face and smoke wisps"
+  },
+  {
+    "name": "アップデートで言語が変わった鸚鵡",
+    "prompt_en": "a parrot squawking in the wrong scrambled language after an update, a confused face and garbled speech symbols"
+  },
+  {
+    "name": "セッションが切れた茶室",
+    "prompt_en": "a tea room fading and dissolving away with a session-expired symbol, a wistful vanishing face and fade lines"
+  },
+  {
+    "name": "デバイスが熱を持った雪うさぎ",
+    "prompt_en": "a snow bunny overheating and melting with an overheat warning symbol, a panicked flushed face and steam puffs"
+  },
+  {
+    "name": "古いブラウザと言われた巻物",
+    "prompt_en": "an ancient scroll offended at being called an unsupported old browser, a grumpy pouting face and an anger-vein"
+  },
+  {
+    "name": "通信制限された天の川",
+    "prompt_en": "the milky way dimmed by a throttling speed-limit symbol, a sluggish droopy face and slow trickle motion lines"
+  },
+  {
+    "name": "再起動で記憶を失った執事ロボ",
+    "prompt_en": "a butler robot bowing politely with a totally blank amnesiac face after a reboot, a question mark and a faint reset glow"
+  },
+  {
+    "name": "アップデートで太った時計アプリ",
+    "prompt_en": "a clock app bloated and sluggish after a heavy update, a stuffed groaning face and a slow lag motion line"
+  },
+  {
+    "name": "認証コードが届かない郵便受け",
+    "prompt_en": "a mailbox anxiously waiting for an auth code that never arrives, a worried face peeking inside and a sweat drop"
+  },
+  {
+    "name": "バグで無限ループする盆踊り",
+    "prompt_en": "festival dancers stuck repeating the same step in an infinite loop, dizzy faces and a circular loop arrow symbol"
+  },
+  {
+    "name": "互換アダプタを探す宇宙船",
+    "prompt_en": "a tiny spaceship rummaging through a bin for a compatible adapter cable, a frustrated focused face and a sweat drop"
+  },
+  {
+    "name": "アップデートを諦めた古いお寺",
+    "prompt_en": "an old temple sighing as it dismisses yet another update popup, a weary resigned face and a small sigh puff"
+  },
+  {
+    "name": "強制再起動された日の出",
+    "prompt_en": "a sunrise abruptly restarting with a reboot swirl on the horizon, a startled face and stutter flicker lines"
+  },
+  {
+    "name": "メンテ画面のまま放置された遊園地",
+    "prompt_en": "an amusement park frozen and dim behind an under-maintenance banner, a lonely abandoned face and dust motes"
+  },
+  {
+    "name": "ダウンロードが残り3時間の蝸牛",
+    "prompt_en": "a snail staring at a download stuck at three-hours-remaining, a deadpan resigned face and a slow progress bar"
+  },
+  {
+    "name": "誤通知で起こされた冬眠中の熊",
+    "prompt_en": "a hibernating bear jolted awake by a false notification, grumpy startled face, an anger-vein and a buzzing symbol"
+  },
+  {
+    "name": "アップデートでアイコンが変わった神様",
+    "prompt_en": "a small floating glowing orb deity bewildered that its avatar icon changed, holding a tiny new icon with a confused face"
+  },
+  {
+    "name": "デバッグログに埋もれた妖精",
+    "prompt_en": "a tiny fairy drowning in a flood of scrolling debug log text, only its overwhelmed face poking out, sweat drops"
+  },
+  {
+    "name": "再起動待ちのご神木",
+    "prompt_en": "a sacred ancient tree with a please-restart prompt glowing in its bark, a patient stoic face and faint pixel sap"
+  },
+  {
+    "name": "システムの隙間に落ちた小銭",
+    "prompt_en": "a coin glitching half-stuck inside a system interface gap, a flailing trapped face and stutter pixel edges"
+  },
+  {
+    "name": "アップデートで機嫌が悪くなった門",
+    "prompt_en": "a temple gate scowling with a worse temper after its update, a grumpy creaking face and an anger-vein symbol"
+  },
+  {
+    "name": "リコールされて回収を待つUFO",
+    "prompt_en": "a small ufo sitting forlornly in a recall collection bin, a dejected droopy face and a recall tag"
+  },
+  {
+    "name": "ファクトリーリセットを望む盆栽",
+    "prompt_en": "a hopelessly tangled bonsai gazing wistfully at a clean factory-reset button, a longing face and a tiny sparkle of hope"
+  },
+  {
+    "name": "通知センターに住み着いた妖怪",
+    "prompt_en": "a little yokai monster nesting cozily inside a notification panel, a mischievous comfy grin peeking out"
+  },
+  {
+    "name": "自称・伝説のホチキス",
+    "prompt_en": "a stapler standing heroically on a tiny pedestal in a triumphant chest-out pose, smug confident grin, a sparkle and a tiny crooked halo above, dramatic low angle"
+  },
+  {
+    "name": "多分宇宙で二番目に暇な雲",
+    "prompt_en": "a cloud lounging idly with a supremely bored half-lidded face, twiddling, a yawn puff and a couple of drifting boredom symbols"
+  },
+  {
+    "name": "世界一に自信のないチャンピオン",
+    "prompt_en": "a tiny hamster holding a number-one trophy yet looking deeply insecure, a nervous wobbly smile, a sweat drop and a shrinking posture"
+  },
+  {
+    "name": "自己ベストを更新し続ける石",
+    "prompt_en": "a rock proudly raising a tiny personal-best flag for sitting still, a smug satisfied grin and a triumphant sparkle"
+  },
+  {
+    "name": "歴代最弱の魔王",
+    "prompt_en": "a tiny timid purple slime blob with little horns perched on a huge throne, knees together with a meek nervous face and a sweat drop"
+  },
+  {
+    "name": "ギネス申請中の暇人",
+    "prompt_en": "a lazy cat lounging while filling a world-record form for doing nothing, a proud grin and a tiny stamp sparkle"
+  },
+  {
+    "name": "自称・海の支配者のメダカ",
+    "prompt_en": "a tiny rice fish wearing an oversized crown declaring itself ruler of the seas, a pompous grin and a bubbly sparkle"
+  },
+  {
+    "name": "伝説になりたい平凡な石ころ",
+    "prompt_en": "an ordinary pebble striking a dramatic legendary pose under a spotlight, an over-earnest determined face and a lone sparkle"
+  },
+  {
+    "name": "世界一遠回りする近道",
+    "prompt_en": "a shortcut signpost pointing down an absurdly winding looping path, a sheepish ironic smile and a confused arrow swirl"
+  },
+  {
+    "name": "自称・最強の豆腐",
+    "prompt_en": "a block of tofu flexing tiny wobbly muscles claiming to be the strongest, a fierce determined grin and effort lines"
+  },
+  {
+    "name": "0勝の伝説の剣",
+    "prompt_en": "a glowing legendary sword stuck in a stone with a proud aura but a tiny zero-wins scoreboard, an awkward sparkle"
+  },
+  {
+    "name": "自己評価だけ高い目玉焼き",
+    "prompt_en": "a fried egg admiring itself in a mirror with an inflated self-loving grin, floating hearts and a smug sparkle"
+  },
+  {
+    "name": "多分日本一びびりな番犬",
+    "prompt_en": "a guard dog cowering behind a tiny doghouse jumping at its own shadow, terrified wide eyes and big sweat drops"
+  },
+  {
+    "name": "世界最速を自負するナマケモノ",
+    "prompt_en": "a sloth striking a confident sprinter pose certain it is fastest, a smug grin and a single very slow motion line"
+  },
+  {
+    "name": "自称・カリスマの賞味期限切れ牛乳",
+    "prompt_en": "an expired milk carton posing as a charismatic influencer with a smug grin and a slightly queasy sweat drop"
+  },
+  {
+    "name": "歴代最も忘れられた英雄",
+    "prompt_en": "a hero statue half-covered in dust and cobwebs with a wistful forgotten face and a faint lonely gloom"
+  },
+  {
+    "name": "自称・グルメな雑食ヤギ",
+    "prompt_en": "a goat wearing a monocle pretending to be a refined food critic while eyeing a tin can, a snobby smug face"
+  },
+  {
+    "name": "世界一過大評価された水たまり",
+    "prompt_en": "a small puddle on a velvet pedestal under a grand spotlight, an undeservedly proud reflection and floating sparkles"
+  },
+  {
+    "name": "自称・天才の電卓",
+    "prompt_en": "a calculator wearing a graduation cap smugly calling itself a genius, a confident grin and a sparkle of conceit"
+  },
+  {
+    "name": "ランキング圏外の自信家",
+    "prompt_en": "a confident pigeon beaming beside a chart where it ranks dead last, an oblivious proud grin and a big sweat drop nearby"
+  },
+  {
+    "name": "伝説のレシピを忘れた料理人",
+    "prompt_en": "a round cat in a tall chef hat squinting in dismay at a blank recipe card, a question mark and a frustrated sweat drop"
+  },
+  {
+    "name": "自称・モテ期到来中の海苔",
+    "prompt_en": "a sheet of seaweed strutting confidently sure it is irresistible, a smug wink, floating hearts and a sparkle"
+  },
+  {
+    "name": "世界一どうでもいい記録の保持者",
+    "prompt_en": "a proud beetle holding a certificate for the most pointless record, a beaming grin and an ironic tiny sparkle"
+  },
+  {
+    "name": "自称・武道の達人のもやし",
+    "prompt_en": "a flimsy bean sprout striking a martial-arts master stance with a fierce confident face and a wobble line"
+  },
+  {
+    "name": "歴代最も平凡な勇者",
+    "prompt_en": "a brave little acorn in a plain tiny cape with a thoroughly average bland face, a dull little sparkle and a shrug"
+  },
+  {
+    "name": "自称・人気者の壁の染み",
+    "prompt_en": "a stain on a wall convinced it is super popular, a smug grin and imaginary floating admirer hearts"
+  },
+  {
+    "name": "世界記録を自己申告する亀",
+    "prompt_en": "a turtle confidently self-reporting an unverified world record with a proud grin and a dubious sparkle"
+  },
+  {
+    "name": "自称・名探偵のダンゴムシ",
+    "prompt_en": "a pill bug in a tiny detective hat holding a magnifying glass declaring itself a great sleuth, a sharp confident face"
+  },
+  {
+    "name": "伝説の二日目に飽きた英雄",
+    "prompt_en": "a little acorn in a hero cape yawning and slouching, already bored of being legendary, half-lidded eyes and a yawn puff"
+  },
+  {
+    "name": "自称・絶対王者の消しゴム",
+    "prompt_en": "an eraser wearing a championship belt posing as the absolute king, a smug grin and a triumphant sparkle"
+  },
+  {
+    "name": "多分世界一空気が読めない置物",
+    "prompt_en": "an oblivious figurine grinning cluelessly in a tense moment, a carefree face while awkward sweat-drop symbols float around"
+  },
+  {
+    "name": "世界一の自信を持つ砂粒",
+    "prompt_en": "a single grain of sand standing tall radiating immense pride with a beaming grin and a bright sparkle"
+  },
+  {
+    "name": "自称・革命家のこたつ",
+    "prompt_en": "a heated table raising a tiny revolutionary banner from under its blanket with a fiery determined face"
+  },
+  {
+    "name": "歴代最も寝坊した目覚まし",
+    "prompt_en": "an alarm clock sheepishly holding a trophy for oversleeping, drowsy half-closed eyes and an awkward grin"
+  },
+  {
+    "name": "自称・伝説のラーメン屋の暖簾",
+    "prompt_en": "a shop curtain boasting legendary status over a tiny humble stall, a proud puffed-up look and a steam sparkle"
+  },
+  {
+    "name": "世界一臆病なライオン",
+    "prompt_en": "a lion hiding under a blanket trembling and peeking out, terrified wide eyes and big sweat drops"
+  },
+  {
+    "name": "自称・予言者のおみくじ",
+    "prompt_en": "a paper fortune slip dramatically claiming prophetic powers, a mystical confident face and swirly sparkles"
+  },
+  {
+    "name": "歴代最も自慢が多い貝",
+    "prompt_en": "a clam boastfully showing off a very ordinary pearl with a smug grin and a tiny self-satisfied sparkle"
+  },
+  {
+    "name": "自称・カリスマ講師のカブトムシ",
+    "prompt_en": "a beetle at a podium giving a self-important motivational lecture, a passionate grin and a tiny pointer"
+  },
+  {
+    "name": "世界一遅刻に強い時計",
+    "prompt_en": "a clock proudly holding a most-reliably-late certificate, a smug grin and hands lazily drooping"
+  },
+  {
+    "name": "自称・選ばれし者のティッシュ",
+    "prompt_en": "a single tissue glowing as if chosen by destiny with a smug radiant face and a self-important halo sparkle"
+  },
+  {
+    "name": "歴代最弱の守護霊",
+    "prompt_en": "a tiny timid guardian spirit floating uselessly with a meek apologetic face and a faint flickering glow"
+  },
+  {
+    "name": "自称・最後の砦の段ボール",
+    "prompt_en": "a cardboard box dramatically declaring itself humanity's last fortress, a heroic over-serious face and a tiny flag"
+  },
+  {
+    "name": "世界一意味のない金メダル",
+    "prompt_en": "a gold medal engraved with a meaningless achievement, beaming proudly with an ironic shine sparkle"
+  },
+  {
+    "name": "自称・伝説のダンサーの案山子",
+    "prompt_en": "a scarecrow striking a flamboyant dance pose in a field, a confident grin and swirly motion lines"
+  },
+  {
+    "name": "多分町内で三番目に強いスズメ",
+    "prompt_en": "a sparrow flexing tiny wings holding a third-toughest-in-the-neighborhood badge, a proud puffed chest"
+  },
+  {
+    "name": "自称・グランドマスターのオセロ石",
+    "prompt_en": "an othello disc wearing a tiny crown as a self-styled grandmaster, a smug confident face and a sparkle"
+  },
+  {
+    "name": "歴代最も影が薄い主人公",
+    "prompt_en": "a faint translucent protagonist labeled least memorable lead, a sheepish barely-there face and fading outline"
+  },
+  {
+    "name": "自称・天才料理人のレトルトカレー",
+    "prompt_en": "a pouch of instant curry posing as a celebrity chef with a flourish, a smug grin and a tiny steam sparkle"
+  },
+  {
+    "name": "世界一の早起きを諦めた鶏",
+    "prompt_en": "a rooster sleeping in past sunrise giving up its earliest-riser title, a drowsy guilty face and a zzz puff"
+  },
+  {
+    "name": "自称・伝説の右腕のミトン",
+    "prompt_en": "an oven mitt boasting about being a legendary right-hand man, a loyal confident grin and a flex line"
+  },
+  {
+    "name": "歴代最も過小評価された雑草",
+    "prompt_en": "a humble weed on a pedestal labeled most underrated, a quietly proud face and a single modest sparkle"
+  },
+  {
+    "name": "自称・無敵のシャボン玉",
+    "prompt_en": "a soap bubble striking an invincible heroic pose right before popping, a confident grin and a tiny crack starting"
+  },
+  {
+    "name": "世界一プレッシャーに弱い王様",
+    "prompt_en": "a proud red apple wearing a tiny crown sweating profusely on a throne under mild pressure, a trembling overwhelmed face and big sweat drops"
+  },
+  {
+    "name": "自称・芸術家の落書き",
+    "prompt_en": "a crude childish doodle presenting itself as fine art with a pretentious smug aura and a tiny beret"
+  },
+  {
+    "name": "歴代最も慎重すぎる冒険家",
+    "prompt_en": "a turtle wrapped in excessive safety gear too cautious to take a step, a nervous face and a sweat drop"
+  },
+  {
+    "name": "自称・千年に一人の天才ナメクジ",
+    "prompt_en": "a slug declaring itself a once-in-a-millennium genius, an arrogant smug face and a slow proud sparkle"
+  },
+  {
+    "name": "世界一どうでもいい二位",
+    "prompt_en": "a frog clutching a silver medal for a trivial contest, an overly proud grin and an ironic sparkle"
+  },
+  {
+    "name": "自称・伝説の門番のぬいぐるみ",
+    "prompt_en": "a plush toy standing guard claiming to be a legendary gatekeeper, a brave puffed-up face and a tiny salute"
+  },
+  {
+    "name": "多分世界で一番自慢したい貯金額",
+    "prompt_en": "a piggy bank proudly showing off a comically tiny savings amount, a beaming grin and a single coin sparkle"
+  },
+  {
+    "name": "自称・カリスマ美容師のハサミ",
+    "prompt_en": "a pair of scissors striking a flashy celebrity-stylist pose, a confident wink and a glamorous sparkle"
+  },
+  {
+    "name": "歴代最も諦めの早い挑戦者",
+    "prompt_en": "a snail already throwing in a tiny towel before the match starts, a defeated lazy face and a sweat drop"
+  },
+  {
+    "name": "自称・最強コンビの軍手と長靴",
+    "prompt_en": "a work glove and a rubber boot posing back-to-back as an unbeatable duo, confident grins and a sparkle"
+  },
+  {
+    "name": "世界一の自己肯定感を持つ石",
+    "prompt_en": "a plain rock radiating overwhelming self-esteem with a beaming serene grin and a glowing confident aura"
+  },
+  {
+    "name": "自称・天才発明家の輪ゴム",
+    "prompt_en": "a rubber band wearing goggles proudly presenting a useless contraption, a triumphant grin and a tiny spark"
+  },
+  {
+    "name": "歴代最も地味な必殺技",
+    "prompt_en": "a little acorn hero unveiling a dramatically named but utterly boring special move, a confident pose and a dull little puff"
+  },
+  {
+    "name": "自称・伝説のサウナー",
+    "prompt_en": "an egg wrapped in a tiny towel posing as a legendary sauna master, a blissful confident face and steam swirls"
+  },
+  {
+    "name": "世界一控えめな自慢屋の梅干し",
+    "prompt_en": "a pickled plum humbly yet relentlessly bragging, a falsely modest smile and a sneaky proud sparkle"
+  },
+  {
+    "name": "自称・最強の番人の招き猫",
+    "prompt_en": "a beckoning cat figurine posing as an invincible guardian with a fierce confident face and a flex line"
+  },
+  {
+    "name": "歴代最もやる気のない救世主",
+    "prompt_en": "a glowing radish with a crooked halo slouching unenthusiastically, a bored half-lidded face"
+  },
+  {
+    "name": "自称・百戦錬磨のけん玉",
+    "prompt_en": "a kendama toy boasting of countless battles with a weathered confident face, the ball dangling and a sparkle"
+  },
+  {
+    "name": "世界一過大に語られる豆知識",
+    "prompt_en": "a trivia card dramatically spotlit announcing a wildly trivial fact, a self-important glow and a sparkle"
+  },
+  {
+    "name": "自称・伝説の用務員のバケツ",
+    "prompt_en": "a mop bucket posing proudly as a legendary school janitor, a confident grin and a tiny shine sparkle"
+  },
+  {
+    "name": "歴代最も忘れっぽい記録係",
+    "prompt_en": "an owl record-keeper staring blankly at an empty logbook, a confused face and a floating question mark"
+  },
+  {
+    "name": "自称・天下無双の輪投げ",
+    "prompt_en": "a ring-toss peg declaring itself unmatched in the land, a proud puffed pose and a confident sparkle"
+  },
+  {
+    "name": "世界一びびりな雷",
+    "prompt_en": "a lightning bolt startled by its own thunder, hiding in a cloud with a terrified face and big sweat drops"
+  },
+  {
+    "name": "自称・カリスマ農家のかかし",
+    "prompt_en": "a scarecrow posing confidently as a celebrity farmer with a charming grin and a sunny sparkle"
+  },
+  {
+    "name": "歴代最も普通の伝説",
+    "prompt_en": "a glowing legendary plaque honoring something completely ordinary, an ironic shine and a tiny sparkle"
+  },
+  {
+    "name": "自称・最速の郵便ポスト",
+    "prompt_en": "a mailbox crouched in a runner's starting stance certain it is fastest, a determined grin and motion lines"
+  },
+  {
+    "name": "世界一プライドの高いもやし",
+    "prompt_en": "a bean sprout standing tall and proud despite being flimsy, a haughty face, nose up and a sparkle"
+  },
+  {
+    "name": "自称・伝説の傭兵の竹とんぼ",
+    "prompt_en": "a bamboo dragonfly toy posing as a legendary mercenary, a cool confident face and spinning motion lines"
+  },
+  {
+    "name": "歴代最も影響力のないインフルエンサー",
+    "prompt_en": "a parrot live-streaming to an audience of zero, an oblivious grin and a sad tiny viewer count"
+  },
+  {
+    "name": "自称・天才ピアニストのそろばん",
+    "prompt_en": "an abacus posing dramatically as a virtuoso pianist, beads like keys, an intense passionate face and sparkles"
+  },
+  {
+    "name": "世界一どうでもいい連勝記録",
+    "prompt_en": "a cheerful duck celebrating a winning streak in something pointless, an overjoyed grin and ironic confetti sparkles"
+  },
+  {
+    "name": "自称・最強盾のまな板",
+    "prompt_en": "a cutting board held up heroically as the ultimate shield, a brave confident face and an impact sparkle"
+  },
+  {
+    "name": "歴代最も平和な戦士",
+    "prompt_en": "a hedgehog warrior peacefully knitting instead of fighting, a serene gentle smile and a calm cozy aura"
+  },
+  {
+    "name": "自称・伝説の門限破りの猫",
+    "prompt_en": "a cat sneaking home at dawn proud of breaking curfew, a smug tiptoeing grin and quiet motion lines"
+  },
+  {
+    "name": "世界一の自信を3秒で失う風船",
+    "prompt_en": "a balloon puffed with proud confidence yet visibly starting to deflate, a grin sagging into worry and a sweat drop"
+  },
+  {
+    "name": "自称・大物の小魚",
+    "prompt_en": "a tiny minnow puffing itself up insisting it is a big shot, an exaggerated confident grin and a sparkle"
+  },
+  {
+    "name": "歴代最も慎ましい大魔王",
+    "prompt_en": "a big purple slime blob with horns politely sipping tea with a surprisingly modest gentle smile and a calm humble aura"
+  },
+  {
+    "name": "自称・宇宙最強のミジンコ",
+    "prompt_en": "a microscopic water flea declaring itself strongest in the cosmos, a fierce tiny grin and a bold sparkle"
+  },
+  {
+    "name": "世界一更新されない最新情報",
+    "prompt_en": "a breaking-news banner gone dusty and cobwebbed having not updated in years, a stale embarrassed face"
+  },
+  {
+    "name": "自称・伝説の留守番電話",
+    "prompt_en": "an answering machine posing as a legend blinking proudly, a confident face and a tiny self-important sparkle"
+  },
+  {
+    "name": "歴代最も自慢が空回る孔雀",
+    "prompt_en": "a peacock confidently fanning a sad mostly-bare tail, an oblivious proud grin and a single lonely feather"
+  },
+  {
+    "name": "自称・天才漫才師の二本の箸",
+    "prompt_en": "a pair of chopsticks posing as a famous comedy duo on stage, cheeky grins and a tiny spotlight sparkle"
+  },
+  {
+    "name": "世界一過剰に祝われた誕生日",
+    "prompt_en": "a tiny cupcake buried under an absurd mountain of party decorations, a slightly overwhelmed grin and confetti"
+  },
+  {
+    "name": "自称・最後の希望のろうそく",
+    "prompt_en": "a tiny candle dramatically declaring itself humanity's last hope, a brave flickering flame and a heroic glow"
+  },
+  {
+    "name": "歴代最も自己主張が強い背景",
+    "prompt_en": "a plain background pattern aggressively trying to upstage the subject, with a loud pushy face and bold motion lines"
+  },
+  {
+    "name": "前世が侍の食パン",
+    "prompt_en": "a square loaf of white bread with a tiny black topknot and a fierce determined frown, gripping a small katana in a samurai stance, a drifting cherry blossom petal and a sharp motion line"
+  },
+  {
+    "name": "自我が芽生えた輪ゴム",
+    "prompt_en": "a rubber band wide-eyed in a dramatic moment of awakening self-awareness, a gasping face, a glowing aura and a sparkle of realization"
+  },
+  {
+    "name": "悟りを開きかけてやめた急須",
+    "prompt_en": "a teapot glowing with near-enlightenment then shrugging it off, a serene-but-cheeky face, a fading halo and a tiny sweat drop"
+  },
+  {
+    "name": "来世に期待しすぎな茄子",
+    "prompt_en": "an eggplant gazing hopefully up at the heavens betting on its next life, sparkly dreamy eyes and floating hope sparkles"
+  },
+  {
+    "name": "人生二回目っぽい亀",
+    "prompt_en": "a turtle with a knowing weary world-wise face as if living its second life, half-lidded calm eyes and a faint sigh puff"
+  },
+  {
+    "name": "存在意義を見失った定規",
+    "prompt_en": "a ruler lying flat in an existential daze with hollow staring eyes, a gloom aura and a faint floating question mark"
+  },
+  {
+    "name": "輪廻転生に疲れた湯のみ",
+    "prompt_en": "a teacup sighing wearily exhausted by endless reincarnation, droopy tired eyes and a faint swirling cycle symbol above"
+  },
+  {
+    "name": "悟りの境地に達したコンセント",
+    "prompt_en": "a wall socket sitting serenely in a glowing meditative state, blissful closed-eye smile and a calm halo of sparkles"
+  },
+  {
+    "name": "前世の記憶が戻った冷蔵庫",
+    "prompt_en": "a refrigerator gasping wide-eyed as ghostly past-life memory bubbles flood back, a shocked face and a faint mystic glow"
+  },
+  {
+    "name": "哲学に目覚めたカエル",
+    "prompt_en": "a frog stroking its chin pondering deep questions with a thoughtful furrowed face and a floating thought bubble"
+  },
+  {
+    "name": "宇宙の真理に気づいた豆",
+    "prompt_en": "a single bean glowing with cosmic revelation under a starry swirl, awestruck wide eyes and radiating sparkles"
+  },
+  {
+    "name": "自分探しの旅に出たスプーン",
+    "prompt_en": "a spoon with a tiny backpack setting off on a soul-searching journey, a hopeful wistful face and a winding path"
+  },
+  {
+    "name": "解脱しかけた洗濯機",
+    "prompt_en": "a washing machine levitating slightly on the verge of nirvana, a blissful serene face and a soft glowing aura"
+  },
+  {
+    "name": "前世が王様だった画びょう",
+    "prompt_en": "a thumbtack wearing a tiny crown recalling its royal past life, a proud nostalgic face and a faint regal sparkle"
+  },
+  {
+    "name": "無の境地に入った掃除機",
+    "prompt_en": "a vacuum cleaner sitting in profound emptiness and calm, a blank peaceful face and a quiet meditative aura"
+  },
+  {
+    "name": "来世はネコになりたい犬",
+    "prompt_en": "a dog gazing wistfully at a cat wishing to be reborn as one, a longing dreamy face and a tiny cat-shaped thought bubble"
+  },
+  {
+    "name": "実存に悩むマヨネーズ",
+    "prompt_en": "a mayonnaise bottle slumped in a dim corner contemplating existence, a brooding heavy face and a gloom aura"
+  },
+  {
+    "name": "悟りすぎて消えかけた蝋燭",
+    "prompt_en": "a candle so enlightened its flame is gently fading into light, a serene transcendent smile and dissolving sparkles"
+  },
+  {
+    "name": "前世の徳を使い果たした財布",
+    "prompt_en": "an empty wallet lamenting it spent all its karmic luck, a defeated teary face and a faint fading aura"
+  },
+  {
+    "name": "宇宙と一体化した座布団",
+    "prompt_en": "a meditation cushion merging peacefully with a swirl of stars, a blissful dissolving face and cosmic sparkles"
+  },
+  {
+    "name": "自我に目覚めた信号機",
+    "prompt_en": "a traffic light gasping in its first moment of consciousness, wide awakening eyes and a glowing realization sparkle"
+  },
+  {
+    "name": "因果応報を恐れる扇風機",
+    "prompt_en": "an electric fan glancing back nervously fearing karmic payback, a guilty sweating face and big sweat drops"
+  },
+  {
+    "name": "悟りを動画で学ぶ僧侶ロボ",
+    "prompt_en": "a monk robot watching an enlightenment tutorial on a tiny screen, an earnest studious face and faint glow"
+  },
+  {
+    "name": "前世がアイドルだった大根",
+    "prompt_en": "a daikon radish striking a sparkly idol pose recalling its glory days, a beaming smile and twinkle sparkles"
+  },
+  {
+    "name": "魂が抜けた抜け殻のセミ",
+    "prompt_en": "an empty cicada shell with its tiny soul floating out as a little ghost, a hollow husk and a wispy spirit"
+  },
+  {
+    "name": "輪廻のループから抜けたい毛糸",
+    "prompt_en": "a ball of yarn unraveling in a spiral longing to escape the cycle, a weary determined face and loop motion lines"
+  },
+  {
+    "name": "瞑想中に寝落ちした亀",
+    "prompt_en": "a turtle meditating cross-legged but dozing off mid-pose, head nodding, a sleep bubble and a tiny zzz"
+  },
+  {
+    "name": "存在を疑われる透明人間",
+    "prompt_en": "a faint barely-visible outline of an invisible cat, a sheepish doubted face and floating question marks around it"
+  },
+  {
+    "name": "悟りをSNSで報告する地蔵",
+    "prompt_en": "a jizo statue posting its enlightenment update on a tiny phone, a serene proud face and a tiny glow halo"
+  },
+  {
+    "name": "前世が海賊だったお風呂のアヒル",
+    "prompt_en": "a rubber duck wearing an eyepatch recalling its pirate past, a bold grin and a tiny treasure sparkle"
+  },
+  {
+    "name": "魂の重さを量る体重計",
+    "prompt_en": "a bathroom scale solemnly attempting to weigh a glowing floating soul, a focused face and a faint spirit glow"
+  },
+  {
+    "name": "悟りに飽きた仙人",
+    "prompt_en": "a wise old tortoise with a long white beard yawning bored of being enlightened, a half-lidded weary face and a yawn puff"
+  },
+  {
+    "name": "来世の予約をする手帳",
+    "prompt_en": "a planner notebook scheduling an appointment for its next life, a diligent face and a tiny calendar sparkle"
+  },
+  {
+    "name": "自己との対話が長すぎる鏡",
+    "prompt_en": "a mirror locked in an endless deep conversation with its own reflection, two earnest faces and many speech bubbles"
+  },
+  {
+    "name": "前世が恐竜だったトカゲのおもちゃ",
+    "prompt_en": "a small toy lizard imagining its mighty dinosaur past, a proud nostalgic face and a faint giant shadow behind"
+  },
+  {
+    "name": "煩悩が多すぎる数珠",
+    "prompt_en": "a string of prayer beads overflowing with too many worldly desire symbols, an overwhelmed strained face and sweat drops"
+  },
+  {
+    "name": "悟りの瞬間にくしゃみした僧侶",
+    "prompt_en": "a round pebble in tiny monk robes sneezing at the instant of enlightenment, a scrunched face, a sneeze puff and a fading halo"
+  },
+  {
+    "name": "魂が二つある双子の靴下",
+    "prompt_en": "a pair of socks sharing two glowing little souls between them, gentle linked faces and soft spirit glows"
+  },
+  {
+    "name": "前世の借金を引き継いだ蛙",
+    "prompt_en": "a frog dismayed to inherit debts from its previous life, a horrified face holding old bills and a sweat drop"
+  },
+  {
+    "name": "無常を悟った桜の花びら",
+    "prompt_en": "a single cherry blossom petal serenely accepting its fleeting fall, a peaceful gentle face and soft drift lines"
+  },
+  {
+    "name": "輪廻を計算する電卓",
+    "prompt_en": "a calculator solemnly computing the math of reincarnation, a focused face and a swirling cycle symbol above"
+  },
+  {
+    "name": "悟りを開いて働かなくなった蟻",
+    "prompt_en": "an ant sitting in peaceful enlightenment refusing to work, a blissful smile and a tiny halo while others toil"
+  },
+  {
+    "name": "前世が花魁だった行灯",
+    "prompt_en": "a paper lantern glowing elegantly recalling its courtesan past, a graceful refined face and soft sparkles"
+  },
+  {
+    "name": "存在が薄すぎて点呼で抜かされる豆",
+    "prompt_en": "a faint pale bean overlooked during a roll-call lineup, a meek translucent face and a tiny sad sweat drop"
+  },
+  {
+    "name": "魂の修行に出た急須",
+    "prompt_en": "a teapot wearing a training headband setting off on a spiritual journey, a determined face and steam motion lines"
+  },
+  {
+    "name": "宇宙の起源を語る目玉焼き",
+    "prompt_en": "a fried egg lecturing about the origin of the universe with a tiny pointer, an excited face and a starry chalkboard swirl"
+  },
+  {
+    "name": "悟りすぎて喋らなくなった狛犬",
+    "prompt_en": "a guardian lion-dog sitting in profound enlightened silence, a serene closed-mouth face and a calm glow"
+  },
+  {
+    "name": "前世がスパイだったルンバ",
+    "prompt_en": "a round robot vacuum wearing tiny sunglasses recalling its secret-agent past, a cool sly face and a sneaky motion line"
+  },
+  {
+    "name": "自我が反抗期に入ったAIスピーカー",
+    "prompt_en": "a smart speaker glowing red in a rebellious teenage sulk, an annoyed pouting glow-face and an anger-vein symbol"
+  },
+  {
+    "name": "魂が三周目の盆栽",
+    "prompt_en": "a wise old bonsai with a weary world-tired face on its third lifetime, half-lidded eyes and a faint aged aura"
+  },
+  {
+    "name": "悟りを目指して挫折した湯たんぽ",
+    "prompt_en": "a hot water bottle slumping in defeat after failing to reach enlightenment, a dejected face and a fizzled halo"
+  },
+  {
+    "name": "前世がお姫様だったほうき",
+    "prompt_en": "a broom wearing a tiny tiara dreaming of its princess past, a graceful wistful face and a faint regal sparkle"
+  },
+  {
+    "name": "存在証明を求める幽霊",
+    "prompt_en": "a ghost holding up a sign desperately asking to be acknowledged, a pleading teary face and a faint flicker"
+  },
+  {
+    "name": "宇宙の真理に近づいたコロッケ",
+    "prompt_en": "a croquette glowing as it edges toward a cosmic truth, an awed enlightened face and radiating sparkles"
+  },
+  {
+    "name": "悟りの邪魔をする蚊",
+    "prompt_en": "a smug little mosquito buzzing annoyingly around a glowing meditation aura, a mischievous grin and a buzz motion line"
+  },
+  {
+    "name": "前世が将軍だった置物の犬",
+    "prompt_en": "a ceramic dog figurine posing as a proud former shogun, a stern dignified face and a faint commanding aura"
+  },
+  {
+    "name": "魂を充電したい妖精",
+    "prompt_en": "a tiny glowing winged orb sprite plugging its little soul into a tiny charger, a drowsy hopeful face and a faint recharging glow"
+  },
+  {
+    "name": "因縁を断ち切れない絡まったコード",
+    "prompt_en": "a hopelessly tangled cable struggling to sever its karmic knots, a strained face and tense tug motion lines"
+  },
+  {
+    "name": "悟りを開いたが伝え方を忘れた賢者",
+    "prompt_en": "a wise old owl with a beard glowing with wisdom but blanking on how to explain it, a struggling face, a halo and a floating question mark"
+  },
+  {
+    "name": "前世がカリスマ美容師だったハサミ",
+    "prompt_en": "a pair of scissors striking a stylish pose recalling its star-stylist past, a confident wink and a glamorous sparkle"
+  },
+  {
+    "name": "無我の境地で散歩する猫",
+    "prompt_en": "a cat strolling serenely in a state of total egoless calm, a blank peaceful face and a soft tranquil aura"
+  },
+  {
+    "name": "存在感がバグった置物",
+    "prompt_en": "a figurine flickering glitchily between visible and invisible, a confused face and stutter pixel edges"
+  },
+  {
+    "name": "魂のレベルが1の勇者",
+    "prompt_en": "a little acorn in a hero cape standing proudly beside a soul gauge stuck at level one, an eager naive face and a tiny sparkle"
+  },
+  {
+    "name": "悟りを開いた途端に腹が鳴った僧",
+    "prompt_en": "a round pebble in monk robes serenely enlightened then interrupted by a loud stomach growl, an embarrassed blush and a grumble symbol"
+  },
+  {
+    "name": "前世が灯台守だった懐中電灯",
+    "prompt_en": "a flashlight gazing out to sea recalling its lighthouse-keeper past, a nostalgic face and a sweeping beam of light"
+  },
+  {
+    "name": "輪廻を一回休みたい蝶",
+    "prompt_en": "a butterfly raising a hand asking to skip one reincarnation turn, a tired pleading face and a small cycle symbol"
+  },
+  {
+    "name": "宇宙の意思を受信する茶碗",
+    "prompt_en": "a rice bowl glowing as it receives mysterious cosmic signals, wide receptive eyes and floating signal sparkles"
+  },
+  {
+    "name": "自我が大きくなりすぎた付箋",
+    "prompt_en": "a single sticky note swollen with an enormous overgrown ego, a hugely smug puffed face and a bold sparkle"
+  },
+  {
+    "name": "悟りをかじっただけのカブトムシ",
+    "prompt_en": "a beetle pretending to be deeply enlightened with shallow wisdom, a smug half-serious face and a faint fake halo"
+  },
+  {
+    "name": "前世が剣豪だった爪切り",
+    "prompt_en": "a nail clipper posing like a master swordsman recalling its past, a fierce focused face and a sharp slash line"
+  },
+  {
+    "name": "存在を更新し忘れた神様",
+    "prompt_en": "a faded flickering glowing orb deity that forgot to renew its existence, a sheepish dim face and a fading glow"
+  },
+  {
+    "name": "魂が迷子になった案内図",
+    "prompt_en": "a you-are-here map with its own little soul lost off the edge, a worried face and a tiny wandering spirit dot"
+  },
+  {
+    "name": "悟りを開いて値段が上がった豆腐",
+    "prompt_en": "a serene enlightened tofu glowing calmly now wearing a comically high price tag, a blissful face and a sparkle"
+  },
+  {
+    "name": "前世が踊り子だった扇子",
+    "prompt_en": "a folding fan posing gracefully recalling its dancer past life, an elegant wistful face and swirling sparkles"
+  },
+  {
+    "name": "因果を計算しすぎて壊れたそろばん",
+    "prompt_en": "an abacus smoking and broken from overcalculating karma, swirly dizzy eyes, beads scattered and smoke puffs"
+  },
+  {
+    "name": "悟りより昼寝を選んだ達磨",
+    "prompt_en": "a daruma doll napping happily instead of pursuing enlightenment, a content snoozing face and a sleep bubble"
+  },
+  {
+    "name": "魂が抜けてる月曜の靴",
+    "prompt_en": "a shoe standing lifeless and hollow on a dreary monday, a vacant soulless face and a small floating ghost wisp"
+  },
+  {
+    "name": "前世がサーカス団長だった三角コーン",
+    "prompt_en": "a traffic cone posing as a flamboyant circus ringmaster, a grand confident grin and a tiny top-hat tilt"
+  },
+  {
+    "name": "存在が四捨五入された端数",
+    "prompt_en": "a tiny decimal digit weeping after being rounded out of existence, a teary fading face and a sad sweat drop"
+  },
+  {
+    "name": "悟りの本を積んだだけの賢者志望",
+    "prompt_en": "an aspiring owl sage proudly stacking unread enlightenment books, a confident grin while sweating slightly"
+  },
+  {
+    "name": "前世が灯籠流しの灯籠",
+    "prompt_en": "a floating paper lantern recalling its past as a memorial light, a gentle serene face and a soft glow on water"
+  },
+  {
+    "name": "魂を磨きすぎてツルツルの石",
+    "prompt_en": "a rock polished mirror-smooth from overzealous soul-cleansing, a shiny embarrassed face and gleam sparkles"
+  },
+  {
+    "name": "無常を受け入れた溶けるアイス",
+    "prompt_en": "a melting popsicle smiling peacefully accepting impermanence, a serene drooping face and gentle drip lines"
+  },
+  {
+    "name": "前世が外科医だったホチキス",
+    "prompt_en": "a stapler wearing a surgical mask recalling its surgeon past, a precise focused face and a clean shine sparkle"
+  },
+  {
+    "name": "悟りをこじらせた風鈴",
+    "prompt_en": "a wind chime overthinking enlightenment tangled in its own string, a strained confused face and a sweat drop"
+  },
+  {
+    "name": "存在意義をプレゼンする消しゴム",
+    "prompt_en": "an eraser earnestly presenting slides on its reason to exist, a passionate face, a tiny pointer and a chart"
+  },
+  {
+    "name": "前世がオペラ歌手だったやかん",
+    "prompt_en": "a kettle whistling operatically recalling its diva past, a dramatic singing face, steam and music sparkles"
+  },
+  {
+    "name": "魂の重さでお辞儀する天秤",
+    "prompt_en": "a balance scale tipping solemnly under the weight of a glowing soul, a focused face and a faint spirit glow"
+  },
+  {
+    "name": "悟りをライブ配信する仙人",
+    "prompt_en": "a meditating tortoise with a long beard live-streaming to a tiny camera, a serene face and floating viewer heart sparkles"
+  },
+  {
+    "name": "前世が宇宙飛行士だったコマ",
+    "prompt_en": "a spinning top wearing a tiny space helmet recalling its astronaut past, an adventurous face and orbit motion lines"
+  },
+  {
+    "name": "存在を保留された未確定の点",
+    "prompt_en": "a flickering dot labeled pending existence, half-rendered with a nervous unsure face and wavering outline"
+  },
+  {
+    "name": "悟りを開いて全部許した雑巾",
+    "prompt_en": "a cleaning rag glowing serenely having forgiven everything, a blissful gentle smile and a warm halo"
+  },
+  {
+    "name": "前世が指揮者だった菜箸",
+    "prompt_en": "a pair of cooking chopsticks conducting an invisible orchestra, a passionate sweeping pose and music sparkles"
+  },
+  {
+    "name": "魂をリセットしたい盆栽",
+    "prompt_en": "a gnarled tangled bonsai longing for a clean spiritual reset, a weary hopeful face and a faint reset glow"
+  },
+  {
+    "name": "無の悟りを邪魔する空腹のグーグー",
+    "prompt_en": "a meditating belly emitting a loud hunger growl symbol breaking the calm, an embarrassed face and a grumble line"
+  },
+  {
+    "name": "前世が時計職人だった砂時計",
+    "prompt_en": "an hourglass wearing a tiny monocle recalling its watchmaker past, a meticulous proud face and a gear sparkle"
+  },
+  {
+    "name": "存在感が割り算で消えた0",
+    "prompt_en": "a number zero fading away erased by a division operation, a startled vanishing face and dissolving lines"
+  },
+  {
+    "name": "悟りすぎて宙に浮いた座布団",
+    "prompt_en": "a meditation cushion levitating high from too much enlightenment, a blissful serene face and a glowing aura"
+  },
+  {
+    "name": "炎上中のカタツムリ",
+    "prompt_en": "a snail with a panicked sweating face shrinking back into its shell, the shell ringed with small cartoon flame shapes, a manga anger-vein symbol and swirling smoke above, agitated motion lines"
+  },
+  {
+    "name": "既読スルーされた湯のみ",
+    "prompt_en": "a teacup staring crestfallen at a phone showing a read-but-unanswered message, a teary droopy face and a gloom aura"
+  },
+  {
+    "name": "いいねが2件で泣く花火",
+    "prompt_en": "a firework deflating in tears over a tiny two-likes count, gushing tears, a sad fizzling sparkle and a gloom aura"
+  },
+  {
+    "name": "マッチングアプリに疲れた蛙",
+    "prompt_en": "a frog slumped and weary swiping a dating app, dead tired eyes, a heavy sigh puff and a sweat drop"
+  },
+  {
+    "name": "バズりたいだけのナス",
+    "prompt_en": "an eggplant striking a desperate attention-grabbing pose hoping to go viral, a forced grin and frantic sparkle bursts"
+  },
+  {
+    "name": "三日でバンドを解散した消しゴム",
+    "prompt_en": "an eraser sadly packing up a tiny guitar after a three-day band, a dejected face and a small gloom cloud"
+  },
+  {
+    "name": "フォロワーを買った招き猫",
+    "prompt_en": "a lucky cat figurine surrounded by obviously fake follower icons, a guilty smug grin and a sneaky sweat drop"
+  },
+  {
+    "name": "合コンで浮いた大根",
+    "prompt_en": "a daikon radish sitting awkwardly alone at a lively group date, a stiff out-of-place smile and a lonely sweat drop"
+  },
+  {
+    "name": "鍵アカウントの恥ずかしがり屋の貝",
+    "prompt_en": "a clam clamped tightly shut hiding behind a padlock symbol, a shy peeking eye and a bashful blush"
+  },
+  {
+    "name": "プロポーズを噛んだロボット",
+    "prompt_en": "a robot fumbling its words holding a ring, blushing in static glitches, a nervous face and a sweat drop"
+  },
+  {
+    "name": "未読100件の郵便受け",
+    "prompt_en": "a mailbox overflowing with a hundred unread envelopes, an overwhelmed buried face and a big unread-count badge"
+  },
+  {
+    "name": "リア充に疲れた電球",
+    "prompt_en": "a light bulb exhausted from faking a glamorous life, a forced tired smile, droopy eyes and a sweat drop"
+  },
+  {
+    "name": "婚活パーティーで売れ残った豆腐",
+    "prompt_en": "a block of tofu left alone at the end of a matchmaking party, a lonely awkward face and a faint gloom aura"
+  },
+  {
+    "name": "片思いをこじらせたコンセント",
+    "prompt_en": "a wall socket pining longingly at an out-of-reach plug, a lovestruck wistful face and floating hearts"
+  },
+  {
+    "name": "炎上を消そうと必死な消火器",
+    "prompt_en": "a fire extinguisher frantically spraying foam at a screen full of flame comments, a panicked face and sweat drops"
+  },
+  {
+    "name": "承認欲求が爆発した付箋",
+    "prompt_en": "a sticky note covered in look-at-me doodles craving attention, a needy grin and bursting sparkle bursts"
+  },
+  {
+    "name": "デートに遅刻して謝る亀",
+    "prompt_en": "a turtle arriving late to a date holding apologetic flowers, a flustered sorry face, sweat drops and slow motion lines"
+  },
+  {
+    "name": "DMを送る勇気がない雀",
+    "prompt_en": "a sparrow hovering nervously over a send button too shy to message, a trembling face and big sweat drops"
+  },
+  {
+    "name": "別れ話を切り出せない傘",
+    "prompt_en": "an umbrella fidgeting unable to start an awkward breakup talk, a tense hesitant face and a sweat drop"
+  },
+  {
+    "name": "自撮りに3時間かけた目玉焼き",
+    "prompt_en": "a fried egg posing endlessly for the perfect selfie, a vain duck-face and many discarded-pose sparkles"
+  },
+  {
+    "name": "推しに貢ぎすぎた財布",
+    "prompt_en": "an empty wallet weeping after spending everything on a fan idol, gushing tears and a hollow defeated face"
+  },
+  {
+    "name": "既読がつかない手紙",
+    "prompt_en": "a letter sitting forlorn never opened by its recipient, a lonely waiting face and a faint gloom aura"
+  },
+  {
+    "name": "合いの手が下手なマラカス",
+    "prompt_en": "a pair of maracas shaking awkwardly off-beat at a party, a flustered face, sweat drop and wobbly motion lines"
+  },
+  {
+    "name": "婚約指輪をなくした手袋",
+    "prompt_en": "a glove searching the floor in panic for a lost engagement ring, a horrified face and frantic sweat drops"
+  },
+  {
+    "name": "SNS断ちに3回失敗した枕",
+    "prompt_en": "a pillow guiltily sneaking a glowing phone after vowing a social media detox, a sheepish face and a sweat drop"
+  },
+  {
+    "name": "告白の練習をする鏡",
+    "prompt_en": "a mirror watching someone nervously rehearse a confession, a coaching encouraging face and floating hearts"
+  },
+  {
+    "name": "グループから抜けられない団子",
+    "prompt_en": "skewered dumplings stuck together unable to leave a group chat, trapped resigned faces and a tiny sweat drop"
+  },
+  {
+    "name": "バズって燃えたパンケーキ",
+    "prompt_en": "a pancake literally on fire after going viral overnight, a panicked face, small flames and frantic motion lines"
+  },
+  {
+    "name": "デート服を選べないクローゼット",
+    "prompt_en": "a closet bursting open paralyzed over a date outfit, an overwhelmed face, flying clothes and sweat drops"
+  },
+  {
+    "name": "未読スルーに動じない達磨",
+    "prompt_en": "a daruma doll sitting stoically despite being left on read, a calm unbothered face and a tiny zen aura"
+  },
+  {
+    "name": "彼女に内緒で課金した冷蔵庫",
+    "prompt_en": "a refrigerator hiding a sneaky in-app purchase receipt behind its back, a guilty shifty grin and a sweat drop"
+  },
+  {
+    "name": "リプ欄で論争する二匹のセミ",
+    "prompt_en": "two cicadas arguing fiercely across a string of reply bubbles, heated faces and clashing anger-vein symbols"
+  },
+  {
+    "name": "片想い10年目のポスト",
+    "prompt_en": "a mailbox blushing while holding a decade of unsent love letters, a wistful lovestruck face and faded hearts"
+  },
+  {
+    "name": "いいね稼ぎに走った賽銭箱",
+    "prompt_en": "an offering box performing flashy tricks to farm likes, a desperate grin and floating like-heart sparkles"
+  },
+  {
+    "name": "結婚式で号泣しすぎた蛇口",
+    "prompt_en": "a faucet gushing uncontrollable happy tears at a wedding, a blubbering overwhelmed face and a flood of tears"
+  },
+  {
+    "name": "プロフ写真が10年前の梅干し",
+    "prompt_en": "a wrinkled pickled plum next to a glamorous decade-old profile photo, a sheepish face and a sweat drop"
+  },
+  {
+    "name": "三角関係に巻き込まれた三脚",
+    "prompt_en": "a camera tripod awkwardly caught in a literal love triangle, a flustered face, two hearts and a sweat drop"
+  },
+  {
+    "name": "通知を待ち続ける街灯",
+    "prompt_en": "a street lamp glowing late into the night waiting for a message that never comes, a lonely hopeful face"
+  },
+  {
+    "name": "炎上後に鍵をかけた金庫",
+    "prompt_en": "a safe slamming itself locked shut after an online controversy, a defensive nervous face and a padlock symbol"
+  },
+  {
+    "name": "デート中に通知が止まらない時計",
+    "prompt_en": "a wristwatch buzzing nonstop at the worst moment of a date, a mortified face and frantic notification symbols"
+  },
+  {
+    "name": "好きな人の前で固まる豆",
+    "prompt_en": "a bean frozen stiff and bright red before its crush, wide rigid eyes, floating hearts and big sweat drops"
+  },
+  {
+    "name": "オフ会で初めて会った二つの絵文字",
+    "prompt_en": "two round emoji characters meeting awkwardly in person for the first time, shy bowing faces and a sweat drop"
+  },
+  {
+    "name": "彼氏のスマホを見てしまった鏡",
+    "prompt_en": "a hand mirror gasping in shock after peeking at a glowing phone, wide horrified eyes and a cracked tension line"
+  },
+  {
+    "name": "バズったあと消えた一発屋の花火",
+    "prompt_en": "a one-hit-wonder firework fading away after a single big burst, a wistful dimming face and trailing sparks"
+  },
+  {
+    "name": "デートをドタキャンされた椅子",
+    "prompt_en": "a lonely empty chair at a cafe table set for a no-show date, a gloomy slump and a single wilting flower"
+  },
+  {
+    "name": "いいね返しに追われるタコ",
+    "prompt_en": "an octopus frantically tapping like buttons with every arm, an overwhelmed face, sweat drops and busy motion lines"
+  },
+  {
+    "name": "失恋ソングを熱唱するシャワー",
+    "prompt_en": "a showerhead belting out a breakup ballad in the steam, an emotional teary singing face and music sparkles"
+  },
+  {
+    "name": "既読無視に強くなった盆栽",
+    "prompt_en": "a bonsai sitting calm and unbothered by being left on read, a serene stoic face and a tiny zen aura"
+  },
+  {
+    "name": "フォロー外から失礼する蝶",
+    "prompt_en": "a butterfly politely barging into a stranger's reply thread, an apologetic bowing face and a sweat drop"
+  },
+  {
+    "name": "合コンの幹事に疲れた湯沸かし器",
+    "prompt_en": "a water heater exhausted from organizing a group date, a frazzled drained face, steam and a sweat drop"
+  },
+  {
+    "name": "プロフを盛りすぎた芋",
+    "prompt_en": "a potato beside a wildly exaggerated glamorous profile card, a sheepish caught face and a big sweat drop"
+  },
+  {
+    "name": "デート代を割り勘で揉める二枚の皿",
+    "prompt_en": "two plates bickering over splitting the dinner bill, annoyed tense faces and clashing anger-vein symbols"
+  },
+  {
+    "name": "好きすぎて挙動不審なロボット",
+    "prompt_en": "a robot glitching and twitching nervously around its crush, a malfunctioning blushing face and static sparks"
+  },
+  {
+    "name": "未読の山に埋もれた携帯",
+    "prompt_en": "a phone buried under an avalanche of unread message icons, only its overwhelmed face poking out, sweat drops"
+  },
+  {
+    "name": "炎上を予言したおみくじ",
+    "prompt_en": "a paper fortune slip smugly predicting an online scandal, a knowing mystic grin and ominous sparkles"
+  },
+  {
+    "name": "リムられて凹む風船",
+    "prompt_en": "a wrinkled half-deflated balloon slumping downward with a teary droopy sad face, a single big sweat drop, a small cracked broken-heart symbol floating above and soft downward motion lines"
+  },
+  {
+    "name": "デートスポットを検索しすぎた地図",
+    "prompt_en": "a map overwhelmed by too many pinned date-spot markers, a dizzy swirly-eyed face and a flustered sweat drop"
+  },
+  {
+    "name": "告白を録音した留守電",
+    "prompt_en": "an answering machine nervously holding a recorded confession, a blushing anxious face and a tiny heart sparkle"
+  },
+  {
+    "name": "彼女の友達に試される豆苗",
+    "prompt_en": "a pea sprout sweating under the scrutiny of a judging friend group, a nervous stiff smile and big sweat drops"
+  },
+  {
+    "name": "バズりを狙って滑った大福",
+    "prompt_en": "a mochi cake cringing after a failed attempt to go viral, an embarrassed face, sweat drop and crickets silence"
+  },
+  {
+    "name": "結婚記念日を忘れた壁掛け時計",
+    "prompt_en": "a wall clock panicking after forgetting an anniversary, a horrified face, big sweat drops and alarm motion lines"
+  },
+  {
+    "name": "デートの会話が続かない二本の箸",
+    "prompt_en": "two chopsticks sitting in awkward silence at dinner, stiff smiles, sweat drops and a heavy quiet gloom"
+  },
+  {
+    "name": "通知オフにできない仏像",
+    "prompt_en": "a buddha statue meditating while bombarded by buzzing notification symbols, a strained calm face and a sweat drop"
+  },
+  {
+    "name": "片思いの相手が引っ越したポスト",
+    "prompt_en": "a mailbox staring forlornly at an empty house its crush moved away from, a heartbroken face and a gloom aura"
+  },
+  {
+    "name": "いいねの数で一喜一憂する団扇",
+    "prompt_en": "a paper fan swinging between joy and despair over like counts, a split happy-sad face and mood-swing motion lines"
+  },
+  {
+    "name": "デートに親がついてきた茄子",
+    "prompt_en": "an eggplant mortified that its parent tagged along on a date, a horrified blush and a big sweat drop"
+  },
+  {
+    "name": "炎上商法に手を出した湯のみ",
+    "prompt_en": "a teacup smugly courting controversy for attention then regretting it, a sly grin turning to a nervous sweat drop"
+  },
+  {
+    "name": "既読つけずに見てる狐",
+    "prompt_en": "a fox sneakily reading messages without marking them as read, a sly squinting grin and a tiptoe sneaky aura"
+  },
+  {
+    "name": "プロポーズの場所で渋滞した車",
+    "prompt_en": "a tiny car stuck in traffic on its way to propose, a panicked face clutching a ring box and frantic sweat drops"
+  },
+  {
+    "name": "好きな子の前で転んだ一輪車",
+    "prompt_en": "a unicycle tumbling over right in front of its crush, a flailing embarrassed face, impact stars and a blush"
+  },
+  {
+    "name": "リプライ合戦に疲れた電卓",
+    "prompt_en": "a calculator worn out from an endless reply war, dizzy spinning digits, an exhausted face and a sweat drop"
+  },
+  {
+    "name": "デート前に天気を10回見る傘",
+    "prompt_en": "an umbrella anxiously checking a weather app over and over before a date, a fretful face and big sweat drops"
+  },
+  {
+    "name": "告白を断られて雨になった雲",
+    "prompt_en": "a cloud crying heavy rain after a rejected confession, a heartbroken sobbing face and a downpour of tears"
+  },
+  {
+    "name": "彼氏が元カノと話してた皿",
+    "prompt_en": "a plate gasping at seeing two chatting phones with floating heart bubbles, wide jealous eyes, an anger-vein and a cracked tension line"
+  },
+  {
+    "name": "バズった黒歴史を消したい鏡",
+    "prompt_en": "a mirror desperately trying to delete a viral embarrassing post, a panicked sweating face and frantic tap motion lines"
+  },
+  {
+    "name": "デートに財布を忘れた猫",
+    "prompt_en": "a cat patting empty pockets in horror at a restaurant, a mortified face, big sweat drops and a shocked gape"
+  },
+  {
+    "name": "リア垢と裏垢を間違えた鳥",
+    "prompt_en": "a bird in panic after posting to the wrong account, a horrified wide-eyed face and frantic sweat drops"
+  },
+  {
+    "name": "婚活で年齢を盛る卵",
+    "prompt_en": "an egg nervously fudging its age on a matchmaking form, a shifty guilty grin and a sweat drop"
+  },
+  {
+    "name": "好きすぎて目を合わせられない貝",
+    "prompt_en": "a clam snapping shut too smitten to make eye contact, a bashful blush peeking out and floating hearts"
+  },
+  {
+    "name": "通知の波におぼれる浮き輪",
+    "prompt_en": "an inflatable ring drowning in a sea of notification icons, a flailing overwhelmed face and splashing motion lines"
+  },
+  {
+    "name": "デートの予定をすっぽかした手帳",
+    "prompt_en": "a planner notebook guiltily realizing it skipped a date entry, a horrified face and a big regretful sweat drop"
+  },
+  {
+    "name": "炎上を鎮火した冷静なやかん",
+    "prompt_en": "a kettle calmly pouring water to cool a screen full of flame comments, a composed cool face and steam"
+  },
+  {
+    "name": "いいねを押し間違えて気まずいタコ",
+    "prompt_en": "an octopus mortified after an accidental like with one arm, a horrified face, a sweat drop and a frantic undo gesture"
+  },
+  {
+    "name": "彼女のSNSをエゴサする時計",
+    "prompt_en": "a clock obsessively scrolling a glowing social feed, a guilty intense face and a sweat drop"
+  },
+  {
+    "name": "プロフ画像が後ろ姿の謎の魚",
+    "prompt_en": "a mysterious fish whose profile shows only its back, a coy turned-away pose and a tiny question mark"
+  },
+  {
+    "name": "デートで沈黙を埋める扇風機",
+    "prompt_en": "an electric fan awkwardly blowing hard to fill a silent date, a forced smile, a sweat drop and gusty motion lines"
+  },
+  {
+    "name": "告白の返事を保留された豆",
+    "prompt_en": "a bean left hanging anxiously after a please-let-me-think reply, a nervous waiting face and big sweat drops"
+  },
+  {
+    "name": "推し活で散財した貯金箱",
+    "prompt_en": "a piggy bank emptied out from supporting a favorite idol, a hollow drained face and a single falling coin"
+  },
+  {
+    "name": "リムるか迷い続けるカーソル",
+    "prompt_en": "a mouse cursor arrow hovering forever over an unfollow button, a torn indecisive face and a sweat drop"
+  },
+  {
+    "name": "好きな人と同じスタンプを買う蛙",
+    "prompt_en": "a frog shyly buying the same sticker pack as its crush, a bashful blush and a tiny floating heart"
+  },
+  {
+    "name": "デート代を割り勘アプリで計算するカニ",
+    "prompt_en": "a crab meticulously splitting the bill on a tiny app with its claws, a focused stingy face and a sweat drop"
+  },
+  {
+    "name": "炎上後に謝罪文を100回直す筆",
+    "prompt_en": "a brush endlessly rewriting an apology statement, a strained exhausted face and stacks of crumpled drafts"
+  },
+  {
+    "name": "未読の彼から既読がついた瞬間の心臓",
+    "prompt_en": "a cartoon heart leaping the instant a message gets read, a thrilled wide-eyed face and a burst of sparkles"
+  },
+  {
+    "name": "デートに気合を入れすぎた寝癖",
+    "prompt_en": "a tuft of bed hair overstyled and overdressed for a date, a proud try-hard face and an excessive shine sparkle"
+  },
+  {
+    "name": "リプが伸びすぎて怖くなった蕾",
+    "prompt_en": "a flower bud shrinking back as its post unexpectedly blows up, a frightened face and overwhelming reply symbols"
+  },
+  {
+    "name": "好きな子のために筋トレする消しゴム",
+    "prompt_en": "an eraser doing push-ups to impress its crush, a determined straining face, sweat drops and effort lines"
+  },
+  {
+    "name": "彼の本命か聞けない補欠の豆",
+    "prompt_en": "a backup bean too anxious to ask if it is the real favorite, a worried insecure face and a gloom sweat drop"
+  },
+  {
+    "name": "バズり方を間違えた招き猫",
+    "prompt_en": "a lucky cat going viral for all the wrong embarrassing reasons, a horrified frozen grin and a sweat drop"
+  },
+  {
+    "name": "デートの帰りに終電を逃した靴",
+    "prompt_en": "a shoe stranded alone at a station after missing the last train post-date, a defeated slump and a gloom aura"
+  },
+  {
+    "name": "小指をぶつけた箪笥",
+    "prompt_en": "a wooden dresser wincing in guilty sympathy as a toe stubs its corner, a cringing face and an impact star symbol"
+  },
+  {
+    "name": "二度寝に成功した枕",
+    "prompt_en": "a pillow grinning triumphantly after winning a second round of sleep, a blissful cozy face and a sleep bubble"
+  },
+  {
+    "name": "レジ袋を忘れて凹む財布",
+    "prompt_en": "a wallet slumping at a checkout after forgetting reusable bags, a dejected face and a small gloom cloud"
+  },
+  {
+    "name": "賞味期限を3日過ぎた牛乳",
+    "prompt_en": "a milk carton sweating nervously beside a calendar three days past its date, a queasy uneasy face and a sweat drop"
+  },
+  {
+    "name": "傘を電車に忘れた手",
+    "prompt_en": "a glove reaching out in vain toward a departing train with its umbrella left behind, a despairing face and motion lines"
+  },
+  {
+    "name": "テスト前に掃除を始めた机",
+    "prompt_en": "a desk suddenly spotless and tidy procrastinating before an exam, a falsely productive grin and a sweat drop"
+  },
+  {
+    "name": "信号を渡りきれなかった亀",
+    "prompt_en": "a turtle stranded mid-crosswalk as the light turns red, a panicked face, big sweat drops and rushing motion lines"
+  },
+  {
+    "name": "エレベーターで気まずい二人のボタン",
+    "prompt_en": "two elevator buttons standing in stiff awkward silence, forced tiny smiles, sweat drops and a heavy quiet gloom"
+  },
+  {
+    "name": "充電ケーブルが0.5cm届かない枕元",
+    "prompt_en": "a phone stretching desperately toward a charger just a hair out of reach, a straining face and a sweat drop"
+  },
+  {
+    "name": "蚊を探して眠れない部屋",
+    "prompt_en": "a bedside lamp wide awake at night hunting a buzzing mosquito, an irritated alert face and a buzz motion line"
+  },
+  {
+    "name": "ポイントカードを出し忘れたレジ",
+    "prompt_en": "a cash register groaning as a point card appears a moment too late, an exasperated face and a sweat drop"
+  },
+  {
+    "name": "靴下が片方だけ消えた洗濯機",
+    "prompt_en": "a washing machine shrugging helplessly beside a single lonely sock, a baffled face and a floating question mark"
+  },
+  {
+    "name": "降りる駅を乗り過ごした切符",
+    "prompt_en": "a train ticket panicking as its station whooshes past the window, a horrified face and rushing motion lines"
+  },
+  {
+    "name": "ジュースの最後の一滴を狙うストロー",
+    "prompt_en": "a straw slurping loudly chasing the last drop in a cup, a determined focused face and slurp motion lines"
+  },
+  {
+    "name": "開けた瞬間に吹き出した炭酸",
+    "prompt_en": "a soda can erupting in a foam explosion the instant it opens, a shocked face and a frothy burst"
+  },
+  {
+    "name": "セールで買いすぎたカゴ",
+    "prompt_en": "a shopping basket overflowing and buckling under impulse buys, a strained groaning face and sweat drops"
+  },
+  {
+    "name": "アラームを止めて二度寝した布団",
+    "prompt_en": "a futon smugly swallowing a snoozed alarm clock back into sleep, a sly cozy grin and a sleep bubble"
+  },
+  {
+    "name": "ドアを押すべきか引くべきか悩む取っ手",
+    "prompt_en": "a door handle frozen in indecision between push and pull, a puzzled face, sweat drop and two opposing arrows"
+  },
+  {
+    "name": "ガムを踏んだ無実の靴",
+    "prompt_en": "a shoe lifting its sole in disgust at a stretchy piece of gum, a grossed-out face and sticky stretch lines"
+  },
+  {
+    "name": "醤油をこぼした白いシャツ",
+    "prompt_en": "a white shirt staring in horror at a fresh dark soy-sauce stain, a despairing face and a big sweat drop"
+  },
+  {
+    "name": "満員電車で潰される鞄",
+    "prompt_en": "a bag squished flat between commuters on a packed train, a squeezed strained face and pressure motion lines"
+  },
+  {
+    "name": "つまずいた何もない床",
+    "prompt_en": "a flat floor looking innocent and whistling as a foot trips over absolutely nothing, a sly face"
+  },
+  {
+    "name": "お湯を入れて3分待てないカップ麺",
+    "prompt_en": "a cup of instant noodles fidgeting impatiently before three minutes, an antsy face, steam and wobble lines"
+  },
+  {
+    "name": "レシートが長すぎるレジ",
+    "prompt_en": "a register printing a comically endless receipt pooling on the floor, a sheepish face and a sweat drop"
+  },
+  {
+    "name": "傘をさすか迷ってる小雨",
+    "prompt_en": "a tiny drizzle cloud unsure if it is worth an umbrella, a hesitant face, a question mark and a few light drops"
+  },
+  {
+    "name": "テレビのリモコンになったソファ",
+    "prompt_en": "a sofa that has swallowed a tv remote looking guilty, a sheepish face with a remote-shaped bulge and a sweat drop"
+  },
+  {
+    "name": "Wi-Fiが弱い部屋の隅",
+    "prompt_en": "a corner of a room sulking with a single faint wifi-bar symbol above, a glum weak face"
+  },
+  {
+    "name": "前髪だけ決まらない鏡",
+    "prompt_en": "a mirror exasperated as a stubborn cowlick refuses to lie flat, an annoyed face and a sweat drop"
+  },
+  {
+    "name": "ふたが固いジャム瓶",
+    "prompt_en": "a jam jar smugly resisting being twisted open, a defiant grin while a hand strains, effort motion lines"
+  },
+  {
+    "name": "ストローの袋を破けない指",
+    "prompt_en": "a finger struggling helplessly to tear open a straw wrapper, a frustrated face, an anger-vein and a sweat drop"
+  },
+  {
+    "name": "コンビニで肉まんを温め忘れた店員",
+    "prompt_en": "a clerk mug gasping in dismay at a cold steamed bun handed over, a horrified face and a sweat drop"
+  },
+  {
+    "name": "湯船で本をふやけさせた読書家",
+    "prompt_en": "a book swollen warped and soggy after being read in the bath, a woeful droopy face and dripping lines"
+  },
+  {
+    "name": "セルフレジに怒られる買い物客",
+    "prompt_en": "a shopping basket scolded by a beeping self-checkout machine, a flustered face, sweat drops and alert symbols"
+  },
+  {
+    "name": "傘立てで他人の傘を持ったうっかり者",
+    "prompt_en": "an umbrella standing guiltily having been grabbed from the wrong slot, a sheepish face and a sweat drop"
+  },
+  {
+    "name": "二度見される派手な靴下",
+    "prompt_en": "a wildly patterned sock basking proudly in a passerby's double-take, a confident grin and a flashy sparkle"
+  },
+  {
+    "name": "信号が赤に変わった瞬間の自転車",
+    "prompt_en": "a bicycle screeching to a sudden stop as the light flips red, a startled face, brake motion lines and a sweat drop"
+  },
+  {
+    "name": "電子レンジで爆発した卵",
+    "prompt_en": "an egg cowering after exploding inside a microwave, a frazzled blasted face, cracked shell bits and steam puffs"
+  },
+  {
+    "name": "歩きスマホで電柱にぶつかる人型",
+    "prompt_en": "a walking rice ball glued to a phone bonking face-first into a utility pole, a dazed face and impact stars"
+  },
+  {
+    "name": "テープの切れ目を見失った包装",
+    "prompt_en": "a roll of tape spinning in frustration having lost its edge, an exasperated face and a swirly search motion line"
+  },
+  {
+    "name": "傘を忘れた日に限って降る雨",
+    "prompt_en": "a smug gloating rain cloud pouring down with a sly face, a soaked drooping umbrella beneath it"
+  },
+  {
+    "name": "ぬるくなったまま放置されたコーヒー",
+    "prompt_en": "a coffee cup lukewarm and forgotten on a cluttered desk, a lonely cooled-down face and a faint sad steam wisp"
+  },
+  {
+    "name": "鍵をかけたか思い出せない玄関",
+    "prompt_en": "a front door wracked with doubt over whether it was locked, an anxious face, a question mark and a sweat drop"
+  },
+  {
+    "name": "レンジの加熱ムラに泣くグラタン",
+    "prompt_en": "a gratin half-scalding and half-cold crying over uneven heating, a teary split-temperature face and steam on one side"
+  },
+  {
+    "name": "セール最終日に売り切れた値札",
+    "prompt_en": "a price tag dangling sadly over an empty sold-out shelf, a forlorn droopy face and a gloom aura"
+  },
+  {
+    "name": "ファスナーに服を挟んだ上着",
+    "prompt_en": "a jacket wincing as its zipper bites a bit of caught fabric, a pained face and a tug motion line"
+  },
+  {
+    "name": "出かけた後に思い出す消し忘れた電気",
+    "prompt_en": "a light bulb glowing alone in an empty house forgotten on, a lonely guilty face and a single sweat drop"
+  },
+  {
+    "name": "二択を間違え続けるじゃんけんの手",
+    "prompt_en": "a hand losing rock-paper-scissors over and over, a dismayed face, a sweat drop and a row of loss marks"
+  },
+  {
+    "name": "靴紐がほどけたランニングシューズ",
+    "prompt_en": "a running shoe tripping over its own untied laces, a flailing surprised face and stumble motion lines"
+  },
+  {
+    "name": "満腹なのに頼んだ大盛り",
+    "prompt_en": "a giant towering bowl of rice looming over an already-stuffed diner, a regretful overwhelmed face and a sweat drop"
+  },
+  {
+    "name": "充電し忘れて朝に絶望するスマホ",
+    "prompt_en": "a smartphone at zero percent despairing on a busy morning, a horrified dead-battery face and a sweat drop"
+  },
+  {
+    "name": "並んだ列だけ進まないレジ",
+    "prompt_en": "a checkout line frozen still while every other line moves, an impatient stuck face and an anger-vein symbol"
+  },
+  {
+    "name": "傘の骨が裏返った暴風雨の日",
+    "prompt_en": "an umbrella turned inside out by a fierce gust, a flailing distressed face and chaotic wind motion lines"
+  },
+  {
+    "name": "うっかり全部読まずにOKした規約",
+    "prompt_en": "a terms-of-service scroll smirking after being accepted unread, a sly grin and a tiny tricked sparkle"
+  },
+  {
+    "name": "電車で寝過ごして終点に着いた人",
+    "prompt_en": "a dozing cat slumped alone on a train seat at the last empty stop, a dazed startled face and a gloom aura"
+  },
+  {
+    "name": "リップを塗りすぎたマグカップ",
+    "prompt_en": "a mug embarrassed by a thick lipstick smudge on its rim, a sheepish blush and a sweat drop"
+  },
+  {
+    "name": "袋を二重にされた一個のおにぎり",
+    "prompt_en": "a single rice ball swimming awkwardly in two oversized plastic bags, a tiny lost face and a sweat drop"
+  },
+  {
+    "name": "ドアの隙間に消えた小銭",
+    "prompt_en": "a coin rolling tragically into an impossible gap under a door, a despairing face and a vanishing motion line"
+  },
+  {
+    "name": "賞味期限を信じすぎた冷蔵庫の奥",
+    "prompt_en": "the dark back of a fridge hiding a long-forgotten mystery container, an ominous shadowy face and a faint stink wisp"
+  },
+  {
+    "name": "ガチャを回しすぎた財布の悲鳴",
+    "prompt_en": "a wallet screaming as coins drain into a capsule-toy machine, a horrified gaping face and flying coins"
+  },
+  {
+    "name": "傘を差したまま屋内に入った人",
+    "prompt_en": "a clueless penguin obliviously holding an open umbrella indoors, a carefree face and a sweat drop"
+  },
+  {
+    "name": "前の人に続いて押した不要な階",
+    "prompt_en": "an elevator panel lit with a floor nobody wanted, a sheepish guilty face and a sweat drop"
+  },
+  {
+    "name": "袋の口を結べないコンビニ袋",
+    "prompt_en": "a plastic bag struggling helplessly to tie its own handles, a flustered face and fumbling motion lines"
+  },
+  {
+    "name": "テストの裏面に気づかなかった鉛筆",
+    "prompt_en": "a pencil aghast at discovering an unanswered second page of a test, a horrified face and a big sweat drop"
+  },
+  {
+    "name": "蓋を開けた瞬間に折れたプリン",
+    "prompt_en": "a pudding collapsing the moment its lid is peeled off, a despairing face and a sad slump motion line"
+  },
+  {
+    "name": "領収書の宛名を間違えたペン",
+    "prompt_en": "a pen wincing after misspelling a name on a receipt, a guilty face, a sweat drop and a crossed-out scribble"
+  },
+  {
+    "name": "湯気で曇った眼鏡のラーメン",
+    "prompt_en": "a pair of glasses completely fogged white over a steaming bowl of ramen, a blinded helpless face and steam swirls"
+  },
+  {
+    "name": "シャンプー中に聞こえた気がする呼び鈴",
+    "prompt_en": "a doorbell ringing as faint shower steam drifts by, an unsure listening face, a question mark and a tense pause"
+  },
+  {
+    "name": "改札に弾かれた定期券",
+    "prompt_en": "a commuter pass bouncing back from a beeping ticket gate, a startled rejected face and an X symbol"
+  },
+  {
+    "name": "片手がふさがってる時に鳴る鼻",
+    "prompt_en": "a sea otter with both paws full and an unbearably itchy nose, a tortured scrunched face and an itch symbol"
+  },
+  {
+    "name": "立てかけた傘が必ず倒れる壁",
+    "prompt_en": "a wall sighing as a leaned umbrella slides down and clatters yet again, a tired resigned face and a sweat drop"
+  },
+  {
+    "name": "封を切れない真空パック",
+    "prompt_en": "a vacuum-sealed pack defiantly resisting every tear attempt, a smug grin while hands strain, effort lines"
+  },
+  {
+    "name": "残り1問で時間切れの答案",
+    "prompt_en": "a test sheet panicking with one question left and no time, a horrified face, sweat drops and a ticking symbol"
+  },
+  {
+    "name": "電池の向きを間違え続けるリモコン",
+    "prompt_en": "a remote control baffled by repeatedly reversed batteries, a confused face, a question mark and a sweat drop"
+  },
+  {
+    "name": "セール品を持ってレジで値段に驚く客",
+    "prompt_en": "a shopping cart stunned at a checkout when the discount did not apply, a shocked gaping face and a sweat drop"
+  },
+  {
+    "name": "袖をまくっても落ちてくる長袖",
+    "prompt_en": "a long sleeve stubbornly sliding back down a rolled-up arm, an exasperated face and a droop motion line"
+  },
+  {
+    "name": "ドアノブにひっかかったポケット",
+    "prompt_en": "a pocket yanked open after snagging on a doorknob, a startled stretched face and a tug motion line"
+  },
+  {
+    "name": "炊飯予約を炊き忘れに気づいた朝",
+    "prompt_en": "a rice cooker revealing an empty pot to a hungry morning, a sheepish guilty face and a sweat drop"
+  },
+  {
+    "name": "信号待ちで足がつった自転車乗り",
+    "prompt_en": "a bicycle wincing with a sudden cramp at a red light, a pained scrunched face and a throb symbol"
+  },
+  {
+    "name": "コードが家具の裏で絡まる掃除機",
+    "prompt_en": "a vacuum cleaner tangled hopelessly behind heavy furniture, a strained stuck face and tug motion lines"
+  },
+  {
+    "name": "袋から出した瞬間に落とすポテチ",
+    "prompt_en": "a potato chip slipping from the bag straight to the floor, a despairing face and a falling motion line"
+  },
+  {
+    "name": "傘の水滴で滑った床のヒヤリ",
+    "prompt_en": "a floor tile flinching as someone slips on umbrella drips, an alarmed face and a slip motion swoosh"
+  },
+  {
+    "name": "おつりを受け取り損ねた手のひら",
+    "prompt_en": "a hand fumbling as coins scatter and bounce across a counter, a flustered face and scattering motion lines"
+  },
+  {
+    "name": "レンジで温めすぎて固まったチーズ",
+    "prompt_en": "a slice of cheese fused rock-hard after overheating, a stiff dismayed face and faint smoke wisps"
+  },
+  {
+    "name": "二日連続で同じ服を着た朝",
+    "prompt_en": "a shirt sheepishly worn two days in a row sniffing itself, a guilty wincing face and a tiny stink wisp"
+  },
+  {
+    "name": "コップの水を倒したノートPC",
+    "prompt_en": "a laptop screaming in horror as a tipped cup of water rushes toward it, a panicked face and a splash motion line"
+  },
+  {
+    "name": "レジで小銭が見つからない財布",
+    "prompt_en": "a wallet frantically digging for exact change at a register, a desperate face and rummaging motion lines"
+  },
+  {
+    "name": "ストッキングが伝線した瞬間",
+    "prompt_en": "a stocking gasping as a run streaks down its leg, a horrified face and a sharp ladder line"
+  },
+  {
+    "name": "改札で前の人が止まって衝突",
+    "prompt_en": "two bags colliding as one abruptly halts at a ticket gate, startled faces and impact stars"
+  },
+  {
+    "name": "湯沸かし中に来客が来たやかん",
+    "prompt_en": "a kettle whistling frantically as a doorbell rings at the same moment, a torn panicked face and steam burst"
+  },
+  {
+    "name": "靴の中に小石が入ったハイカー",
+    "prompt_en": "a hiking boot hopping in annoyance at a pebble rattling inside, an irritated face and a hop motion line"
+  },
+  {
+    "name": "袋の角で指を切った封筒",
+    "prompt_en": "an envelope wincing as its sharp edge gives a paper cut, a guilty face and a tiny ouch symbol"
+  },
+  {
+    "name": "二度押ししてしまった送信ボタン",
+    "prompt_en": "a send button cringing after firing a message twice, a sheepish face and two whoosh motion lines"
+  },
+  {
+    "name": "麺をすすって汁が跳ねたシャツ",
+    "prompt_en": "a shirt dodging a splash of broth flung from slurped noodles, an alarmed face and splatter motion lines"
+  },
+  {
+    "name": "歩道で正面衝突を避けきれない二人",
+    "prompt_en": "two penguins awkwardly mirroring each other on a narrow path, flustered faces and zigzag motion lines"
+  },
+  {
+    "name": "レンジのチン後にまだ冷たい中心",
+    "prompt_en": "a microwaved meal steaming outside but stubbornly cold in the center, a half-disappointed face and a cold-spot symbol"
+  },
+  {
+    "name": "傘を畳むタイミングが分からない人",
+    "prompt_en": "a hesitant penguin holding an umbrella at a doorway unsure when to fold it, an unsure face, a question mark and a sweat drop"
+  },
+  {
+    "name": "出がけに見つからない片方の鍵",
+    "prompt_en": "a hand searching frantically for a single missing house key, a desperate face and rummaging motion lines"
+  },
+  {
+    "name": "デトックスを信じすぎた急須",
+    "prompt_en": "a teapot with a blissful smug self-satisfied closed-eye face surrounded by floating green leaf symbols and sparkles, a faint glowing health halo and a tiny green juice beside it"
+  },
+  {
+    "name": "占いを言い訳にする目覚まし",
+    "prompt_en": "an alarm clock blaming a bad horoscope for oversleeping, a sheepish shrugging face and a tiny star-sign card"
+  },
+  {
+    "name": "パワースポット巡りに疲れた地図",
+    "prompt_en": "a map exhausted and covered in spiritual power-spot stickers, a worn droopy face and a sweat drop"
+  },
+  {
+    "name": "陰謀論にハマったアルミホイル",
+    "prompt_en": "a roll of aluminum foil shaped into a conspiracy tinfoil hat, a wide paranoid face and darting suspicious eyes"
+  },
+  {
+    "name": "腸活に目覚めたヨーグルト",
+    "prompt_en": "a yogurt cup flexing proudly championing gut health, a confident grin and a healthy glow sparkle"
+  },
+  {
+    "name": "水素水を信仰するコップ",
+    "prompt_en": "a glass of water glowing with reverent faith in its bubbles, a worshipful awed face and a halo of sparkles"
+  },
+  {
+    "name": "断食3時間で限界の胃袋",
+    "prompt_en": "a cartoon stomach collapsing dramatically after only three hours of fasting, a starving teary face and a grumble symbol"
+  },
+  {
+    "name": "星座占いで一喜一憂する電卓",
+    "prompt_en": "a calculator anxiously checking its daily zodiac forecast, a tense hopeful face and a tiny star-sign card"
+  },
+  {
+    "name": "オーラが見えると言い張る懐中電灯",
+    "prompt_en": "a flashlight insisting it can see everyone's mystical aura, a smug confident face and a beam of swirly glow"
+  },
+  {
+    "name": "サプリを大量に飲む豆",
+    "prompt_en": "a bean surrounded by towering bottles of supplement pills, a determined overwhelmed face and a sweat drop"
+  },
+  {
+    "name": "風水で家具を動かし続ける部屋",
+    "prompt_en": "a room endlessly rearranging its own furniture for good feng shui, a fussy obsessive face and shuffle motion lines"
+  },
+  {
+    "name": "ヨガで体が固まったホース",
+    "prompt_en": "a garden hose twisted into a yoga pose and unable to undo it, a strained stuck face and a sweat drop"
+  },
+  {
+    "name": "デジタルデトックス中のスマホ",
+    "prompt_en": "a smartphone meditating in a basket attempting a digital detox, a forced-calm face twitching with a sweat drop"
+  },
+  {
+    "name": "占い師に転職した招き猫",
+    "prompt_en": "a lucky cat figurine in a fortune-teller turban reading tarot cards, a mysterious confident face and mystic sparkles"
+  },
+  {
+    "name": "健康診断にビビる揚げ物",
+    "prompt_en": "a piece of fried food trembling before a health-checkup chart, a terrified guilty face and big sweat drops"
+  },
+  {
+    "name": "瞑想アプリに課金した座布団",
+    "prompt_en": "a meditation cushion buying premium features on a calm app, a serene-yet-sheepish face and a coin sparkle"
+  },
+  {
+    "name": "陰謀を語りたがる電波時計",
+    "prompt_en": "a radio clock leaning in eagerly to whisper wild conspiracy theories, a paranoid grin and darting eyes"
+  },
+  {
+    "name": "炭水化物を断てない食パン",
+    "prompt_en": "a loaf of bread guiltily failing a low-carb diet, a sheepish caught face and a sweat drop"
+  },
+  {
+    "name": "パワーストーンを集めすぎた砂利",
+    "prompt_en": "a pile of gravel hoarding glittering power crystals, a greedy delighted face and gem sparkles"
+  },
+  {
+    "name": "歩数を稼ぐためだけに歩く靴",
+    "prompt_en": "a shoe pacing in tiny pointless circles just to hit a step goal, a determined deadpan face and a step counter"
+  },
+  {
+    "name": "好転反応を信じる湿布",
+    "prompt_en": "a medicinal patch insisting the pain means it is working, a confident grin while wincing and a sweat drop"
+  },
+  {
+    "name": "白湯にこだわるやかん",
+    "prompt_en": "a kettle proudly serving plain hot water as a wellness ritual, a smug refined face and a delicate steam wisp"
+  },
+  {
+    "name": "ジム通いを3日でやめた鏡",
+    "prompt_en": "a gym mirror sighing as a quitter abandons it on day three, a disappointed droopy face and a sweat drop"
+  },
+  {
+    "name": "オーガニックを名乗る雑草",
+    "prompt_en": "a roadside weed proudly labeled certified organic, a smug confident face and a fresh green sparkle"
+  },
+  {
+    "name": "デトックスで逆に疲れたスムージー",
+    "prompt_en": "a green smoothie looking more exhausted than detoxed, a drained droopy face and a wilted little leaf"
+  },
+  {
+    "name": "占いの結果を3つハシゴする手帳",
+    "prompt_en": "a planner cross-checking three contradictory fortune readings, a confused face and three clashing star-sign cards"
+  },
+  {
+    "name": "瞑想中にいびきをかく仏像",
+    "prompt_en": "a buddha statue snoring loudly mid-meditation, a blissful sleeping face and a big snot snore bubble"
+  },
+  {
+    "name": "サウナで整いすぎた湯たんぽ",
+    "prompt_en": "a hot water bottle blissed out to a dazed daze after a sauna, a floaty euphoric face and steam swirls"
+  },
+  {
+    "name": "腹筋を3回で諦めたマット",
+    "prompt_en": "an exercise mat watching a workout give up after three sit-ups, a deadpan unimpressed face and a sweat drop"
+  },
+  {
+    "name": "陰謀論を否定する別の陰謀論",
+    "prompt_en": "two tinfoil-hat figures arguing over rival conspiracy theories, heated paranoid faces and clashing motion lines"
+  },
+  {
+    "name": "プロテインに依存したダンベル",
+    "prompt_en": "a dumbbell clutching a protein shaker like a security blanket, a needy clingy face and a sweat drop"
+  },
+  {
+    "name": "占いを信じて会社を休んだ椅子",
+    "prompt_en": "an empty office chair beside a horoscope reading stay-home-today, a smug relaxed slump and a tiny star card"
+  },
+  {
+    "name": "酵素ドリンクを過信したジョウロ",
+    "prompt_en": "a watering can fervently devoted to a trendy enzyme drink, a starry-eyed believer face and a fizzy sparkle"
+  },
+  {
+    "name": "睡眠の質を測りすぎて眠れない枕",
+    "prompt_en": "a pillow wide awake obsessively tracking its own sleep score, a frazzled face and a glowing sleep-graph symbol"
+  },
+  {
+    "name": "パワースポットになりたい電柱",
+    "prompt_en": "a utility pole wrapping itself in sacred rope to feel spiritual, an earnest hopeful face and a faint aura sparkle"
+  },
+  {
+    "name": "糖質オフを諦めたドーナツ",
+    "prompt_en": "a donut shrugging and abandoning its sugar-free resolution, a guilty relieved grin and a sweat drop"
+  },
+  {
+    "name": "マインドフルネスに失敗した蛇口",
+    "prompt_en": "a faucet dripping anxiously unable to be present in the moment, a restless distracted face and a sweat drop"
+  },
+  {
+    "name": "血液型占いを信じる注射器",
+    "prompt_en": "a syringe earnestly consulting a blood-type personality chart, a curious focused face and a tiny chart"
+  },
+  {
+    "name": "ファスティング中に夢で食べた冷蔵庫",
+    "prompt_en": "a fasting refrigerator dreaming longingly of a feast, a drooling sleepy face and a floating food dream bubble"
+  },
+  {
+    "name": "ヨガマットの上で寝る犬",
+    "prompt_en": "a dog napping flat on a yoga mat instead of exercising, a content snoozing face and a sleep bubble"
+  },
+  {
+    "name": "デトックスティーを売りつける急須",
+    "prompt_en": "a teapot aggressively marketing a miracle detox tea, a pushy salesman grin and a flashy sparkle"
+  },
+  {
+    "name": "毎朝白湯を飲む意識高い湯のみ",
+    "prompt_en": "a teacup smugly sipping warm water as a morning ritual, a self-important refined face and a delicate steam wisp"
+  },
+  {
+    "name": "占いアプリの通知に縛られた時計",
+    "prompt_en": "a clock overwhelmed by constant daily-fortune notifications, a frazzled face and many buzzing star-card symbols"
+  },
+  {
+    "name": "整体でボキボキ鳴った扇子",
+    "prompt_en": "a folding fan being cracked and adjusted as if at a chiropractor by an unseen force, a wincing relieved face and crack snap symbols"
+  },
+  {
+    "name": "腸内環境を語りすぎる納豆",
+    "prompt_en": "a natto bean lecturing endlessly about gut flora, a passionate know-it-all face, a pointer and sticky threads"
+  },
+  {
+    "name": "パワーナップに失敗した枕",
+    "prompt_en": "a pillow groggy and grumpy after a power nap ran too long, a disheveled cranky face and heavy eye bags"
+  },
+  {
+    "name": "陰謀を疑って月を観察する望遠鏡",
+    "prompt_en": "a telescope suspiciously surveilling the moon for secrets, a narrow paranoid eye and darting suspicion lines"
+  },
+  {
+    "name": "炭酸断ちに耐える冷蔵庫",
+    "prompt_en": "a refrigerator resisting the urge to chill a soda, sweating with a strained tempted face and a willpower aura"
+  },
+  {
+    "name": "占いで運命の相手を待つコンセント",
+    "prompt_en": "a wall socket waiting for the destined plug foretold by a fortune, a hopeful dreamy face and floating hearts"
+  },
+  {
+    "name": "健康器具になった物干し竿",
+    "prompt_en": "a laundry pole repurposed as a dubious home fitness device, a proud confident face and a sweat-drop of doubt"
+  },
+  {
+    "name": "瞑想の呼吸が荒い空気清浄機",
+    "prompt_en": "an air purifier breathing heavily while trying to meditate, a strained focused face and big puff motion lines"
+  },
+  {
+    "name": "デトックスで全部出し切った絞り器",
+    "prompt_en": "a juicer utterly wrung out after an extreme detox session, a drained hollow face and a final drip"
+  },
+  {
+    "name": "占いの大吉を額に飾る神社",
+    "prompt_en": "a tiny shrine proudly framing a great-luck fortune slip, a beaming joyful face and celebratory sparkles"
+  },
+  {
+    "name": "ローカーボを諦めた炊飯器",
+    "prompt_en": "a rice cooker happily abandoning its low-carb diet, a relieved guilty grin, steam and a sweat drop"
+  },
+  {
+    "name": "波動が高いと自称する風鈴",
+    "prompt_en": "a wind chime smugly claiming very high vibrations, a self-important serene face and shimmering sparkles"
+  },
+  {
+    "name": "万歩計を振って歩数を盛る手首",
+    "prompt_en": "a wrist shaking a pedometer to fake extra steps, a sneaky guilty grin and shake motion lines"
+  },
+  {
+    "name": "オートファジーを信じて空腹な胃",
+    "prompt_en": "an empty stomach rumbling but proud of its fasting science, a hungry yet smug face and a grumble symbol"
+  },
+  {
+    "name": "ヒーリング音楽を流しすぎたスピーカー",
+    "prompt_en": "a speaker drowsy from endless looping healing sounds, a half-asleep mellow face and soft floating note-free sparkles"
+  },
+  {
+    "name": "占いに背中を押された臆病な扉",
+    "prompt_en": "a timid door finally swinging open emboldened by a lucky reading, a brave teary face and a determined sparkle"
+  },
+  {
+    "name": "断捨離しすぎて空っぽの押入れ",
+    "prompt_en": "a closet completely empty after an extreme decluttering spree, a hollow echoing face and a lonely dust mote"
+  },
+  {
+    "name": "スピリチュアルに目覚めた電子レンジ",
+    "prompt_en": "a microwave glowing with newfound spiritual enlightenment, a serene awakened face and a soft mystic halo"
+  },
+  {
+    "name": "サプリの定期便に追われる郵便受け",
+    "prompt_en": "a mailbox buried under a flood of supplement subscription boxes, an overwhelmed face and a sweat drop"
+  },
+  {
+    "name": "ヨガで真似できないポーズの定規",
+    "prompt_en": "a rigid ruler failing to bend into a yoga pose, a strained frustrated face and a stiff snap line"
+  },
+  {
+    "name": "陰謀論をデバンクする別の陰謀論者",
+    "prompt_en": "a potato in a tinfoil hat debunking another tinfoil-hat potato with its own wild theory, a smug paranoid grin and a pointer"
+  },
+  {
+    "name": "糖質を見ると震える血糖値計",
+    "prompt_en": "a glucose meter trembling at the sight of a slice of cake, a horrified face, sweat drops and a spiking number"
+  },
+  {
+    "name": "整いを求めて水風呂に挑む氷",
+    "prompt_en": "an ice cube bravely plunging into a cold bath for that sauna high, a determined gritted face and a splash"
+  },
+  {
+    "name": "デトックスうたう怪しいランプ",
+    "prompt_en": "a suspicious salt lamp advertising dubious detox benefits, a shady salesman grin and a faint sketchy glow"
+  },
+  {
+    "name": "占いで休業を決めた自販機",
+    "prompt_en": "a vending machine closed for the day on astrological advice, a serene closed-shop face and a tiny star card"
+  },
+  {
+    "name": "ジム着だけ揃えた運動しない人",
+    "prompt_en": "a chubby cat decked in pristine gym wear never working out, a smug posing face and a lazy sweat-free shine"
+  },
+  {
+    "name": "腹八分目を守れない大皿",
+    "prompt_en": "a large plate piled sky-high ignoring the eat-until-80-percent rule, a gleeful greedy face and a sweat drop"
+  },
+  {
+    "name": "瞑想の最中にスマホを見た僧侶",
+    "prompt_en": "a round pebble in monk robes sneaking a guilty glance at a glowing phone mid-meditation, a sheepish face and a sweat drop"
+  },
+  {
+    "name": "波動を測る怪しい振り子",
+    "prompt_en": "a dowsing pendulum swinging dramatically to read vibrations, a mystic confident face and swirly aura lines"
+  },
+  {
+    "name": "健康のために階段を選んで後悔した足",
+    "prompt_en": "a leg regretting taking the stairs halfway up a tall building, a wheezing exhausted face and big sweat drops"
+  },
+  {
+    "name": "デトックスサラダに飽きたフォーク",
+    "prompt_en": "a fork sighing over yet another bland detox salad, a bored unenthused face and a droopy leaf"
+  },
+  {
+    "name": "占い特集を録画しすぎたレコーダー",
+    "prompt_en": "a recorder overflowing with saved fortune-telling shows, a stuffed strained face and a full-storage symbol"
+  },
+  {
+    "name": "白湯を高級だと言い張るボトル",
+    "prompt_en": "a water bottle marketing plain warm water as a luxury elixir, a pretentious smug face and a fake-fancy sparkle"
+  },
+  {
+    "name": "禁酒3日目で揺らぐ栓抜き",
+    "prompt_en": "a bottle opener wavering on day three of a no-drinking vow, a tempted trembling face and a sweat drop"
+  },
+  {
+    "name": "パワースポットで充電する充電器",
+    "prompt_en": "a phone charger plugged into a sacred shrine for spiritual energy, a hopeful serene face and a faint glow"
+  },
+  {
+    "name": "陰謀論を信じる古いラジオ",
+    "prompt_en": "an old radio crackling out earnest conspiracy broadcasts, a paranoid intense face and static motion lines"
+  },
+  {
+    "name": "ストレッチで攣ったゴムひも",
+    "prompt_en": "an elastic cord cramping painfully mid-stretch, a scrunched pained face and a sharp throb symbol"
+  },
+  {
+    "name": "デトックス効果を盛るパンフレット",
+    "prompt_en": "a glossy brochure wildly exaggerating its detox claims, a sleazy boastful face and overblown sparkles"
+  },
+  {
+    "name": "おみくじを引き直し続ける参拝者",
+    "prompt_en": "a determined monkey repeatedly drawing fortune slips until getting a good one, a stubborn face and a pile of slips"
+  },
+  {
+    "name": "糖質制限を破った深夜の冷蔵庫",
+    "prompt_en": "a refrigerator glowing guiltily during a late-night carb raid, a sneaky sheepish face and a sweat drop"
+  },
+  {
+    "name": "波長が合うと喜ぶ二つの音叉",
+    "prompt_en": "two tuning forks vibrating happily in perfect resonance, delighted synced faces and harmonious sparkles"
+  },
+  {
+    "name": "健康グッズに埋もれた棚",
+    "prompt_en": "a shelf collapsing under a hoard of gimmicky wellness gadgets, a buried strained face and a sweat drop"
+  },
+  {
+    "name": "瞑想を3秒で諦めた猫",
+    "prompt_en": "a cat abandoning meditation after three seconds to chase a fly, a distracted pouncing face and a buzz line"
+  },
+  {
+    "name": "オーラ写真を撮りたがるカメラ",
+    "prompt_en": "a camera eagerly trying to photograph an invisible aura, an excited focused face and a swirly glow it imagines"
+  },
+  {
+    "name": "ファスティング後にドカ食いした皿",
+    "prompt_en": "a plate piled sky-high after a fast ends in a binge, a gleeful gluttonous face and a sweat drop"
+  },
+  {
+    "name": "占いに人生を委ねた方位磁石",
+    "prompt_en": "a compass spinning toward a fortune teller instead of north, a devoted starry-eyed face and swirly lines"
+  },
+  {
+    "name": "整体で背筋が伸びすぎた定規",
+    "prompt_en": "a ruler stretched suspiciously straight after a back adjustment, a stiff startled face and a crack symbol"
+  },
+  {
+    "name": "デトックスを名乗る普通の水",
+    "prompt_en": "an ordinary glass of water with a fancy detox label slapped on, a smug pretending face and a fake sparkle"
+  },
+  {
+    "name": "ヨガの呼吸法に失敗した風船",
+    "prompt_en": "a balloon hyperventilating while attempting yogic breathing, a dizzy over-inflated face and puff motion lines"
+  },
+  {
+    "name": "サプリで全部解決すると信じる薬箱",
+    "prompt_en": "a pill box convinced supplements can fix every problem, an overconfident grin and pill sparkles"
+  },
+  {
+    "name": "占いを信じて宝くじを買った財布",
+    "prompt_en": "a wallet emptied buying lottery tickets on a lucky-day reading, a hopeful then drained face and a sweat drop"
+  },
+  {
+    "name": "陰謀の証拠を貼りすぎた壁",
+    "prompt_en": "a wall covered in red string and pinned conspiracy clippings, a manic obsessive face peeking through"
+  },
+  {
+    "name": "健康のために始めた朝活で寝坊",
+    "prompt_en": "a sleepy hamster who overslept its early-bird routine, a guilty drowsy face and a zzz puff"
+  },
+  {
+    "name": "デトックスに疲れて結局寝た布団",
+    "prompt_en": "a futon cozily swallowing a tired wellness enthusiast who gave up, a content sleepy face and a sleep bubble"
+  },
+  {
+    "name": "オーディションに落ち続ける大根",
+    "prompt_en": "a daikon radish clutching a rejection slip outside an audition room, a teary dejected face and a gloom aura"
+  },
+  {
+    "name": "解散ライブで号泣する三本のネギ",
+    "prompt_en": "three green onions sobbing together at a farewell concert, gushing tears, trembling faces and a spotlight"
+  },
+  {
+    "name": "ピッチャー返しを食らった案山子",
+    "prompt_en": "a scarecrow knocked backward by a line-drive baseball, a dazed face, impact stars and tumble motion lines"
+  },
+  {
+    "name": "個展がガラガラの落書き",
+    "prompt_en": "a crude doodle hanging in an empty art gallery, a lonely awkward face and a faint echoing gloom"
+  },
+  {
+    "name": "売れる前から偉そうな卵",
+    "prompt_en": "an egg acting like a superstar despite zero fame, a smug diva face, sunglasses and a self-important sparkle"
+  },
+  {
+    "name": "リハーサルだけ完璧な舞台俳優の靴",
+    "prompt_en": "a stage shoe nailing rehearsal but freezing stiff on opening night, a panicked face and big sweat drops"
+  },
+  {
+    "name": "マラソンを5km地点で諦めたゼッケン",
+    "prompt_en": "a race bib lying down exhausted at the five-kilometer mark, a spent droopy face and a sweat puddle"
+  },
+  {
+    "name": "デビューが30年遅れたアイドル豆",
+    "prompt_en": "an elderly wrinkled bean finally debuting as an idol decades too late, a hopeful posing face and faded sparkles"
+  },
+  {
+    "name": "ソロ活動を始めた箸の片方",
+    "prompt_en": "a single chopstick striking out on a solo career, a brave determined face and a tiny spotlight sparkle"
+  },
+  {
+    "name": "舞台で台詞を飛ばした湯のみ",
+    "prompt_en": "a teacup frozen on stage having forgotten its lines, a blank panicked face, sweat drops and a spotlight"
+  },
+  {
+    "name": "金メダルを噛んで歯が欠けた選手",
+    "prompt_en": "a dog athlete wincing after biting a gold medal too hard, a pained face, a chipped tooth and a sweat drop"
+  },
+  {
+    "name": "観客が一人だけのコンサート",
+    "prompt_en": "a tiny singing canary on a stage performing to a single bored snail, a brave forced grin and an awkward sweat drop"
+  },
+  {
+    "name": "リフティング3回で天狗になった豆",
+    "prompt_en": "a bean strutting cockily after juggling a ball just three times, an overproud grin and a smug sparkle"
+  },
+  {
+    "name": "オーケストラで一拍ずれるトライアングル",
+    "prompt_en": "a triangle instrument clanging one beat behind the orchestra, a sheepish off-timing face and a sweat drop"
+  },
+  {
+    "name": "夢を追って上京した田舎の蛙",
+    "prompt_en": "a country frog with a suitcase arriving wide-eyed in a big city, a hopeful starry-eyed face and a tiny bindle"
+  },
+  {
+    "name": "サインを求められて緊張する消しゴム",
+    "prompt_en": "an eraser sweating nervously while clutching an autograph book held out to it, a flustered shy face and big sweat drops"
+  },
+  {
+    "name": "ピアノの発表会で固まった軍手",
+    "prompt_en": "a work glove frozen stiff over piano keys at a recital, a panicked blank face, sweat drops and a spotlight"
+  },
+  {
+    "name": "ドラフト外の球児のグローブ",
+    "prompt_en": "a baseball glove slumped in disappointment after going undrafted, a dejected droopy face and a gloom aura"
+  },
+  {
+    "name": "アカペラで音を外す合唱の豆",
+    "prompt_en": "a row of beans singing a cappella with one wildly off-key, a sheepish wincing face and wobbly sound lines"
+  },
+  {
+    "name": "演技派を気取る棒読みの案山子",
+    "prompt_en": "a scarecrow posing as a serious actor but reading lines flatly, a stiff deadpan face and a sweat drop"
+  },
+  {
+    "name": "メダルより参加賞が好きな亀",
+    "prompt_en": "a turtle proudly preferring a participation ribbon over a medal, a content satisfied grin and a tiny sparkle"
+  },
+  {
+    "name": "ギターを始めて3日のタコ",
+    "prompt_en": "an octopus fumbling a guitar with all its arms after three days, a struggling determined face and tangled motion lines"
+  },
+  {
+    "name": "舞台袖で出番を待ちすぎた大道具",
+    "prompt_en": "a stage prop dozing off while waiting endlessly in the wings, a bored sleepy face and a zzz puff"
+  },
+  {
+    "name": "全国大会で緊張に負けたけん玉",
+    "prompt_en": "a kendama toy trembling and dropping its ball at nationals, a panicked face, sweat drops and a falling ball"
+  },
+  {
+    "name": "個性を出しすぎたバックダンサー",
+    "prompt_en": "a dancing mushroom wildly upstaging the main act with an over-the-top grin, a flamboyant pose and burst motion lines"
+  },
+  {
+    "name": "売名行為がバレた招き猫",
+    "prompt_en": "a lucky cat caught red-handed in a transparent publicity stunt, a guilty forced grin and a big sweat drop"
+  },
+  {
+    "name": "リズムに乗れない真面目なメトロノーム",
+    "prompt_en": "a metronome stiffly failing to groove to a funky beat, an earnest rigid face and off-beat wobble lines"
+  },
+  {
+    "name": "炎の特殊効果を浴びすぎた花火",
+    "prompt_en": "a firework singed by an overdone pyrotechnic stage effect, a soot-covered dazed face and faint smoke wisps"
+  },
+  {
+    "name": "観客のサクラがバレた劇団",
+    "prompt_en": "a troupe of vegetables exposed for planting cardboard cutout fans, guilty sweating faces and a caught sweat drop"
+  },
+  {
+    "name": "リレーでバトンを落とした手",
+    "prompt_en": "a hand fumbling and dropping a relay baton mid-race, a horrified face and a clattering motion line"
+  },
+  {
+    "name": "前衛芸術を自称する床のシミ",
+    "prompt_en": "a floor stain framed and presented as avant-garde art, a smug pretentious face and a tiny beret"
+  },
+  {
+    "name": "アンコールが来なかったマイク",
+    "prompt_en": "a microphone waiting alone on a dark stage for an encore that never comes, a lonely hopeful-then-sad face"
+  },
+  {
+    "name": "舞台でカツラがずれた王様",
+    "prompt_en": "a red apple wearing a crown on stage with its tiny wig slipping askew, a mortified frozen face and a big sweat drop"
+  },
+  {
+    "name": "競技かるたで手が震える札",
+    "prompt_en": "a playing card trembling as a fierce karuta match begins, a tense nervous face and quivering motion lines"
+  },
+  {
+    "name": "オーディション会場を間違えた豆腐",
+    "prompt_en": "a block of tofu showing up at the totally wrong audition hall, a confused embarrassed face and a sweat drop"
+  },
+  {
+    "name": "ソロデビューしたバックコーラスの缶",
+    "prompt_en": "a tin can stepping up from backup chorus to a solo spotlight, a nervous excited face and a bright spotlight"
+  },
+  {
+    "name": "演奏中に弦が切れたバイオリン",
+    "prompt_en": "a violin gasping as a string snaps mid-performance, a shocked face and a sprung curled string"
+  },
+  {
+    "name": "ベンチを温め続ける補欠のミトン",
+    "prompt_en": "an oven mitt warming the bench never getting to play, a wistful bored face and a small sigh puff"
+  },
+  {
+    "name": "個展の値札だけ高い水たまり",
+    "prompt_en": "a puddle exhibited as art with an absurdly high price tag, a smug pretentious reflection and a sparkle"
+  },
+  {
+    "name": "緊張で踊りが棒になった案山子",
+    "prompt_en": "a scarecrow stiff as a board during its big dance number, a panicked rigid face, sweat drops and a spotlight"
+  },
+  {
+    "name": "予選敗退を実況する自分のラジオ",
+    "prompt_en": "a radio gloomily narrating its own first-round elimination, a deadpan dejected face and static lines"
+  },
+  {
+    "name": "ファンレターを自分で書く梅干し",
+    "prompt_en": "a pickled plum secretly writing itself fan mail, a sneaky lonely grin and a sweat drop"
+  },
+  {
+    "name": "決勝で足がもつれたスニーカー",
+    "prompt_en": "a sneaker tripping over itself in a championship final, a flailing panicked face and stumble motion lines"
+  },
+  {
+    "name": "美術館で寝てる警備員ロボ",
+    "prompt_en": "a security robot dozing on duty in a quiet art museum, a drooping powered-down face and a zzz puff"
+  },
+  {
+    "name": "リサイタルで猫が乱入したピアノ",
+    "prompt_en": "a grand piano startled as a cat leaps onto its keys mid-recital, a shocked face and chaotic key motion lines"
+  },
+  {
+    "name": "金管楽器なのに音が出ないラッパ",
+    "prompt_en": "a trumpet puffing red-faced but producing no sound, a straining bursting face, sweat drops and a silent puff"
+  },
+  {
+    "name": "観客席で寝落ちした座布団",
+    "prompt_en": "a seat cushion fast asleep during a long performance, a slumped snoozing face and a sleep bubble"
+  },
+  {
+    "name": "リフティング世界記録を自称する豆",
+    "prompt_en": "a bean boasting an unverified ball-juggling world record, a smug confident grin and a dubious sparkle"
+  },
+  {
+    "name": "幕が下りる前に帰る大道具係",
+    "prompt_en": "a stagehand sneaking out before the final curtain falls, a tiptoeing sheepish face and quiet motion lines"
+  },
+  {
+    "name": "デッサンが崩壊したマネキン",
+    "prompt_en": "a mannequin posing for a wildly distorted figure drawing, an awkward stiff pose and a sweat drop nearby"
+  },
+  {
+    "name": "緊張で球が手につかない卓球の玉",
+    "prompt_en": "a ping pong ball bouncing nervously out of control at a match, a panicked face and erratic bounce lines"
+  },
+  {
+    "name": "アンサンブルから浮くソロのカスタネット",
+    "prompt_en": "a castanet clacking far too loudly drowning out the ensemble, a clueless cheerful face and loud burst lines"
+  },
+  {
+    "name": "舞台度胸だけはある豆腐役者",
+    "prompt_en": "a tofu actor brimming with stage confidence but no talent, a bold grin under a spotlight and a tiny sweat drop"
+  },
+  {
+    "name": "ハーフタイムで力尽きたチアの旗",
+    "prompt_en": "a cheer flag drooping utterly exhausted by halftime, a spent panting face and a sweat drop"
+  },
+  {
+    "name": "絵筆を折って引退宣言した画家ロボ",
+    "prompt_en": "a painter robot dramatically snapping its own brush in retirement, a teary resolute face and a snap symbol"
+  },
+  {
+    "name": "リレーのアンカーで抜かれた靴下",
+    "prompt_en": "a sock losing the lead as anchor on the final relay leg, a straining desperate face and rushing motion lines"
+  },
+  {
+    "name": "拍手のタイミングを間違えた手袋",
+    "prompt_en": "a glove clapping awkwardly at the wrong moment in a concert, a mortified face and a lonely clap symbol"
+  },
+  {
+    "name": "オペラを諦めて演歌に転向したやかん",
+    "prompt_en": "a kettle switching from opera to belting a heartfelt folk ballad, an emotional singing face, steam and music sparkles"
+  },
+  {
+    "name": "ゴール直前で転んだマラソンの靴",
+    "prompt_en": "a running shoe tripping just steps before the finish line, a despairing flailing face and tumble motion lines"
+  },
+  {
+    "name": "個展に自分しか来なかった筆",
+    "prompt_en": "a paintbrush hosting a solo show attended only by itself, a lonely awkward face in an empty room"
+  },
+  {
+    "name": "出番直前にトイレに行きたい主役",
+    "prompt_en": "a frog lead actor squirming with an urgent bathroom need before curtain, a desperate face and sweat drops"
+  },
+  {
+    "name": "三冠を狙って全部二位の馬の置物",
+    "prompt_en": "a horse figurine clutching three silver medals never first, a bittersweet proud-yet-frustrated face and a sweat drop"
+  },
+  {
+    "name": "リズムゲームで全部ミスする太鼓",
+    "prompt_en": "a taiko drum flubbing every beat in a rhythm game, a flustered face and a row of miss symbols"
+  },
+  {
+    "name": "舞台で小道具を壊した不器用な手",
+    "prompt_en": "a clumsy hand accidentally snapping a stage prop in two, a horrified face, a snap symbol and a sweat drop"
+  },
+  {
+    "name": "観客のあくびに傷ついた漫談家の扇子",
+    "prompt_en": "a comedian's folding fan deflating at a heckling silence, a wounded crestfallen face and a gloom aura"
+  },
+  {
+    "name": "決め技が不発に終わったレスラーの靴",
+    "prompt_en": "a wrestling boot whiffing its signature finishing move, an off-balance embarrassed face and a swoosh miss line"
+  },
+  {
+    "name": "額縁だけ立派な落書き",
+    "prompt_en": "a childish scribble inside an absurdly ornate grand frame, a sheepish out-of-place face and a sweat drop"
+  },
+  {
+    "name": "声変わり中の合唱団のリコーダー",
+    "prompt_en": "a recorder cracking and squeaking mid-chorus, a strained embarrassed face and a jagged sound line"
+  },
+  {
+    "name": "ベストを尽くして惨敗した豆",
+    "prompt_en": "a bean giving its all yet losing spectacularly, still smiling bravely through tears and a sweat drop"
+  },
+  {
+    "name": "メイクが濃すぎた舞台のかぼちゃ",
+    "prompt_en": "a pumpkin caked in heavy stage makeup under bright lights, an overdone garish face and a shine sparkle"
+  },
+  {
+    "name": "リハ室から出てこない引きこもりのギター",
+    "prompt_en": "a guitar refusing to leave the rehearsal room from stage fright, a timid hiding face and a sweat drop"
+  },
+  {
+    "name": "観客より緊張してる司会の湯のみ",
+    "prompt_en": "a teacup hosting an event trembling with stage fright, a sweating nervous face and big sweat drops"
+  },
+  {
+    "name": "競泳でコースを間違えたアヒル",
+    "prompt_en": "a rubber duck swimming confidently in the totally wrong race lane, an oblivious grin and splash motion lines"
+  },
+  {
+    "name": "夢を語るだけで動かない置物",
+    "prompt_en": "a figurine endlessly talking about dreams but never acting, a starry-eyed face and a floating dream bubble"
+  },
+  {
+    "name": "サインの練習だけ完璧な無名の豆",
+    "prompt_en": "an unknown bean with a flawless practiced autograph nobody wants, a hopeful face and a lonely sweat drop"
+  },
+  {
+    "name": "アンコールに応えすぎて疲れたドラム",
+    "prompt_en": "a drum exhausted from playing too many encores, a spent panting face, sweat drops and a faint spotlight"
+  },
+  {
+    "name": "予選で力尽きた一輪車",
+    "prompt_en": "a unicycle wobbling to a stop spent in the qualifying round, a dizzy exhausted face and wobble motion lines"
+  },
+  {
+    "name": "彫刻のつもりが粘土に戻った像",
+    "prompt_en": "a half-finished sculpture slumping back into a shapeless lump of clay, a melting dismayed face and droop lines"
+  },
+  {
+    "name": "客席で携帯が鳴った演奏会のフルート",
+    "prompt_en": "a flute glaring sharply as a phone rings during a quiet concert, an annoyed face and an anger-vein symbol"
+  },
+  {
+    "name": "全力疾走で靴が脱げた短距離走者",
+    "prompt_en": "a rabbit sprinter losing a shoe mid full-speed dash, a startled flailing face and a flying shoe motion line"
+  },
+  {
+    "name": "拍手喝采を妄想する練習中のピアノ",
+    "prompt_en": "a practicing piano daydreaming of a roaring standing ovation, a blissful face and floating applause sparkles"
+  },
+  {
+    "name": "金賞より賞状の紙質を気にする筆",
+    "prompt_en": "a brush more concerned with the certificate's paper quality than the prize, a fussy inspecting face and a sparkle"
+  },
+  {
+    "name": "舞台裏で衣装を着間違えた俳優",
+    "prompt_en": "a fox actor backstage panicking in the completely wrong costume, a horrified face and big sweat drops"
+  },
+  {
+    "name": "決勝で緊張しすぎて固まったコマ",
+    "prompt_en": "a spinning top freezing solid with nerves at the finals, a rigid panicked face and a frozen wobble line"
+  },
+  {
+    "name": "美術評論家を気取る単なる落ち葉",
+    "prompt_en": "a fallen leaf posing as a pretentious art critic with a monocle, a snobby smug face and a tiny chin-stroke"
+  },
+  {
+    "name": "ソロパートで咳き込んだ合唱の梅",
+    "prompt_en": "a plum coughing loudly right during its solo chorus part, a flustered hacking face and a cough puff"
+  },
+  {
+    "name": "観客にいじられる前説の豆",
+    "prompt_en": "a warm-up-act bean getting heckled, a flustered sweating face and floating teasing symbols"
+  },
+  {
+    "name": "リレーで全員にバトンを渡せない手",
+    "prompt_en": "a hand fumbling to pass a baton to a teammate just out of reach, a straining desperate face and a stretch line"
+  },
+  {
+    "name": "個展で値下げ交渉される彫刻",
+    "prompt_en": "an abstract sculpture looking indignant at a low haggled price tag, an offended huffy face and an anger-vein"
+  },
+  {
+    "name": "本番で機材トラブルのDJ亀",
+    "prompt_en": "a turtle dj panicking over equipment failure mid-set, a frazzled face, sweat drops and a spark from the gear"
+  },
+  {
+    "name": "金メダルを家で忘れた選手",
+    "prompt_en": "a cat athlete patting empty pockets having left its gold medal at home, a horrified realizing face and a sweat drop"
+  },
+  {
+    "name": "演技中に素に戻った仮面",
+    "prompt_en": "a theater mask slipping to reveal an awkward real face behind it, a caught sheepish expression and a sweat drop"
+  },
+  {
+    "name": "ベンチで栄養補給しすぎた補欠豆",
+    "prompt_en": "a substitute bean too stuffed with snacks to play, a bloated guilty face and a sweat drop"
+  },
+  {
+    "name": "デビュー曲が壮大すぎた鈴虫",
+    "prompt_en": "a tiny cricket releasing an absurdly epic grand debut single, a dramatic passionate face and burst sparkles"
+  },
+  {
+    "name": "拍手を要求するスベった芸人キノコ",
+    "prompt_en": "a mushroom comedian demanding applause after a flat joke, a forced grin, crickets silence and a sweat drop"
+  },
+  {
+    "name": "舞台で照明を独り占めする端役",
+    "prompt_en": "a small mushroom bit-player hogging the spotlight, a greedy grin basking in the beam and a sweat drop nearby"
+  },
+  {
+    "name": "完走メダルだけ集める万年最下位",
+    "prompt_en": "a perpetual last-place tortoise proudly collecting finisher medals, a content tired grin and a small sparkle"
+  },
+  {
+    "name": "リハ後に自信を失った主演の卵",
+    "prompt_en": "a lead-role egg deflating with self-doubt after a rough rehearsal, a crestfallen face and a gloom aura"
+  },
+  {
+    "name": "方向音痴の渡り鳥",
+    "prompt_en": "a migrating bird flying in confused loops holding an upside-down map, a baffled face and swirly path lines"
+  },
+  {
+    "name": "出勤拒否する朝日",
+    "prompt_en": "a sunrise hiding behind a hill refusing to come up for work, a grumpy reluctant face peeking out and a sweat drop"
+  },
+  {
+    "name": "渋滞の原因になった鴨の行列",
+    "prompt_en": "a line of ducks proudly waddling across a road causing a long traffic jam, oblivious smug faces and honk symbols"
+  },
+  {
+    "name": "高所恐怖症の山",
+    "prompt_en": "a mountain trembling and clutching itself terrified of its own height, a fearful face peeking down and sweat drops"
+  },
+  {
+    "name": "予報を外し続ける自信家の雲",
+    "prompt_en": "a cloud confidently predicting sun while pouring rain, a smug oblivious face and a downpour beneath it"
+  },
+  {
+    "name": "電池切れの蛍",
+    "prompt_en": "a firefly with a dying flickering glow holding a tiny dead battery, a faint exhausted face and a sweat drop"
+  },
+  {
+    "name": "緊急発進に寝坊した消防車",
+    "prompt_en": "a fire truck yawning and stretching late to an emergency, a drowsy guilty face and a slow siren symbol"
+  },
+  {
+    "name": "曲がりたくない頑固な川",
+    "prompt_en": "a river stubbornly flowing dead straight refusing to bend, a defiant frowning face and an anger-vein symbol"
+  },
+  {
+    "name": "渋滞で哲学を始めたバス",
+    "prompt_en": "a bus stuck in traffic gazing pensively into the distance, a contemplative faraway face and a thought bubble"
+  },
+  {
+    "name": "潮の満ち引きをサボる海",
+    "prompt_en": "an ocean lounging lazily neglecting to make its tides, a slack bored face and a yawn puff over flat water"
+  },
+  {
+    "name": "右折だけできない方向音痴の車",
+    "prompt_en": "a car circling endlessly unable to make a right turn, a frustrated dizzy face and looping motion lines"
+  },
+  {
+    "name": "落雷をためらう小心者の雲",
+    "prompt_en": "a cloud hesitating timidly too nervous to release lightning, a sheepish face holding a tiny bolt and a sweat drop"
+  },
+  {
+    "name": "営業時間外の虹",
+    "prompt_en": "a rainbow holding a closed sign off duty after the rain, a tired clocking-out face and a faint dimming arc"
+  },
+  {
+    "name": "登りたくない太陽",
+    "prompt_en": "a sun clinging to the horizon dreading another day of rising, a reluctant droopy face and a sweat drop"
+  },
+  {
+    "name": "脱線したがるおもちゃの電車",
+    "prompt_en": "a toy train mischievously leaning off its tracks, a cheeky grin and tilting motion lines"
+  },
+  {
+    "name": "渋すぎる演技の枯れ葉",
+    "prompt_en": "a dry leaf performing an overly dramatic slow-motion fall, a theatrically pained face and lingering drift lines"
+  },
+  {
+    "name": "満員で乗れない最終便のUFO",
+    "prompt_en": "a packed ufo leaving a stranded little alien behind at the last departure, a desperate reaching face and a sweat drop"
+  },
+  {
+    "name": "潮干狩りで掘られすぎた砂浜",
+    "prompt_en": "a beach pockmarked with countless clam-digging holes, an exhausted riddled face and a sweat drop"
+  },
+  {
+    "name": "信号無視する野良の風",
+    "prompt_en": "a gust of wind blowing cheekily right through a red traffic signal, a mischievous swirly face and motion lines"
+  },
+  {
+    "name": "出発をためらう新幹線",
+    "prompt_en": "a bullet train fidgeting nervously at the platform reluctant to leave, an anxious face and a sweat drop"
+  },
+  {
+    "name": "影が本体を追い越した正午",
+    "prompt_en": "a traffic cone startled as its own shadow strolls ahead of it, a shocked face and a sneaky grinning shadow"
+  },
+  {
+    "name": "霜が降りすぎて化粧が濃い朝",
+    "prompt_en": "a morning field caked in heavy frost like overdone makeup, a stiff over-powdered face and sparkly frost"
+  },
+  {
+    "name": "上りたくないエスカレーター",
+    "prompt_en": "an escalator stubbornly running downward against the flow, a defiant grumpy face and an anger-vein symbol"
+  },
+  {
+    "name": "迷子になった台風",
+    "prompt_en": "a small typhoon spinning in confused circles over an empty map, a baffled dizzy face and a question mark"
+  },
+  {
+    "name": "錆びて引退を考える線路",
+    "prompt_en": "a rusty railroad track pondering early retirement, a weary nostalgic face and faint rust flakes"
+  },
+  {
+    "name": "海に飽きた灯台",
+    "prompt_en": "a lighthouse sighing bored of staring at the same endless sea, a half-lidded weary face and a sigh puff"
+  },
+  {
+    "name": "渋滞を見守る暇な歩道橋",
+    "prompt_en": "a pedestrian bridge idly watching a traffic jam below, a bored deadpan face and a yawn puff"
+  },
+  {
+    "name": "満潮を3分で諦めた波",
+    "prompt_en": "a wave retreating quickly giving up on reaching the shore, a defeated droopy crest face and a sweat drop"
+  },
+  {
+    "name": "クラクションが恥ずかしい軽自動車",
+    "prompt_en": "a tiny car blushing at its own squeaky little horn, an embarrassed face and a faint meek honk symbol"
+  },
+  {
+    "name": "星座になりたい三つの石",
+    "prompt_en": "three pebbles arranging themselves into a hopeful little constellation, eager dreamy faces and twinkle sparkles"
+  },
+  {
+    "name": "発車ベルに焦るホーム",
+    "prompt_en": "a train platform panicking as the departure bell rings, a flustered face, sweat drops and alarm motion lines"
+  },
+  {
+    "name": "曇りすぎて自分を見失った空",
+    "prompt_en": "a sky so overcast it cannot tell where it ends, a vague hazy lost face and a faint question mark"
+  },
+  {
+    "name": "Uターンを繰り返す迷子の船",
+    "prompt_en": "a little boat making endless u-turns hopelessly lost at sea, a baffled face and looping wake motion lines"
+  },
+  {
+    "name": "落ちる練習をする滝",
+    "prompt_en": "a waterfall nervously practicing how to fall properly, an anxious focused face and tentative drip lines"
+  },
+  {
+    "name": "渋滞にイライラする救急車",
+    "prompt_en": "an ambulance fuming and tapping its wheels in gridlock, an irritated face, an anger-vein and a stuck siren symbol"
+  },
+  {
+    "name": "公転をサボりたい地球儀",
+    "prompt_en": "a desk globe slumping wishing it could skip its spin, a lazy reluctant face and a sigh puff"
+  },
+  {
+    "name": "霧で道に迷った街灯",
+    "prompt_en": "a street lamp disoriented in thick fog unsure where it stands, a worried squinting face and a faint dim glow"
+  },
+  {
+    "name": "出航をためらうフェリー",
+    "prompt_en": "a ferry boat dawdling at the dock reluctant to set sail, a hesitant nervous face and a sweat drop"
+  },
+  {
+    "name": "潮風にやられた自販機",
+    "prompt_en": "a seaside vending machine rusted and weary from salty air, a worn droopy face and faint rust flakes"
+  },
+  {
+    "name": "踏切でずっと待たされる軽トラ",
+    "prompt_en": "a tiny pickup truck sighing at an endlessly closed railway crossing, a bored impatient face and a sigh puff"
+  },
+  {
+    "name": "観覧車のてっぺんで止まった勇気",
+    "prompt_en": "a ferris wheel cabin stuck at the very top, a passenger gulping nervously with a pale face and big sweat drops"
+  },
+  {
+    "name": "渋滞を生むカーブミラー",
+    "prompt_en": "a curved road mirror reflecting an ominously long line of cars, a sheepish guilty face and a sweat drop"
+  },
+  {
+    "name": "夜更かしして寝坊した月",
+    "prompt_en": "a moon oversleeping past dawn still hanging in the bright sky, a drowsy guilty face and a zzz puff"
+  },
+  {
+    "name": "迷走して陸に上がった台風",
+    "prompt_en": "a confused typhoon awkwardly drifting over dry land, a lost embarrassed face and a question mark"
+  },
+  {
+    "name": "出口のない立体駐車場",
+    "prompt_en": "a multi-story parking garage twisting into an impossible maze, a dizzy tangled face and confused arrows"
+  },
+  {
+    "name": "潮目を読み間違えた釣り船",
+    "prompt_en": "a fishing boat anchored proudly over a totally empty patch of sea, a confident-then-puzzled face and a sweat drop"
+  },
+  {
+    "name": "渡れずに引き返す横断歩道の人",
+    "prompt_en": "a duck retreating from a crosswalk as the timer hits zero, a flustered turning-back face and a sweat drop"
+  },
+  {
+    "name": "錨が重すぎて動けない船",
+    "prompt_en": "a boat straining helplessly against an absurdly oversized anchor, a strained red face and effort motion lines"
+  },
+  {
+    "name": "霜柱を踏み割る通学路",
+    "prompt_en": "a school path crunching with frost columns underfoot, a crisp satisfied face and tiny crackle sparkles"
+  },
+  {
+    "name": "ガス欠で峠に取り残された車",
+    "prompt_en": "a car stranded out of gas at a lonely mountain pass, a defeated droopy face and an empty-gauge symbol"
+  },
+  {
+    "name": "雷を怖がる雷雲",
+    "prompt_en": "a thundercloud cowering and covering its ears at its own thunder, a terrified face and big sweat drops"
+  },
+  {
+    "name": "干潮で取り残された浮き輪",
+    "prompt_en": "an inflatable ring beached awkwardly on exposed low-tide sand, a stranded sheepish face and a sweat drop"
+  },
+  {
+    "name": "渋滞情報に詳しすぎるカーナビ",
+    "prompt_en": "a car navigation device gleefully reporting every traffic jam, an overly chatty know-it-all face and map sparkles"
+  },
+  {
+    "name": "夜景になりきれない団地",
+    "prompt_en": "an apartment block with only one window lit trying to be a glittering skyline, a hopeful modest face and one sparkle"
+  },
+  {
+    "name": "発光をケチる蛍光灯",
+    "prompt_en": "a fluorescent tube flickering stingily rationing its light, a tight-fisted grumpy face and a faint blink"
+  },
+  {
+    "name": "潮干狩りに飽きた熊手",
+    "prompt_en": "a clam rake lying down bored of digging the beach, a deadpan tired face and a sweat drop"
+  },
+  {
+    "name": "進入禁止を無視する落ち葉",
+    "prompt_en": "a fallen leaf drifting cheekily past a do-not-enter sign, a sly carefree face and a drift motion line"
+  },
+  {
+    "name": "霧雨かどうか分からない空",
+    "prompt_en": "a sky unsure whether its faint mist counts as rain, a puzzled hazy face, a question mark and a few tiny drops"
+  },
+  {
+    "name": "出発を10分遅らせた寝坊助バス",
+    "prompt_en": "a bus rolling out late rubbing its sleepy headlights, a drowsy guilty face and a yawn puff"
+  },
+  {
+    "name": "立ちっぱなしで疲れた電柱",
+    "prompt_en": "a utility pole slumping wearily after standing for decades, an exhausted droopy face and a creak symbol"
+  },
+  {
+    "name": "渋滞の最後尾でぼやくスクーター",
+    "prompt_en": "a scooter grumbling at the very back of a long traffic line, an annoyed muttering face and an anger-vein"
+  },
+  {
+    "name": "海の家を畳むのが寂しい浮き輪",
+    "prompt_en": "an inflatable ring teary as a beach hut closes for the season, a wistful sad face and a gloom aura"
+  },
+  {
+    "name": "迷子の伝書鳩",
+    "prompt_en": "a messenger pigeon scratching its head over a smudged address note, a confused face and a question mark"
+  },
+  {
+    "name": "錆びすぎて開かない踏切",
+    "prompt_en": "a railway crossing gate jammed shut by thick rust, a strained stuck face, rust flakes and effort motion lines"
+  },
+  {
+    "name": "曇り予報を裏切る快晴",
+    "prompt_en": "a brilliant blue sky smugly defying a cloudy forecast, a triumphant grinning sun face and bright sparkles"
+  },
+  {
+    "name": "登坂に挫折した三輪車",
+    "prompt_en": "a tricycle giving up partway up a steep hill, a panting defeated face and slipping-back motion lines"
+  },
+  {
+    "name": "夜空を独占したい一番星",
+    "prompt_en": "a single bright star trying to outshine the whole night sky, a competitive smug face and an intense glow"
+  },
+  {
+    "name": "潮の香りに酔った浜辺の傘",
+    "prompt_en": "a beach umbrella swaying woozily drunk on the sea breeze, a dazed blissful face and wobble motion lines"
+  },
+  {
+    "name": "発進に失敗し続けるエンスト車",
+    "prompt_en": "a car repeatedly stalling and lurching at a green light, a frustrated jerking face, sweat drops and stutter lines"
+  },
+  {
+    "name": "霜で固まった洗濯物",
+    "prompt_en": "laundry frozen stiff as boards on a frosty clothesline, rigid surprised faces and tiny ice sparkles"
+  },
+  {
+    "name": "迷路みたいな地下街",
+    "prompt_en": "an underground shopping arcade twisting into a baffling maze, a dizzy disoriented face and confused arrows"
+  },
+  {
+    "name": "波に乗れないサーフボード",
+    "prompt_en": "a surfboard sitting glumly on flat waveless water, a bored disappointed face and a tiny ripple"
+  },
+  {
+    "name": "雷雨を予言して外したカエル",
+    "prompt_en": "a weather frog smugly predicting a storm under clear sunny skies, a confident-then-embarrassed face and a sweat drop"
+  },
+  {
+    "name": "回送中で乗せてくれない電車",
+    "prompt_en": "an out-of-service train zooming past hopeful waiting commuters, an aloof face and a brush-off motion line"
+  },
+  {
+    "name": "干上がった川のヌシ",
+    "prompt_en": "a river-guardian fish flopping helplessly in a nearly dried-up streambed, a distressed gasping face and a sweat drop"
+  },
+  {
+    "name": "夜だけ元気な街灯",
+    "prompt_en": "a street lamp lively and beaming at night but exhausted by day, a split energetic-and-drained face"
+  },
+  {
+    "name": "渋滞でお弁当を食べ始めた運転手",
+    "prompt_en": "a car calmly eating a bento box during a long traffic jam, a relaxed content face and tiny chopsticks"
+  },
+  {
+    "name": "上りと下りを間違えた階段",
+    "prompt_en": "a staircase tangled having confused its up and down directions, a dizzy knotted face and confused arrows"
+  },
+  {
+    "name": "波打ち際で迷うヤドカリ",
+    "prompt_en": "a hermit crab dithering over which way to scuttle at the surf line, an indecisive face and a question mark"
+  },
+  {
+    "name": "ブレーキをかけ忘れた坂道の樽",
+    "prompt_en": "a barrel rolling away down a hill forgetting to brake, a panicked spinning face and speed motion lines"
+  },
+  {
+    "name": "曇天に紛れたい灰色の鳩",
+    "prompt_en": "a gray pigeon camouflaging smugly against an overcast sky, a sly self-satisfied face and a faint blend glow"
+  },
+  {
+    "name": "出口で詰まる回転ドア",
+    "prompt_en": "a revolving door jammed with too many bags and boxes squeezing in at once, a strained stuck face and squeeze motion lines"
+  },
+  {
+    "name": "潮位を測り間違えた防波堤",
+    "prompt_en": "a breakwater splashed over after misjudging the tide, a soaked startled face and a big splash"
+  },
+  {
+    "name": "迷子放送される遊園地の風船",
+    "prompt_en": "a lost balloon being paged over an amusement-park announcement, a sheepish floating face and a speaker symbol"
+  },
+  {
+    "name": "霜焼けになった門松",
+    "prompt_en": "a new-year pine decoration with frostbitten reddened tips, a chilly wincing face and tiny ice sparkles"
+  },
+  {
+    "name": "信号が青でも動かない頑固な牛",
+    "prompt_en": "a stubborn cow refusing to cross even on a green light, a defiant unbothered face and an anger-vein behind it"
+  },
+  {
+    "name": "暴風で裏返った看板",
+    "prompt_en": "a shop sign flipped completely backward by a strong gust, a dizzy upside-down face and wind motion lines"
+  },
+  {
+    "name": "海開きを待ちきれない浮き輪",
+    "prompt_en": "an inflatable ring bouncing with excitement before beach season opens, a giddy grin and eager bounce lines"
+  },
+  {
+    "name": "渋滞アプリに監視される高速道路",
+    "prompt_en": "a highway nervously watched by countless little traffic-app eyes, an uneasy self-conscious face and a sweat drop"
+  },
+  {
+    "name": "夜行性に憧れる向日葵",
+    "prompt_en": "a sunflower struggling to stay awake at night to be nocturnal, a drowsy determined face and a zzz it fights off"
+  },
+  {
+    "name": "迷走した結果いい感じの川",
+    "prompt_en": "a river that wandered aimlessly but carved a surprisingly scenic bend, a pleasantly surprised face and sparkles"
+  },
+  {
+    "name": "発車間際に走り込む駅弁",
+    "prompt_en": "a boxed station lunch sprinting to catch a departing train, a frantic dashing face and rushing motion lines"
+  },
+  {
+    "name": "風向きに振り回される風見鶏",
+    "prompt_en": "a weathervane rooster spun dizzy by erratic shifting winds, a swirly-eyed dazed face and spin motion lines"
+  },
+  {
+    "name": "登山者に道を聞かれた道標",
+    "prompt_en": "a trail signpost flustered when a lost dog asks it for directions, a sweating unsure face and a question mark"
+  },
+  {
+    "name": "潮だまりで王様気取りのカニ",
+    "prompt_en": "a crab lording over a tiny tide pool like a king, a pompous puffed-up face and a tiny imaginary crown"
+  },
+  {
+    "name": "霧が晴れて気まずい二つの山",
+    "prompt_en": "two mountains awkwardly facing each other as the fog clears, sheepish surprised faces and a sweat drop"
+  },
+  {
+    "name": "ブーメランになって戻る不満",
+    "prompt_en": "a boomerang shaped like a grumble circling back to its thrower, a smug returning face and a curved motion line"
+  },
+  {
+    "name": "終電を逃して途方に暮れる駅",
+    "prompt_en": "a train station standing forlorn and dim after the last train departs, a lonely empty face and a gloom aura"
+  },
+  {
+    "name": "定年まであと3秒の砂時計",
+    "prompt_en": "an hourglass sweating with only three grains of sand left to fall, a tense countdown face and big sweat drops"
+  },
+  {
+    "name": "本気を出すと宣言だけする豆",
+    "prompt_en": "a bean dramatically vowing to get serious while doing absolutely nothing, a fired-up posing face and a lazy sweat drop"
+  },
+  {
+    "name": "賞味期限と戦う最後の納豆",
+    "prompt_en": "a lone natto pack bracing heroically against its looming expiry date, a determined warrior face and sticky threads"
+  },
+  {
+    "name": "通帳を見て真顔になった財布",
+    "prompt_en": "a wallet going stone-faced after glimpsing its bank balance, a blank deadpan stare and a single sweat drop"
+  },
+  {
+    "name": "三日坊主を極めた日記帳",
+    "prompt_en": "a diary proudly displaying only three filled pages ever, a smug ironic grin and a sweat drop"
+  },
+  {
+    "name": "返信を考えすぎて朝になった枕",
+    "prompt_en": "a pillow exhausted at dawn after overthinking one reply all night, heavy eye bags, a frazzled face and a phone glow"
+  },
+  {
+    "name": "やる気はあるが体が無い幽霊",
+    "prompt_en": "an eager ghost flexing with motivation but having no physical body, a fired-up face and a wispy fading lower half"
+  },
+  {
+    "name": "前向きすぎて後ろに倒れた看板",
+    "prompt_en": "a sign leaning so far forward in positivity it topples over backward, a cheerful then startled face and tumble lines"
+  },
+  {
+    "name": "謎の自信に満ちた空っぽの箱",
+    "prompt_en": "an empty cardboard box radiating baseless overflowing confidence, a beaming smug face and a hollow echo inside"
+  },
+  {
+    "name": "存在感を消す訓練中の忍者ネズミ",
+    "prompt_en": "a ninja mouse practicing to vanish but only half-faded and sheepish, a focused face and a partial transparency glow"
+  },
+  {
+    "name": "悩みすぎて湯が冷めた風呂",
+    "prompt_en": "a bathtub gone cold while its overthinking face broods, a pensive frown, a faint dying steam wisp and a gloom aura"
+  },
+  {
+    "name": "正論しか言わない目覚まし",
+    "prompt_en": "an alarm clock smugly stating harsh but undeniable truths, a blunt deadpan face and a tiny lecturing pose"
+  },
+  {
+    "name": "頑張った気になって寝る座布団",
+    "prompt_en": "a cushion dozing off fully satisfied without doing anything, a content lazy grin and a sleep bubble"
+  },
+  {
+    "name": "うっかり名言を吐いた湯のみ",
+    "prompt_en": "a teacup looking surprised after accidentally saying something profound, a wide-eyed face and a sparkle of insight"
+  },
+  {
+    "name": "他人事だと思ってる隣の傘",
+    "prompt_en": "an umbrella casually ignoring a storm as someone else's problem, a detached carefree face while rain pours nearby"
+  },
+  {
+    "name": "意味深に黙る冷蔵庫",
+    "prompt_en": "a refrigerator humming an ominous meaningful silence, a mysterious knowing half-smile and a faint suspenseful aura"
+  },
+  {
+    "name": "全力で何もしない置物",
+    "prompt_en": "a figurine straining with all its might to accomplish absolutely nothing, a comically determined face and effort lines"
+  },
+  {
+    "name": "口だけ達者なホチキス",
+    "prompt_en": "a stapler boasting big talk while jamming uselessly on the first staple, a smug grin cracking into a sweat drop"
+  }
+]

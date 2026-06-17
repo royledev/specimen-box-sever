@@ -1,0 +1,7 @@
+# ローカル開発用シークレット（コピーして .dev.vars を作る。.dev.vars は gitignore 済み）。
+# アプリ識別の共有シークレット（任意）。設定すると /v1/* は X-App-Key 一致を要求する（ADR-0005 §3）。
+# APP_API_KEY=dev-secret-change-me
+
+# ローカル開発用画像配信ベース URL。
+# wrangler dev (:8787) 起動時は /dev/img ルートへ向けると画像バイトが取得できる。
+# IMAGE_CDN_BASE=http://localhost:8787/dev/img
