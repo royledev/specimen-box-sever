@@ -12,6 +12,7 @@
     "seed:prod:questions": "wrangler d1 execute specimen-box-db --remote --file=seeds/prod/questions.sql -c wrangler.prod.jsonc",
     "seed:prod:images": "wrangler d1 execute specimen-box-db --remote --file=seeds/prod/images.sql -c wrangler.prod.jsonc",
     "seed:prod": "npm run seed:prod:questions && npm run seed:prod:images",
+    "upload:prod:images": "bash scripts/upload-prod-images.sh",
     "typecheck": "tsc --noEmit",
     "test": "vitest run",
     "test:watch": "vitest",
